@@ -1,0 +1,39 @@
+table fact_fx_rate
+	lineageTag: c7d10051-1ef0-4ed1-a4b6-35518559e1ef
+
+	column rate_date
+		dataType: dateTime
+		isHidden
+		lineageTag: 886edcf6-ab89-44c6-a3aa-4109c2c272c7
+		sourceColumn: rate_date
+
+	column currency_code
+		dataType: string
+		isHidden
+		lineageTag: f7647456-a220-45a9-8a61-c5df3c1a8008
+		sourceColumn: currency_code
+
+	column units_per_usd
+		dataType: double
+		lineageTag: ace063cb-18b8-4c2b-a650-d4abfefa5141
+		sourceColumn: units_per_usd
+
+	column usd_per_unit
+		dataType: double
+		lineageTag: 85b178f4-c082-4887-953d-60652c21a659
+		sourceColumn: usd_per_unit
+
+	column daily_change_pct
+		dataType: double
+		lineageTag: 3f6815d8-0a10-4d29-93ff-1cb565672605
+		sourceColumn: daily_change_pct
+
+	partition fact_fx_rate = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(SqlServer, SqlDatabase),
+				    Data = Source{[Schema="rpt", Item="fact_fx_rate"]}[Data]
+				in
+				    Data
+

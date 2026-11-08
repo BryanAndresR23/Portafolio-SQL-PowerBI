@@ -1,0 +1,121 @@
+table fact_reconciliation
+	lineageTag: 1861899f-c7fe-48c8-9f95-c5e92d95350f
+
+	column result_id
+		dataType: int64
+		lineageTag: fe206ec8-8292-4866-8682-df18acf9e0f0
+		summarizeBy: none
+		sourceColumn: result_id
+
+	column bank_id
+		dataType: int64
+		isHidden
+		lineageTag: 629a1889-7781-4cb6-8713-7af0c0a5a2d1
+		summarizeBy: none
+		sourceColumn: bank_id
+
+	column currency_code
+		dataType: string
+		isHidden
+		lineageTag: 4cdf8381-9c0a-48a1-93a8-03184d5dff5b
+		sourceColumn: currency_code
+
+	column item_type
+		dataType: string
+		lineageTag: 32385fae-c0e2-4f8e-9d18-7168d9b840b0
+		sourceColumn: item_type
+
+	column payment_id
+		dataType: int64
+		lineageTag: 26353d5b-a79b-4219-8a0b-c7b6a6bea641
+		summarizeBy: none
+		sourceColumn: payment_id
+
+	column statement_line_id
+		dataType: int64
+		lineageTag: 847b3a28-9bc1-4ec8-aaa7-eebd78ae30d7
+		summarizeBy: none
+		sourceColumn: statement_line_id
+
+	column item_date
+		dataType: dateTime
+		isHidden
+		lineageTag: a0d116bf-2d2a-4623-8d72-de1d719d2c1f
+		sourceColumn: item_date
+
+	column ledger_date
+		dataType: dateTime
+		lineageTag: e6dff354-8a27-4e43-a710-75f9188f3ce6
+		sourceColumn: ledger_date
+
+	column statement_date
+		dataType: dateTime
+		lineageTag: 7dc454a3-3304-4a26-a619-0bd145313b24
+		sourceColumn: statement_date
+
+	column ledger_amount
+		dataType: decimal
+		lineageTag: b496faa1-c4a7-444f-98cd-e8d7a5f71517
+		sourceColumn: ledger_amount
+
+	column statement_amount
+		dataType: decimal
+		lineageTag: 9a62d047-4ed6-49cf-9208-affb0f757ae9
+		sourceColumn: statement_amount
+
+	column amount_difference
+		dataType: decimal
+		lineageTag: ada4f5b0-0ce7-4bef-879f-d1d7b082884e
+		sourceColumn: amount_difference
+
+	column days_difference
+		dataType: int64
+		lineageTag: 752bb230-15e9-4f53-a1fc-bcc86e23e5ae
+		summarizeBy: none
+		sourceColumn: days_difference
+
+	column match_rule
+		dataType: string
+		lineageTag: 593f8ffb-3307-4d06-b177-eee843de14f8
+		sourceColumn: match_rule
+
+	column recon_status
+		dataType: string
+		lineageTag: 42c3bef0-7d68-4cce-8748-4027145ea74f
+		sourceColumn: recon_status
+
+	column recon_category
+		dataType: string
+		lineageTag: 29036a44-a21c-41e1-b8f1-93faf604bf38
+		sourceColumn: recon_category
+
+	column item_value_usd
+		dataType: decimal
+		lineageTag: cac260c8-fa7c-4e80-bf57-2c2ca26daba2
+		sourceColumn: item_value_usd
+
+	column difference_usd
+		dataType: decimal
+		lineageTag: 679c71ea-62e9-4896-9e6b-7e9f31187ac1
+		sourceColumn: difference_usd
+
+	column age_days
+		dataType: int64
+		lineageTag: 429be26a-c44d-4863-959f-d303569c599b
+		summarizeBy: none
+		sourceColumn: age_days
+
+	column aging_bucket
+		dataType: string
+		lineageTag: 8a418bc6-719d-4461-bec9-61e7b071f78c
+		sourceColumn: aging_bucket
+
+	partition fact_reconciliation = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(SqlServer, SqlDatabase),
+				    Data = Source{[Schema="rpt", Item="fact_reconciliation"]}[Data]
+				in
+				    Data
+

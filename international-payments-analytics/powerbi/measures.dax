@@ -1,0 +1,211 @@
+// =============================================================================
+// International Payments Analytics - DAX measures
+// -----------------------------------------------------------------------------
+// Model: star schema built from the SQL views in the rpt schema
+//   fact_payment[created_date]   -> dim_date[date]            (active)
+//   fact_payment[settled_date]   -> dim_date[date]            (inactive, USERELATIONSHIP)
+//   fact_payment[customer_id]    -> dim_customer[customer_id]
+//   fact_payment[country_code]   -> dim_country[country_code]
+//   fact_payment[currency_code]  -> dim_currency[currency_code]
+//   fact_payment[channel_id]     -> dim_channel[channel_id]
+//   fact_payment[bank_id]        -> dim_correspondent_bank[bank_id]
+//   fact_reconciliation[item_date]     -> dim_date[date]
+//   fact_reconciliation[bank_id]       -> dim_correspondent_bank[bank_id]
+//   fact_reconciliation[currency_code] -> dim_currency[currency_code]
+//   fact_fx_rate[rate_date]            -> dim_date[date]
+//   fact_fx_rate[currency_code]        -> dim_currency[currency_code]
+// dim_date is marked as the date table. All measures live in a _Measures table.
+// This file is a readable copy; the source of truth is
+// InternationalPayments.SemanticModel/definition/tables/_Measures.tmdl
+// =============================================================================
+
+
+// ----------------------------------------------------------------- Payments --
+Payments =
+COUNTROWS ( fact_payment )
+
+Completed Payments =
+CALCULATE ( [Payments], fact_payment[status] = "Completed" )
+
+Processed Value USD =
+CALCULATE ( SUM ( fact_payment[amount_usd] ), fact_payment[status] = "Completed" )
+
+Average Ticket USD =
+DIVIDE ( [Processed Value USD], [Completed Payments] )
+
+Net Flow USD =
+// + money coming into Ecuador, - money going out
+CALCULATE ( SUM ( fact_payment[net_flow_usd] ), fact_payment[status] = "Completed" )
+
+Active Customers =
+CALCULATE ( DISTINCTCOUNT ( fact_payment[customer_id] ), fact_payment[status] <> "Rejected" )
+
+
+// ------------------------------------------------------------------ Revenue --
+Fee Revenue USD =
+CALCULATE (
+    SUM ( fact_payment[fee_usd] ),
+    fact_payment[status] IN { "Completed", "Returned" }
+)
+
+Effective Fee (bps) =
+VAR _fees  = [Fee Revenue USD]
+VAR _value =
+    CALCULATE (
+        SUM ( fact_payment[amount_usd] ),
+        fact_payment[status] IN { "Completed", "Returned" }
+    )
+RETURN
+    DIVIDE ( _fees, _value ) * 10000
+
+
+// --------------------------------------------------------- Time intelligence --
+Processed Value PY =
+CALCULATE ( [Processed Value USD], SAMEPERIODLASTYEAR ( dim_date[date] ) )
+
+Processed Value YoY % =
+DIVIDE ( [Processed Value USD] - [Processed Value PY], [Processed Value PY] )
+
+Completed Payments PY =
+CALCULATE ( [Completed Payments], SAMEPERIODLASTYEAR ( dim_date[date] ) )
+
+Completed Payments YoY % =
+DIVIDE ( [Completed Payments] - [Completed Payments PY], [Completed Payments PY] )
+
+Fee Revenue PY =
+CALCULATE ( [Fee Revenue USD], SAMEPERIODLASTYEAR ( dim_date[date] ) )
+
+Fee Revenue YoY % =
+DIVIDE ( [Fee Revenue USD] - [Fee Revenue PY], [Fee Revenue PY] )
+
+Fee Revenue YTD =
+TOTALYTD ( [Fee Revenue USD], dim_date[date] )
+
+Fee Revenue PY YTD =
+CALCULATE ( [Fee Revenue YTD], SAMEPERIODLASTYEAR ( dim_date[date] ) )
+
+Completed Payments 3M Avg =
+// average per month over the last three months ending in the current context
+VAR _lastDate = MAX ( dim_date[date] )
+RETURN
+    DIVIDE (
+        CALCULATE ( [Completed Payments], DATESINPERIOD ( dim_date[date], _lastDate, -3, MONTH ) ),
+        3
+    )
+
+Payments Settled (by settlement date) =
+CALCULATE (
+    [Payments],
+    USERELATIONSHIP ( fact_payment[settled_date], dim_date[date] ),
+    NOT ISBLANK ( fact_payment[settled_date] )
+)
+
+
+// --------------------------------------------------------------- Operations --
+Rejected Payments =
+CALCULATE ( [Payments], fact_payment[status] = "Rejected" )
+
+Rejection Rate % =
+// + 0 so a month with no rejections shows 0% instead of a gap in the line
+DIVIDE ( [Rejected Payments] + 0, [Payments] )
+
+Returned Payments =
+CALCULATE ( [Payments], fact_payment[status] = "Returned" )
+
+Return Rate % =
+DIVIDE ( [Returned Payments] + 0, [Payments] )
+
+Settled Payments =
+CALCULATE ( [Payments], NOT ISBLANK ( fact_payment[is_within_sla] ) )
+
+SLA Compliance % =
+// SLA = settled no later than the next business day (T+1)
+DIVIDE ( CALCULATE ( [Payments], fact_payment[is_within_sla] = 1 ), [Settled Payments] )
+
+SLA Target % =
+0.95
+
+SLA Gap (pp) =
+( [SLA Compliance %] - [SLA Target %] ) * 100
+
+Median Processing Hours =
+MEDIAN ( fact_payment[processing_hours] )
+
+SLA Status Color =
+// used for conditional formatting of bars and cards
+SWITCH (
+    TRUE (),
+    ISBLANK ( [SLA Compliance %] ), BLANK (),
+    [SLA Compliance %] >= [SLA Target %], "#2E7D32",
+    [SLA Compliance %] >= 0.85, "#F9A825",
+    "#C62828"
+)
+
+
+// ----------------------------------------------------------- Reconciliation --
+Recon Items =
+COUNTROWS ( fact_reconciliation )
+
+Reconciled Items =
+CALCULATE ( [Recon Items], fact_reconciliation[recon_status] = "Reconciled" )
+
+Auto-Reconciliation Rate % =
+DIVIDE ( [Reconciled Items], [Recon Items] )
+
+Open Exceptions =
+CALCULATE ( [Recon Items], fact_reconciliation[recon_status] = "Exception" )
+
+Open Exceptions Value USD =
+CALCULATE (
+    SUM ( fact_reconciliation[item_value_usd] ),
+    fact_reconciliation[recon_status] = "Exception"
+)
+
+Exceptions Over 30 Days =
+CALCULATE ( [Open Exceptions], fact_reconciliation[age_days] > 30 )
+
+Exceptions Over 30 Days % =
+DIVIDE ( [Exceptions Over 30 Days], [Open Exceptions] )
+
+Net Difference USD =
+SUM ( fact_reconciliation[difference_usd] )
+
+
+// ----------------------------------------------------------------------- FX --
+Avg Rate (units per USD) =
+AVERAGE ( fact_fx_rate[units_per_usd] )
+
+FX Change % (period) =
+// + means the currency weakened against the USD in the selected period
+VAR _firstDate = MIN ( fact_fx_rate[rate_date] )
+VAR _lastDate  = MAX ( fact_fx_rate[rate_date] )
+VAR _first = CALCULATE ( AVERAGE ( fact_fx_rate[units_per_usd] ), fact_fx_rate[rate_date] = _firstDate )
+VAR _last  = CALCULATE ( AVERAGE ( fact_fx_rate[units_per_usd] ), fact_fx_rate[rate_date] = _lastDate )
+RETURN
+    DIVIDE ( _last - _first, _first )
+
+FX Volatility (annualised %) =
+// daily_change_pct is already expressed in percent
+STDEV.S ( fact_fx_rate[daily_change_pct] ) * SQRT ( 252 )
+
+FX Index (start = 100) =
+// units per USD indexed to 100 at the first date of the selected period
+// (lets currencies with very different scales share one chart)
+VAR _firstDate =
+    CALCULATE ( MIN ( fact_fx_rate[rate_date] ), ALLSELECTED ( dim_date ) )
+VAR _base =
+    CALCULATE (
+        AVERAGE ( fact_fx_rate[units_per_usd] ),
+        ALLSELECTED ( dim_date ),
+        fact_fx_rate[rate_date] = _firstDate
+    )
+RETURN
+    DIVIDE ( [Avg Rate (units per USD)], _base ) * 100
+
+
+// ------------------------------------------------------------------- Labels --
+Selected Period =
+VAR _from = MIN ( dim_date[date] )
+VAR _to   = MAX ( dim_date[date] )
+RETURN
+    FORMAT ( _from, "mmm yyyy", "en-US" ) & " - " & FORMAT ( _to, "mmm yyyy", "en-US" )

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Power BI project (.pbip) local files
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+*.pbix.bak
+
+# SQL Server files
+*.bak
+*.mdf
+*.ldf
+
+# OS / editors
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/

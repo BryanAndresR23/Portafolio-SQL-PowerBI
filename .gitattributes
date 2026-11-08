@@ -1,0 +1,8 @@
+# CSV files must keep LF line endings: BULK INSERT uses ROWTERMINATOR = 0x0a
+*.csv  text eol=lf
+*.sql  text eol=crlf
+*.ps1  text eol=crlf
+*.py   text eol=lf
+*.md   text eol=lf
+*.dax  text eol=lf
+*.json text eol=lf

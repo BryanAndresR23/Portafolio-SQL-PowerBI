@@ -1,0 +1,2516 @@
+customer_id,customer_name,customer_type,segment,city,onboarding_date,risk_rating
+C00001,Fernando Erazo Herrera,Individual,Retail,Guayaquil,2017-11-09,Low
+C00002,Javier Zambrano Zambrano,Individual,Retail,Guayaquil,2025-11-02,Low
+C00003,Carmen Zambrano Naranjo,Individual,Retail,Quito,2023-07-27,Low
+C00004,Isabel Reyes Sánchez,Individual,Retail,Machala,2019-01-08,Low
+C00005,Pablo Morales Montenegro,Individual,Retail,Guayaquil,2014-11-17,Medium
+C00006,Camila Torres Sánchez,Individual,Retail,Cuenca,2021-07-19,Low
+C00007,Raúl Ramírez Salazar,Individual,Retail,Guayaquil,2015-02-13,High
+C00008,Valeria Proaño Erazo,Individual,Retail,Machala,2025-08-10,High
+C00009,Daniela Zambrano Espinoza,Individual,Retail,Cuenca,2022-02-15,Low
+C00010,Andrés García Navarrete,Individual,Retail,Guayaquil,2022-12-16,Low
+C00011,Santiago Quiroga Morales,Individual,Retail,Quito,2013-04-15,Low
+C00012,Ricardo Cárdenas Zambrano,Individual,Retail,Guayaquil,2014-06-26,Low
+C00013,Constructora Austral Cía. Ltda.,Company,SME,Guayaquil,2016-08-11,Medium
+C00014,Camaronera Cumbre S.A.,Company,SME,Quito,2018-12-17,Low
+C00015,Isabel Pérez Mendoza,Individual,Retail,Quito,2020-12-14,Low
+C00016,Agrícola Estrella Cía. Ltda.,Company,SME,Ambato,2012-11-16,Low
+C00017,Isabel Torres Ramírez,Individual,Retail,Guayaquil,2025-03-01,Medium
+C00018,Elena Reyes Villacís,Individual,Retail,Cuenca,2024-07-06,Low
+C00019,Luis Ortiz León,Individual,Retail,Cuenca,2013-06-30,Medium
+C00020,Distribuidora Cumbre Cía. Ltda.,Company,SME,Guayaquil,2025-07-20,Low
+C00021,Jorge Suárez Salazar,Individual,Retail,Quito,2012-12-31,Low
+C00022,Entidad Pública Agua 01,Public Entity,Government,Ambato,2019-07-30,Low
+C00023,Mónica Mendoza Zambrano,Individual,Retail,Quito,2015-01-23,Medium
+C00024,Camila Reyes Espinoza,Individual,Retail  ,Cuenca,2017-06-07,Low
+C00025,Corporación del Litoral S.A.,Company,Corporate,Guayaquil,2018-08-06,Medium
+C00026,Andrés Espinoza Andrade,Individual,Retail,Quito,2015-06-11,Low
+C00027,Luis Calderón Morales,Individual,Retail,Cuenca,2023-09-23,Low
+C00028,Jorge Villacís Ramírez,Individual,Retail,Guayaquil,2012-02-08,Low
+C00029,Fernando Ortiz Vásquez,Individual,Retail,Ibarra,2012-08-16,Low
+C00030,Fernando Espinoza Naranjo,Individual,Retail,Manta,2024-04-08,Medium
+C00031,Andrés León Cevallos,Individual,Retail,Cuenca,2016-04-01,Medium
+C00032,Mónica Chávez Guerrero,Individual,Retail,Quito,2014-05-17,Low
+C00033,Mónica Salazar Andrade,Individual,Retail,Cuenca,2018-03-31,Low
+C00034,Importadora Costa Azul Cía. Ltda.,Company,Corporate,Ibarra,2023-03-16,Low
+C00035,Raúl Proaño León,Individual,Retail,Cuenca,2020-09-18,High
+C00036,Diego Sánchez López,Individual,Retail,Riobamba,2019-02-17,Low
+C00037,  Carlos  Sánchez Benítez ,Individual,Retail,Quito,2017-03-19,Low
+C00038,María Naranjo Benítez,Individual,Retail,Guayaquil,2014-10-13,Medium
+C00039,Farmacéutica Los Ríos S.A.S.,Company,Corporate,Guayaquil,2016-07-12,Low
+C00040,Luis Ortiz Erazo,Individual,Retail,Ambato,2025-03-30,Low
+C00041,Verónica Salazar Cevallos,Individual,Retail,Ambato,2018-06-21,Low
+C00042,Valeria Sánchez Ortiz,Individual,Retail,Loja,2013-03-18,Low
+C00043,Paola Naranjo Erazo,Individual,Retail,Guayaquil,2012-02-19,Low
+C00044,Distribuidora del Pacífico S.A.S.,Company,SME,Guayaquil,2024-07-28,Low
+C00045,Andrea Morales Ortiz,Individual,Retail,Ambato,2015-09-06,Low
+C00046,Gabriela Erazo Ortiz,Individual,Retail,Riobamba,2022-01-20,Low
+C00047,Esteban Flores Vásquez,Individual,Retail,Quito,2023-05-02,Low
+C00048,Carmen Castillo Benítez,Individual,Retail,Machala,2021-08-02,Medium
+C00049,Sofía Erazo Calderón,Individual,Retail,Guayaquil,2022-05-26,Low
+C00050,Andrea Erazo Castillo,Individual,Retail,Cuenca,2015-01-24,Low
+C00051,Fernando Andrade Andrade,Individual,Retail,Santo Domingo,2021-01-27,Medium
+C00052,Constructora Mitad del Mundo Cía. Ltda.,Company,corporate,Quito,2013-08-06,Low
+C00053,Lucía Villacís Proaño,Individual,Retail,Quito,2024-12-22,Low
+C00054,Patricia Delgado Villacís,Individual,Retail,Guayaquil,2024-09-09,Low
+C00055,Patricia Benítez Jaramillo,Individual,Retail,Guayaquil,2017-09-14,Low
+C00056,Andrés Andrade Guerrero,Individual,Retail,Quito,2020-08-14,Low
+C00057,Logística Austral S.A.S.,Company,Corporate,Guayaquil,2021-07-28,Low
+C00058,Raúl Villacís Yánez,Individual,Retail,Ambato,2021-03-25,Medium
+C00059,Tecnología Austral S.A.,Company,SME,Guayaquil,2015-03-15,Low
+C00060,Mónica Ramírez Andrade,Individual,Retail,Guayaquil,2025-05-18,Low
+C00061,Pablo Mora Cárdenas,Individual,Retail,Guayaquil,2020-05-27,Low
+C00062,Camila López Suárez,Individual,Retail,Quito,2025-04-06,Low
+C00063,Fernando Delgado López,Individual,Retail,Quito,2025-02-22,Medium
+C00064,Jorge León Flores,Individual,Retail,Guayaquil,2020-06-21,Low
+C00065,José Yánez Ortiz,Individual,Retail,Guayaquil,2013-05-15,High
+C00066,Natalia Cevallos García,Individual,Retail,Quito,2012-02-29,Low
+C00067,Verónica Vega Castillo,Individual,Retail,Ibarra,2019-09-11,Medium
+C00068,Agrícola Puerto Nuevo Cía. Ltda.,Company,Corporate,Loja,2019-12-26,Medium
+C00069,María Reyes Zambrano,Individual,Retail,Machala,2014-10-03,Low
+C00070,Paola Vásquez Montenegro,Individual,Retail,Quito,2022-08-28,Low
+C00071,Comercial Horizonte S.A.,Company,SME,Cuenca,2024-11-29,Low
+C00072,Camila Zambrano Bravo,Individual,Retail,Quito,2019-10-24,Medium
+C00073,Esteban García Villacís,Individual,Retail,Loja,2023-08-31,Medium
+C00074,Héctor Cevallos Herrera,Individual,Retail,Guayaquil,2013-12-14,Low
+C00075,Andrea Reyes León,Individual,Retail,Guayaquil,2017-05-27,Low
+C00076,Camaronera Austral S.A.,Company,corporate,Guayaquil,2012-08-27,Medium
+C00077,Logística Puerto Nuevo Cía. Ltda.,Company,SME,Cuenca,2014-10-05,High
+C00078,Camila Flores Sánchez,Individual,Retail,Ambato,2025-08-12,Low
+C00079,Valeria Villacís Villacís,Individual,Retail,Manta,2025-03-23,Low
+C00080,Lucía Quiroga Flores,Individual,Retail,Ambato,2019-08-19,Medium
+C00081,Lucía Proaño Vásquez,Individual,Retail,Guayaquil,2012-01-14,Low
+C00082,Distribuidora Puerto Nuevo Cía. Ltda.,Company,SME,Manta,2020-03-09,High
+C00083,Diego Mora Erazo,Individual,Retail,Guayaquil,2022-05-01,Medium
+C00084,Industrias Los Ríos Cía. Ltda.,Company,Corporate,Quito,2015-04-22,Low
+C00085,Camaronera del Pacífico S.A.S.,Company,SME,Ibarra,2018-02-18,Medium
+C00086,Esteban Morales Vega,Individual,Retail,Guayaquil,2020-06-12,Medium
+C00087,Exportadora Costa Azul S.A.S.,Company,Corporate,Machala,2016-01-06,Medium
+C00088,Industrias Sierra Norte S.A.,Company,SME,Quito,2019-07-27,Low
+C00089,Javier Zambrano Zambrano,Individual,Retail,Cuenca,2016-05-17,Low
+C00090,Jorge Herrera Salazar,Individual,Retail,Machala,2013-03-19,Low
+C00091,Isabel León Proaño,Individual,Retail,Guayaquil,2015-04-01,Medium
+C00092,Fernando Andrade Vásquez,Individual,Retail,Cuenca,2014-04-15,High
+C00093,Carmen Villacís Chávez,Individual,Retail,Riobamba,2019-12-22,Low
+C00094,Ana Guerrero Suárez,Individual,Retail,Riobamba,2021-09-23,Low
+C00095,Mónica Ortiz Cevallos,Individual,Retail,Cuenca,2015-11-14,Low
+C00096,Constructora Austral Cía. Ltda.,Company,Corporate,Quito,2025-10-27,Low
+C00097,Corporación Mitad del Mundo S.A.,Company,Corporate,Guayaquil,2023-06-07,Low
+C00098,Fabián Castillo Pérez,Individual,Retail,Manta,2014-02-13,Low
+C00099,Esteban Chávez Ramírez,Individual,Retail,Quito,2016-02-23,Low
+C00100,Inversiones Nevado S.A.S.,Company,SME,Quito,2023-11-21,Low
+C00101,Natalia Calderón Guerrero,Individual,Retail,Guayaquil,2014-08-19,Low
+C00102,Gabriela Andrade Navarrete,Individual,Retail,Guayaquil,2019-01-18,Low
+C00103,Daniela León Flores,Individual,Retail,Quito,2014-10-18,Low
+C00104,Textiles Sierra Norte Cía. Ltda.,Company,SME,Guayaquil,2025-11-04,Low
+C00105,Textiles Cordillera S.A.S.,Company,Corporate,Quito,2019-01-07,High
+C00106,Javier Erazo Calderón,Individual,Retail,Cuenca,2014-03-22,Low
+C00107,Luis Mendoza Jaramillo,Individual,Retail,Quito,2025-09-08,Low
+C00108,Industrias del Valle S.A.S.,Company,Corporate,Quito,2013-09-01,Low
+C00109,Andrés Zambrano Reyes,Individual,Retail,Quito,2015-03-19,Low
+C00110,Verónica Mendoza Vásquez,Individual,Retail,Quito,2023-06-21,Low
+C00111,Carmen Salazar Chávez,Individual,Retail,Guayaquil,2018-01-21,Low
+C00112,Textiles Volcán S.A.,Company,SME,Quito,2013-12-29,Low
+C00113,Industrias del Valle S.A.,Company,SME,Quito,2024-08-15,Low
+C00114,Lucía López Mora,Individual,Retail,Quito,2018-11-16,Medium
+C00115,Importadora Bahía Cía. Ltda.,Company,SME,Loja,2014-03-22,Low
+C00116,Santiago López Torres,Individual,Retail,Quito,2023-12-04,Medium
+C00117,Mónica Castillo Yánez,Individual,Retail,Cuenca,2015-06-27,Low
+C00118,Fabián Pérez Delgado,Individual,Retail,Riobamba,2025-10-16,Low
+C00119,Paola Erazo Cárdenas,Individual,Retail,Quito,2025-04-24,Low
+C00120,Elena Mora Naranjo,Individual,Retail,Santo Domingo,2013-12-13,Low
+C00121,Ricardo Flores Flores,Individual,Retail,Guayaquil,2013-04-15,Low
+C00122,Camila Andrade Chávez,Individual,Retail,Quito,2015-01-22,Low
+C00123,Raúl Guerrero Zambrano,Individual,Retail,Cuenca,2024-01-08,Low
+C00124,Constructora Mitad del Mundo S.A.,Company,Corporate,Riobamba,2025-11-08,Medium
+C00125,Diana Erazo Cevallos,Individual,Retail,Loja,2023-09-28,Low
+C00126,Agrícola del Valle S.A.S.,Company,SME,Quito,2013-02-21,Low
+C00127,Patricia Guerrero Sánchez,Individual,Retail,Guayaquil,2014-08-23,Low
+C00128,Juan Morales Andrade,Individual,Retail,Guayaquil,2020-10-29,Low
+C00129,Logística Bahía S.A.,Company,SME,Quito,2024-02-28,Medium
+C00130,Valeria Ramírez Torres,Individual,Retail  ,Loja,2019-11-04,Low
+C00131,Agrícola Andina S.A.,Company,SME,Quito,2015-06-13,High
+C00132,María Jaramillo Paredes,Individual,Retail,Quito,2020-11-12,Low
+C00133,Gabriela Calderón Pérez,Individual,Retail,Guayaquil,2024-06-14,Medium
+C00134,María Torres Mendoza,Individual,Retail,Guayaquil,2018-05-22,Low
+C00135,  Valeria  Cevallos León ,Individual,Retail,Guayaquil,2024-09-29,Low
+C00136,Camila Herrera Salazar,Individual,Retail,Quito,2020-12-19,Medium
+C00137,Santiago Herrera Guerrero,Individual,Retail,Quito,2019-09-20,Medium
+C00138,Paola Delgado Sánchez,Individual,Retail,Quito,2012-03-06,Low
+C00139,Camila Flores Chávez,Individual,Retail,Guayaquil,2017-08-05,Low
+C00140,Juan Ortiz Chávez,Individual,Retail,Cuenca,2014-04-24,Low
+C00141,Gabriela Mendoza Yánez,Individual,Retail,Guayaquil,2020-12-31,High
+C00142,Carmen Chávez Benítez,Individual,Retail,Machala,2014-01-14,Low
+C00143,Textiles Cordillera S.A.S.,Company,Corporate,Guayaquil,2022-09-30,Low
+C00144,Ana Ramírez Guerrero,Individual,Retail,Santo Domingo,2018-04-17,Low
+C00145,Paola Salazar Delgado,Individual,Retail,Guayaquil,2019-03-19,Low
+C00146,Óscar García Chávez,Individual,Retail,Quito,2023-01-07,Low
+C00147,Jorge Andrade Navarrete,Individual,Retail,Ambato,2020-02-08,Low
+C00148,Florícola Mitad del Mundo S.A.,Company,Corporate,Quito,2016-09-16,Low
+C00149,Jorge Herrera Erazo,Individual,Retail,Manta,2025-11-01,Low
+C00150,Marco García Espinoza,Individual,Retail  ,Quito,2025-09-25,Medium
+C00151,Fernando Calderón Jaramillo,Individual,Retail,Loja,2017-08-30,Medium
+C00152,  Tecnología  Nevado Cía. Ltda. ,Company,SME,Cuenca,2025-04-04,Low
+C00153,Elena Espinoza Castillo,Individual,Retail,Guayaquil,2012-06-28,Low
+C00154,Diego Quiroga Cevallos,Individual,Retail,Manta,2024-03-03,Low
+C00155,Mónica Vega Calderón,Individual,Retail,Quito,2023-06-04,Medium
+C00156,Inversiones Cóndor Cía. Ltda.,Company,SME,Guayaquil,2012-01-30,Low
+C00157,María Suárez Reyes,Individual,Retail,Guayaquil,2016-12-09,Low
+C00158,Lucía León Naranjo,Individual,Retail,Guayaquil,2017-05-05,Low
+C00159,Verónica Herrera Pérez,Individual,Retail,Quito,2024-08-03,Low
+C00160,Javier Erazo Vásquez,Individual,Retail,Ambato,2017-12-03,Low
+C00161,Lorena Quiroga Salazar,Individual,Retail,Guayaquil,2019-12-22,High
+C00162,Gabriela Paredes Benítez,Individual,Retail,Ambato,2014-05-21,Low
+C00163,Camaronera del Litoral S.A.S.,Company,Corporate,Quito,2016-12-12,Low
+C00164,Mónica Jaramillo Montenegro,Individual,Retail,Quito,2021-09-24,Medium
+C00165,Rosa Vega López,Individual,Retail,Santo Domingo,2023-01-01,Low
+C00166,Pedro Benítez Ramírez,Individual,Retail,Manta,2015-12-26,Low
+C00167,Fernando Espinoza Jaramillo,Individual,Retail,Guayaquil,2025-02-16,Low
+C00168,María Erazo García,Individual,Retail,Guayaquil,2012-06-18,Low
+C00169,Luis Herrera Ortiz,Individual,Retail,Guayaquil,2025-09-06,High
+C00170,Jorge Calderón Sánchez,Individual,Retail,Guayaquil,2024-03-28,Low
+C00171,Fabián Montenegro León,Individual,Retail,Cuenca,2017-12-31,Low
+C00172,Luis García Calderón,Individual,Retail,Loja,2023-06-22,Low
+C00173,Comercial Los Ríos S.A.,Company,SME,Guayaquil,2018-06-07,Medium
+C00174,Santiago Guerrero Vega,Individual,Retail,Guayaquil,2014-06-21,High
+C00175,Pedro Torres Espinoza,Individual,Retail,Loja,2024-03-27,Low
+C00176,Gabriela Chávez Mora,Individual,Retail,Cuenca,2016-01-25,Low
+C00177,Entidad Pública Agua 02,Public Entity,Government,Quito,2015-03-21,Low
+C00178,Camila Vásquez Paredes,Individual,Retail,Manta,2013-09-17,Medium
+C00179,Carmen Jaramillo Salazar,Individual,Retail,Manta,2022-09-24,Low
+C00180,Elena Pérez Jaramillo,Individual,Retail,Guayaquil,2014-11-10,Low
+C00181,Ricardo Vega Chávez,Individual, RETAIL ,Guayaquil,2019-06-24,Medium
+C00182,Paola Villacís Cárdenas,Individual,Retail,Quito,2023-12-21,Low
+C00183,Miguel Villacís Flores,Individual,Retail,Cuenca,2016-12-01,Low
+C00184,María Morales Benítez,Individual,Retail,Riobamba,2022-08-18,Medium
+C00185,Ana Torres Vásquez,Individual,Retail,Quito,2018-08-11,Medium
+C00186,Andrea Cárdenas Ortiz,Individual,Retail,Guayaquil,2017-01-13,Low
+C00187,Carmen Villacís Benítez,Individual,Retail,Cuenca,2014-05-18,Low
+C00188,  Tecnología  Cóndor S.A. ,Company,SME,Guayaquil,2020-03-11,Low
+C00189,María Proaño Cárdenas,Individual,Retail,Cuenca,2023-10-30,Low
+C00190,Pablo Sánchez Montenegro,Individual,Retail,Guayaquil,2012-04-18,Low
+C00191,Luis Erazo López,Individual,Retail,Santo Domingo,2025-11-27,Low
+C00192,Juan Proaño Suárez,Individual,Retail,Quito,2017-02-05,Low
+C00193,Rosa Mora Villacís,Individual,Retail,Guayaquil,2013-04-03,Low
+C00194,Andrea Erazo Espinoza,Individual,Retail,Quito,2022-07-04,Low
+C00195,Mónica Villacís León,Individual,Retail,Guayaquil,2018-01-20,Low
+C00196,Óscar Sánchez Benítez,Individual,Retail,Quito,2015-08-26,Low
+C00197,Óscar Andrade Ramírez,Individual,Retail,Guayaquil,2024-09-03,High
+C00198,Fabián Cevallos Proaño,Individual,Retail,Guayaquil,2025-05-10,Low
+C00199,Sofía Andrade Torres,Individual,Retail,Ambato,2019-01-20,Medium
+C00200,Diego García Sánchez,Individual,Retail,Guayaquil,2023-04-18,Medium
+C00201,Carmen Benítez Yánez,Individual,Retail,Guayaquil,2024-02-08,Low
+C00202,Corporación Austral S.A.S.,Company,SME,Loja,2017-03-12,Medium
+C00203,Carmen León Suárez,Individual,Retail,Quito,2019-08-28,Low
+C00204,Pedro Vásquez Bravo,Individual,Retail,Guayaquil,2025-03-17,Low
+C00205,Santiago Ortiz Morales,Individual,Retail,Cuenca,2025-08-03,Low
+C00206,María Jaramillo Ramírez,Individual,Retail,Quito,2013-12-15,Low
+C00207,Andrés Quiroga León,Individual,Retail,Guayaquil,2013-08-05,Medium
+C00208,Industrias Cumbre Cía. Ltda.,Company,SME,Cuenca,2021-11-30,Low
+C00209,Lucía Proaño Vega,Individual,Retail,Quito,2014-11-22,Low
+C00210,Florícola Horizonte Cía. Ltda.,Company,Corporate,Quito,2021-04-07,Low
+C00211,Luis Bravo Delgado,Individual,Retail,Guayaquil,2024-01-09,Low
+C00212,Inversiones Sierra Norte S.A.S.,Company,Corporate,Guayaquil,2013-08-20,Medium
+C00213,Camaronera Austral Cía. Ltda.,Company,Corporate,Guayaquil,2025-04-21,Low
+C00214,Jorge Zambrano Chávez,Individual,Retail,Guayaquil,2019-05-16,Low
+C00215,Óscar Vega Morales,Individual,Retail,Quito,2012-11-09,Medium
+C00216,Carmen Morales Salazar,Individual,Retail,Guayaquil,2020-07-12,Medium
+C00217,Elena Castillo Morales,Individual,Retail,Guayaquil,2025-03-09,Low
+C00218,Rosa Jaramillo Espinoza,Individual,Retail,Guayaquil,2013-10-31,Low
+C00219,Pablo Mora Morales,Individual,Retail,Loja,2024-04-04,Low
+C00220,Farmacéutica Cordillera S.A.,Company,SME,Quito,2021-05-26,Low
+C00221,Farmacéutica Sierra Norte S.A.S.,Company,SME,Quito,2012-03-22,Medium
+C00222,Fernando Espinoza Yánez,Individual,Retail,Cuenca,2019-04-06,Medium
+C00223,Ricardo Andrade Jaramillo,Individual,Retail,Guayaquil,2019-02-05,High
+C00224,Pablo Paredes Mora,Individual,Retail,Santo Domingo,2022-02-07,Medium
+C00225,Camaronera Río Verde S.A.S.,Company,SME,Quito,2016-03-17,Low
+C00226,Exportadora Cóndor Cía. Ltda.,Company,Corporate,Riobamba,2016-09-14,High
+C00227,Fabián Andrade Vásquez,Individual,Retail,Manta,2025-05-29,Low
+C00228,Camila Reyes Cárdenas,Individual,Retail,Machala,2019-11-25,Low
+C00229,Farmacéutica Horizonte S.A.,Company,SME,Quito,2015-08-25,Low
+C00230,Tecnología Volcán S.A.S.,Company,SME,Ibarra,2014-03-23,Medium
+C00231,Jorge Flores Benítez,Individual,Retail,Cuenca,2014-03-27,Low
+C00232,Luis Quiroga Cárdenas,Individual,Retail,Quito,2022-03-13,Low
+C00233,Tecnología Cumbre S.A.,Company,Corporate,Guayaquil,2020-11-16,Low
+C00234,Miguel Suárez Quiroga,Individual,Retail,Guayaquil,2017-12-06,Medium
+C00235,Pablo Ortiz Andrade,Individual,Retail,Manta,2015-06-10,Medium
+C00236,Diana Erazo Salazar,Individual,Retail,Guayaquil,2021-08-23,High
+C00237,Distribuidora Cóndor S.A.S.,Company,SME,Guayaquil,2025-03-15,Medium
+C00238,Gabriela Zambrano Salazar,Individual,Retail,Guayaquil,2021-10-23,Low
+C00239,Exportadora Bahía S.A.,Company,SME,Santo Domingo,2025-10-04,Medium
+C00240,Andrés Salazar Morales,Individual,Retail,Quito,2012-07-29,Low
+C00241,Natalia Jaramillo Benítez,Individual,Retail,Quito,2025-08-08,Medium
+C00242,Diego Reyes Torres,Individual,Retail,Guayaquil,2016-12-21,Low
+C00243,Paola Villacís Paredes,Individual,Retail,Guayaquil,2025-10-04,High
+C00244,Tecnología Equinoccial S.A.,Company,Corporate,Guayaquil,2014-10-02,Low
+C00245,Gabriela Flores Espinoza,Individual,Retail,Guayaquil,2025-02-04,Medium
+C00246,Inversiones Austral Cía. Ltda.,Company,SME,Guayaquil,2024-03-19,Low
+C00247,Logística Horizonte S.A.S.,Company,SME,Loja,2012-03-24,Medium
+C00248,Óscar Cevallos Guerrero,Individual,Retail,Quito,2024-12-21,Low
+C00249,Raúl Andrade León,Individual,Retail,Quito,2012-08-30,Low
+C00250,Carmen Morales Vásquez,Individual,retail,Guayaquil,2016-11-12,Low
+C00251,Rosa Herrera Pérez,Individual,Retail,Quito,2018-08-08,Medium
+C00252,Inversiones Bahía Cía. Ltda.,Company,Corporate,Guayaquil,2024-09-13,Low
+C00253,Verónica Zambrano García,Individual,Retail,Riobamba,2016-08-13,Low
+C00254,Marco Chávez Erazo,Individual,Retail,Cuenca,2019-02-24,Low
+C00255,Elena Mendoza Proaño,Individual,Retail,Guayaquil,2022-01-29,Low
+C00256,Héctor Paredes Yánez,Individual,Retail,Quito,2023-11-24,Low
+C00257,Gabriela Salazar Chávez,Individual,Retail,Quito,2020-05-02,Medium
+C00258,  Importadora  Andina Cía. Ltda. ,Company,SME,Guayaquil,2019-05-18,Low
+C00259,Ricardo Naranjo Navarrete,Individual,Retail,Guayaquil,2016-11-16,Low
+C00260,Óscar Espinoza Proaño,Individual,Retail,Cuenca,2025-03-07,Low
+C00261,Ricardo Mendoza Mendoza,Individual,Retail,Quito,2018-02-26,Low
+C00262,Exportadora Cóndor Cía. Ltda.,Company,Corporate,Quito,2017-04-20,Low
+C00263,Fabián Andrade Reyes,Individual,Retail,Santo Domingo,2023-12-19,Low
+C00264,José Espinoza Castillo,Individual,Retail,Ambato,2021-04-23,Low
+C00265,Javier Zambrano Flores,Individual,Retail,Guayaquil,2020-10-27,High
+C00266,Camila Guerrero Vásquez,Individual,Retail,Guayaquil,2024-04-15,Low
+C00267,María Herrera García,Individual,Retail,Guayaquil,2017-01-28,Low
+C00268,Logística Mitad del Mundo S.A.S.,Company,Corporate  ,Guayaquil,2024-02-23,Medium
+C00269,Lucía Delgado Ramírez,Individual,Retail,Guayaquil,2020-07-06,Low
+C00270,Exportadora Estrella Cía. Ltda.,Company,SME,Machala,2019-02-28,Medium
+C00271,Pablo Montenegro Guerrero,Individual,Retail,Riobamba,2022-12-28,Low
+C00272,Esteban Naranjo Flores,Individual,Retail,Cuenca,2018-08-23,Low
+C00273,Tecnología Los Ríos S.A.S.,Company,Corporate,Riobamba,2013-09-07,Low
+C00274,María Morales Reyes,Individual,Retail,Quito,2016-03-19,Low
+C00275,Natalia Mora Suárez,Individual,Retail,Cuenca,2022-03-08,Medium
+C00276,Jorge Herrera Naranjo,Individual,Retail,Riobamba,2025-01-29,Medium
+C00277,Héctor Mendoza Zambrano,Individual,Retail,Riobamba,2018-11-21,Low
+C00278,Jorge Jaramillo Reyes,Individual,Retail,Guayaquil,2024-04-22,Medium
+C00279,Gabriela Pérez Benítez,Individual,Retail,Santo Domingo,2014-08-27,Low
+C00280,Elena Morales Jaramillo,Individual,Retail,Quito,2021-08-30,Low
+C00281,Entidad Pública Educación 03,Public Entity,Government,Ambato,2016-04-15,Low
+C00282,Industrias Costa Azul Cía. Ltda.,Company,SME,Quito,2018-03-10,Low
+C00283,Inversiones Equinoccial S.A.S.,Company,Corporate,Guayaquil,2014-08-01,Low
+C00284,Verónica Ortiz Espinoza,Individual,Retail,Guayaquil,2018-03-06,Low
+C00285,Mónica Zambrano Zambrano,Individual,Retail,Quito,2024-10-01,Low
+C00286,Daniela Torres Quiroga,Individual,Retail,Ambato,2018-06-17,Low
+C00287,Héctor Bravo Castillo,Individual,Retail,Guayaquil,2015-10-26,Low
+C00288,Gabriela Sánchez Reyes,Individual,Retail,Cuenca,2012-04-14,Low
+C00289,José López Paredes,Individual,Retail,Quito,2012-03-20,High
+C00290,Florícola Andina Cía. Ltda.,Company,SME,Guayaquil,2025-04-28,Medium
+C00291,Fabián Quiroga Naranjo,Individual,Retail,Guayaquil,2014-02-08,Medium
+C00292,Valeria Montenegro Vega,Individual,Retail,Cuenca,2017-10-09,Low
+C00293,Isabel Andrade Torres,Individual,Retail,Guayaquil,2022-11-11,Low
+C00294,José Jaramillo Cárdenas,Individual,Retail,Ibarra,2025-11-06,Low
+C00295,José Ortiz Proaño,Individual,Retail,Guayaquil,2014-01-01,High
+C00296,Camaronera Equinoccial Cía. Ltda.,Company,SME,Quito,2025-11-26,High
+C00297,Logística Bahía S.A.,Company,SME,Quito,2025-02-04,High
+C00298,Verónica Ramírez Mendoza,Individual,Retail,Cuenca,2023-08-31,Medium
+C00299,Importadora Volcán Cía. Ltda.,Company,SME,Riobamba,2014-06-21,Low
+C00300,Camaronera del Valle Cía. Ltda.,Company,SME,Riobamba,2023-09-25,Medium
+C00301,Andrés Ramírez Vega,Individual,Retail,Guayaquil,2012-12-01,Medium
+C00302,Lucía Delgado Vega,Individual,Retail,Quito,2021-08-26,Medium
+C00303,Ana Paredes Herrera,Individual,Retail,Riobamba,2025-11-12,Low
+C00304,Rosa Pérez Jaramillo,Individual,Retail,Quito,2024-07-20,Medium
+C00305,Pedro Naranjo Cevallos,Individual,Retail,Quito,2020-08-30,High
+C00306,Importadora del Litoral Cía. Ltda.,Company,SME,Quito,2015-11-20,Medium
+C00307,Ricardo Yánez Herrera,Individual,Retail,Guayaquil,2016-06-22,Low
+C00308,Fabián Reyes Calderón,Individual,Retail,Guayaquil,2021-10-19,Low
+C00309,Ricardo Suárez Torres,Individual,Retail,Quito,2021-03-14,Medium
+C00310,Comercial Volcán S.A.,Company,Corporate,Manta,2018-10-13,Low
+C00311,Patricia Herrera Bravo,Individual,Retail,Guayaquil,2020-10-21,Low
+C00312,Corporación Bahía Cía. Ltda.,Company,SME,Guayaquil,2024-03-27,Medium
+C00313,  Jorge  Sánchez Erazo ,Individual,Retail,Machala,2019-06-07,Low
+C00314,Florícola Bahía S.A.S.,Company,Corporate,Quito,2016-08-06,Low
+C00315,Camila Herrera Naranjo,Individual,Retail,Cuenca,2018-12-21,Medium
+C00316,Camila Bravo Mendoza,Individual,Retail,Guayaquil,2012-01-01,Medium
+C00317,Diana García Ortiz,Individual,Retail,Quito,2025-03-30,Medium
+C00318,Sofía Zambrano Castillo,Individual,Retail,Machala,2024-08-28,Low
+C00319,Lorena Montenegro Bravo,Individual,Retail,Manta,2015-03-06,Low
+C00320,Andrés Suárez Calderón,Individual,Retail,Guayaquil,2022-10-10,Low
+C00321,Natalia Vega Vásquez,Individual,Retail,Quito,2014-05-29,Medium
+C00322,Carmen Benítez Quiroga,Individual,Retail,Guayaquil,2020-09-25,Low
+C00323,Lorena Montenegro Cevallos,Individual,Retail,Guayaquil,2022-04-12,High
+C00324,Javier Suárez Suárez,Individual,Retail,Quito,2023-10-11,Low
+C00325,Camaronera del Valle Cía. Ltda.,Company,SME,Guayaquil,2015-02-21,Medium
+C00326,Sofía Zambrano Espinoza,Individual,Retail,Quito,2025-10-22,High
+C00327,Óscar López Proaño,Individual,Retail,Guayaquil,2017-10-24,Low
+C00328,Natalia Torres Yánez,Individual,Retail,Guayaquil,2021-01-20,Low
+C00329,Andrés Naranjo García,Individual,Retail,Ambato,2019-04-05,High
+C00330,Paola García López,Individual,Retail,Ambato,2020-08-12,Low
+C00331,Carlos Delgado Bravo,Individual,Retail,Ambato,2021-11-26,Low
+C00332,  José  López Salazar ,Individual,Retail,Quito,2022-01-30,High
+C00333,Fabián Navarrete Mendoza,Individual,Retail,Guayaquil,2017-01-21,Low
+C00334,Diana Mendoza Flores,Individual,Retail,Guayaquil,2014-02-27,Medium
+C00335,Entidad Pública Infraestructura 04,Public Entity,Government,Machala,2018-02-16,Low
+C00336,Diana Vega Mendoza,Individual,Retail,Machala,2025-08-07,Low
+C01440,Juan Pérez Yánez,Individual,Retail,Quito,2017-01-28,Low
+C00337,Javier Bravo Navarrete,Individual,Retail,Loja,2020-06-08,Low
+C00338,Exportadora Bahía Cía. Ltda.,Company,SME,Guayaquil,2023-03-09,Medium
+C00339,Valeria Benítez Naranjo,Individual,Retail,Cuenca,2025-02-03,Low
+C00340,Tecnología Sierra Norte Cía. Ltda.,Company,Corporate,Machala,2017-05-31,Medium
+C00341,Héctor Ramírez Zambrano,Individual,Retail,Quito,2025-08-19,Medium
+C00342,Juan Benítez Cevallos,Individual,Retail,Guayaquil,2017-11-07,Medium
+C00343,Ana Herrera Morales,Individual,Retail,Santo Domingo,2025-11-10,Low
+C00344,Camila Espinoza Proaño,Individual,Retail,Quito,2024-02-06,Low
+C00345,Pablo Erazo Bravo,Individual,Retail,Guayaquil,2014-11-26,Low
+C00346,Luis Vega Suárez,Individual,Retail,Quito,2019-11-09,Low
+C00347,Miguel Benítez Delgado,Individual,Retail,Cuenca,2020-07-04,Medium
+C00348,Entidad Pública Transporte 05,Public Entity,Government,Guayaquil,2017-05-28,Low
+C00349,Diego Chávez Chávez,Individual,Retail,Quito,2020-03-31,Low
+C00350,Ana Ortiz Naranjo,Individual,Retail,Guayaquil,2012-03-23,Medium
+C00351,Raúl Proaño Cevallos,Individual,Retail,Guayaquil,2013-04-10,Low
+C00352,Gabriela Quiroga Cevallos,Individual,Retail,Ibarra,2017-06-23,Low
+C00353,Mónica Castillo Guerrero,Individual,Retail,Quito,2024-07-29,Medium
+C00354,Javier Naranjo Montenegro,Individual,Retail,Manta,2020-03-24,Low
+C00355,Camaronera Los Ríos S.A.S.,Company,Corporate,Guayaquil,2014-05-05,Medium
+C00356,Lorena Vega Pérez,Individual,Retail,Machala,2015-01-28,Low
+C00357,Sofía Navarrete Morales,Individual,Retail,Riobamba,2012-10-20,Low
+C00358,Isabel Guerrero Benítez,Individual,Retail,Guayaquil,2012-10-03,Low
+C00359,Industrias Austral S.A.,Company,SME,Quito,2020-07-31,Low
+C00360,Distribuidora Puerto Nuevo S.A.,Company,SME,Guayaquil,2023-12-11,Low
+C00361,Raúl Torres Benítez,Individual,Retail,Manta,2017-11-20,Low
+C00362,Farmacéutica Andina Cía. Ltda.,Company,Corporate,Machala,2021-09-25,Medium
+C00363,Ana García Navarrete,Individual,Retail,Quito,2023-12-29,Low
+C00364,Fabián Mora Paredes,Individual,Retail,Quito,2020-07-20,High
+C00365,Paola Herrera Andrade,Individual,Retail,Manta,2017-08-09,Low
+C00366,Fabián Zambrano Cevallos,Individual,Retail,Guayaquil,2020-02-11,Low
+C00367,Óscar Andrade Guerrero,Individual,Retail,Quito,2024-07-02,Low
+C00368,Comercial Río Verde S.A.,Company,SME,Cuenca,2025-05-06,Low
+C00369,  Inversiones  del Pacífico S.A.S. ,Company,SME,Riobamba,2019-01-16,Low
+C00370,Juan Pérez Paredes,Individual,Retail,Guayaquil,2024-05-10,Low
+C00371,Lorena Delgado Naranjo,Individual,Retail,Quito,2021-11-16,Low
+C00372,Miguel Delgado Paredes,Individual,Retail,Cuenca,2024-01-17,Medium
+C00373,Agrícola Nevado S.A.S.,Company,SME,Quito,2023-05-15,Low
+C00374,Distribuidora Costa Azul Cía. Ltda.,Company,Corporate,Guayaquil,2021-04-30,Low
+C00375,Pedro Jaramillo Benítez,Individual,Retail,Loja,2021-02-25,Low
+C00376,Pedro Bravo Benítez,Individual,Retail,Guayaquil,2012-12-31,Low
+C00377,Florícola Andina S.A.,Company,SME,Manta,2023-05-26,Medium
+C00378,Daniela Villacís Yánez,Individual,Retail,Quito,2015-05-14,High
+C00379,Rosa Espinoza Naranjo,Individual,Retail,Quito,2021-05-17,Low
+C00380,Diana Delgado Erazo,Individual,Retail,Quito,2023-10-06,Low
+C00381,Fernando Proaño Quiroga,Individual,Retail,Guayaquil,2020-02-13,Low
+C00382,Lucía Ortiz Montenegro,Individual,Retail,Quito,2021-03-12,Low
+C00383,Héctor Espinoza Vásquez,Individual,Retail,Guayaquil,2021-05-24,Medium
+C00384,Diego Calderón Ortiz,Individual,Retail,Cuenca,2021-02-21,Low
+C00385,Óscar Paredes Quiroga,Individual,Retail,Ibarra,2023-04-30,Low
+C00386,Fernando López Reyes,Individual,Retail,Quito,2014-09-16,Medium
+C00387,Esteban García Herrera,Individual,Retail,Ibarra,2015-09-29,Low
+C00388,Diana Villacís Chávez,Individual,Retail,Cuenca,2021-01-08,Low
+C00389,Pedro Guerrero Sánchez,Individual,Retail,Ibarra,2014-06-01,Low
+C00390,  Javier  Montenegro Cárdenas ,Individual, RETAIL ,Guayaquil,2021-10-09,Low
+C00391,Exportadora Sierra Norte S.A.S.,Company,Corporate,Guayaquil,2024-03-26,Low
+C00392,Natalia Vásquez Reyes,Individual,Retail,Guayaquil,2021-11-01,Medium
+C00393,Verónica García Naranjo,Individual,Retail,Quito,2023-10-12,Medium
+C00394,Elena Quiroga Salazar,Individual,Retail,Riobamba,2016-01-01,Low
+C00395,Daniela Chávez Mora,Individual,Retail,Guayaquil,2019-10-16,Low
+C00396,Verónica Vega Montenegro,Individual,Retail,Guayaquil,2015-10-19,Medium
+C00397,Florícola Equinoccial S.A.,Company,SME,Ambato,2023-05-30,Low
+C00398,Logística del Pacífico S.A.S.,Company,SME,Guayaquil,2016-05-17,Medium
+C00399,José Vásquez Morales,Individual,Retail,Quito,2021-12-23,Medium
+C00400,Pedro Guerrero Guerrero,Individual,Retail,Quito,2021-09-11,Low
+C00401,Diego Pérez Guerrero,Individual,Retail,Ambato,2016-12-27,Low
+C00402,Héctor Sánchez Pérez,Individual,Retail,Cuenca,2023-07-03,Low
+C00403,Ricardo Cevallos Chávez,Individual,Retail,Machala,2016-04-08,Low
+C00404,Luis Andrade Ortiz,Individual,Retail,Loja,2020-06-08,Low
+C00405,Fernando Paredes Castillo,Individual,Retail,Guayaquil,2018-05-04,Low
+C01686,Pedro Flores Guerrero,Individual,Retail,Manta,2023-01-22,Low
+C00406,Rosa Mora Morales,Individual,Retail,Quito,2013-07-05,Low
+C00407,Gabriela Cevallos Cárdenas,Individual,Retail,Cuenca,2017-04-06,Low
+C00408,Gabriela Ramírez Naranjo,Individual,Retail,Quito,2025-11-15,Medium
+C00409,Mónica Erazo Torres,Individual,Retail,Quito,2018-06-11,Low
+C00410,Paola Chávez Guerrero,Individual,Retail,Cuenca,2019-02-25,Low
+C00411,Mónica Herrera Castillo,Individual,Retail,Guayaquil,2017-04-07,Low
+C00412,Distribuidora Volcán S.A.,Company,SME,Guayaquil,2019-04-01,Low
+C00413,Mónica Montenegro Chávez,Individual,Retail,Quito,2016-11-28,Medium
+C00414,Sofía Montenegro Cárdenas,Individual,Retail,Quito,2015-09-26,Medium
+C00415,Lucía Bravo Bravo,Individual,Retail,Manta,2012-06-21,Low
+C00416,Valeria Torres Navarrete,Individual,Retail,Quito,2013-02-07,Low
+C00417,Fernando León Calderón,Individual,Retail,Santo Domingo,2015-08-15,Low
+C00418,Daniela Navarrete Ortiz,Individual,Retail,Machala,2024-02-06,Medium
+C00419,Diana García Suárez,Individual,Retail,Guayaquil,2018-10-05,Low
+C00420,Paola Cevallos Pérez,Individual,Retail,Cuenca,2020-06-22,Low
+C01109,Valeria Navarrete Chávez,Individual,Retail,Quito,2025-08-20,Medium
+C00421,Constructora del Litoral S.A.,Company,SME,Guayaquil,2021-04-25,Medium
+C00422,Raúl Erazo Jaramillo,Individual,Retail,Guayaquil,2020-10-09,Low
+C00423,Entidad Pública Educación 06,Public Entity,Government,Guayaquil,2020-05-03,Low
+C00424,Fernando García Paredes,Individual,Retail,Quito,2025-08-13,Low
+C00425,Rosa Naranjo Cárdenas,Individual,Retail,Quito,2025-06-30,Low
+C00426,Corporación Puerto Nuevo Cía. Ltda.,Company,SME,Quito,2014-06-06,Low
+C00427,José Zambrano Naranjo,Individual,Retail,Quito,2018-12-19,Medium
+C00428,Rosa García Navarrete,Individual,Retail,Quito,2022-12-26,Low
+C00429,Inversiones Cóndor Cía. Ltda.,Company,SME,Ambato,2013-04-27,Low
+C00430,Entidad Pública Educación 07,Public Entity, GOVERNMENT ,Quito,2020-04-21,Low
+C00431,  Ricardo  Proaño Erazo ,Individual,Retail,Quito,2022-12-17,Low
+C00432,Paola Salazar Reyes,Individual,Retail,Quito,2023-07-16,Medium
+C00433,Rosa García Chávez,Individual,Retail,Quito,2015-08-20,Low
+C00434,Fernando Montenegro Guerrero,Individual,Retail,Quito,2021-07-06,Low
+C00435,Diana Vega Herrera,Individual,Retail,Guayaquil,2018-08-27,High
+C00436,Verónica Mora Salazar,Individual,Retail,Quito,2020-05-02,Low
+C00437,Pedro Mora Morales,Individual,Retail  ,Quito,2017-08-20,Low
+C00438,Valeria Herrera León,Individual,Retail,Guayaquil,2022-08-17,Low
+C00439,Carmen Castillo Espinoza,Individual,Retail,Cuenca,2016-06-20,Low
+C00440,Valeria García Delgado,Individual,Retail,Guayaquil,2015-07-05,Low
+C00441,Miguel Torres Andrade,Individual,Retail,Quito,2025-03-12,Low
+C00442,Lorena Zambrano Paredes,Individual,Retail,Guayaquil,2016-07-17,Low
+C00443,Daniela Pérez López,Individual,Retail,Quito,2020-08-03,Medium
+C00444,Florícola Cóndor Cía. Ltda.,Company,SME,Cuenca,2025-09-22,Low
+C00445,Andrés Andrade Naranjo,Individual,Retail,Guayaquil,2015-04-15,Low
+C00446,María Salazar Espinoza,Individual,Retail,Guayaquil,2024-02-23,Medium
+C00447,Inversiones Cumbre Cía. Ltda.,Company,SME,Quito,2020-10-26,Low
+C00448,Esteban Torres Ramírez,Individual,Retail,Quito,2024-11-20,Medium
+C00449,Daniela León Pérez,Individual,Retail,Cuenca,2022-12-28,Low
+C00450,Lucía Navarrete Chávez,Individual,Retail,Guayaquil,2015-12-29,Low
+C00451,Isabel Torres Chávez,Individual,Retail,Quito,2024-07-14,Low
+C00452,María Mendoza Montenegro,Individual,Retail,Guayaquil,2016-05-15,Low
+C00453,Importadora Mitad del Mundo Cía. Ltda.,Company,Corporate,Cuenca,2018-03-02,Low
+C00454,Juan Pérez Delgado,Individual,Retail,Machala,2024-02-01,Medium
+C00455,Florícola Río Verde Cía. Ltda.,Company,Corporate,Guayaquil,2014-05-01,Low
+C00456,Carmen López Herrera,Individual,Retail,Guayaquil,2014-09-05,Low
+C00457,Ana Salazar García,Individual,Retail,Quito,2025-11-01,Low
+C00458,Ricardo León Yánez,Individual,Retail,Quito,2020-03-19,Medium
+C00459,Inversiones Volcán S.A.S.,Company,SME,Guayaquil,2025-05-28,Low
+C00460,  Gabriela  Montenegro Cevallos ,Individual,Retail,Cuenca,2016-06-15,Low
+C00461,María Ramírez Pérez,Individual,Retail,Quito,2013-12-06,Low
+C00462,Lucía Flores López,Individual,Retail,Guayaquil,2016-02-29,Low
+C00463,Comercial Sierra Norte S.A.,Company,Corporate,Guayaquil,2017-07-14,Low
+C00464,Fernando Herrera Ramírez,Individual,Retail,Guayaquil,2018-06-09,Low
+C00465,Ricardo Cárdenas Naranjo,Individual,Retail,Guayaquil,2018-08-13,Low
+C00466,Rosa Vega Torres,Individual,Retail,Manta,2019-10-28,Low
+C00467,Tecnología Sierra Norte S.A.,Company,Corporate,Ibarra,2016-09-21,Low
+C00468,Pedro Morales Sánchez,Individual,Retail,Quito,2023-04-19,Medium
+C00469,Industrias Austral S.A.S.,Company, CORPORATE ,Santo Domingo,2012-09-14,Low
+C00470,Gabriela Castillo Herrera,Individual,Retail,Quito,2019-03-30,Low
+C00471,Florícola del Pacífico Cía. Ltda.,Company,SME,Guayaquil,2024-01-09,Low
+C00472,Agrícola Equinoccial S.A.,Company,Corporate,Guayaquil,2024-11-09,Low
+C00473,Farmacéutica Andina Cía. Ltda.,Company, SME ,Ambato,2021-10-03,Low
+C00474,Paola Paredes Vásquez,Individual,Retail,Cuenca,2022-10-28,Low
+C00475,Miguel Suárez García,Individual,retail,Quito,2025-02-14,Low
+C00476,Andrés Ramírez Erazo,Individual,Retail,Guayaquil,2025-06-20,High
+C00477,Entidad Pública Salud 08,Public Entity,Government,Riobamba,2012-08-08,Low
+C00478,Carmen Torres Reyes,Individual,Retail,Guayaquil,2022-05-01,Low
+C00479,Logística Sierra Norte Cía. Ltda.,Company,Corporate,Guayaquil,2025-03-23,Low
+C00480,Camaronera Nevado Cía. Ltda.,Company,SME,Quito,2015-07-29,Low
+C00481,Camaronera Puerto Nuevo S.A.S.,Company,SME,Cuenca,2022-05-24,Medium
+C00482,Jorge Villacís Herrera,Individual,Retail,Quito,2014-12-29,Low
+C00483,Industrias Volcán S.A.S.,Company,SME,Guayaquil,2012-08-08,Medium
+C00484,Paola Vásquez Vásquez,Individual,Retail,Quito,2012-01-14,Medium
+C00485,  Carlos  Naranjo Herrera ,Individual,Retail,Quito,2014-01-30,Low
+C00486,Inversiones del Valle Cía. Ltda.,Company,Corporate,Guayaquil,2022-10-12,High
+C00487,Pablo López León,Individual,Retail,Quito,2013-11-07,Medium
+C00488,Mónica Andrade León,Individual,Retail,Quito,2023-05-16,Low
+C00489,Camila Zambrano Chávez,Individual,Retail,Quito,2014-08-07,Medium
+C00490,Corporación Bahía Cía. Ltda.,Company,SME,Machala,2019-07-07,High
+C00491,Lucía López Chávez,Individual,Retail,Guayaquil,2015-05-16,Medium
+C00492,Natalia Paredes Mendoza,Individual,Retail,Quito,2022-03-16,Low
+C00493,Luis Guerrero Vega,Individual,Retail,Guayaquil,2020-04-13,Low
+C00494,Industrias Andina S.A.S.,Company,Corporate,Quito,2018-07-30,Low
+C00495,Ricardo Ramírez Cevallos,Individual,Retail,Guayaquil,2020-11-19,Low
+C00496,Entidad Pública Infraestructura 09,Public Entity,Government,Ambato,2013-05-31,Low
+C00497,Inversiones del Litoral Cía. Ltda.,Company,SME,Quito,2023-09-28,Low
+C00498,Ricardo Vásquez Cevallos,Individual,Retail,Quito,2014-04-08,High
+C00499,Rosa Sánchez Ramírez,Individual,Retail,Ambato,2024-09-20,Medium
+C00500,Rosa Chávez Guerrero,Individual,Retail,Ibarra,2017-11-07,Low
+C00501,Raúl Ortiz Delgado,Individual,Retail,Guayaquil,2021-10-19,Low
+C00502,Gabriela Pérez Suárez,Individual,Retail,Loja,2020-12-09,Low
+C00503,  Verónica  Andrade Cárdenas ,Individual,Retail,Guayaquil,2018-02-28,Low
+C00504,Camaronera Horizonte S.A.,Company,Corporate,Cuenca,2012-05-28,Low
+C00505,Lorena Quiroga Erazo,Individual,Retail,Quito,2019-05-17,Low
+C00506,Textiles Andina Cía. Ltda.,Company,SME,Machala,2019-10-08,Low
+C00507,Camila Morales Calderón,Individual,Retail,Cuenca,2012-09-21,Low
+C00508,Rosa Vega Navarrete,Individual,Retail,Guayaquil,2024-03-26,High
+C00509,Patricia Ramírez Quiroga,Individual,Retail,Cuenca,2015-07-01,Low
+C00510,Javier Proaño Chávez,Individual,Retail,Ambato,2012-07-10,Low
+C00511,Constructora Cumbre S.A.,Company,Corporate,Guayaquil,2014-10-08,Low
+C00512,Lucía Proaño Quiroga,Individual,Retail,Ambato,2015-07-27,High
+C00513,Mónica Navarrete Cárdenas,Individual,Retail,Guayaquil,2024-10-12,Low
+C00514,Importadora Horizonte S.A.S.,Company,SME,Guayaquil,2020-10-17,Low
+C00515,Isabel Quiroga Montenegro,Individual,Retail,Quito,2012-01-28,Low
+C00516,Isabel López García,Individual,Retail,Riobamba,2021-05-18,Low
+C00517,José Bravo Naranjo,Individual,Retail,Quito,2025-09-05,Low
+C00518,Comercial Horizonte S.A.S.,Company,SME,Cuenca,2022-08-01,High
+C00519,Comercial Cóndor S.A.S.,Company,SME,Quito,2015-08-15,Medium
+C00520,Paola López Castillo,Individual,Retail,Quito,2024-07-23,Low
+C00521,José Morales Proaño,Individual,retail,Manta,2017-06-04,High
+C00522,Textiles Equinoccial S.A.S.,Company,Corporate,Guayaquil,2024-06-12,Medium
+C00523,Importadora Andina S.A.S.,Company,SME,Machala,2025-04-26,Low
+C00524,  Pablo  Paredes Calderón ,Individual,Retail,Cuenca,2023-12-24,Low
+C00525,  Ana  Quiroga Zambrano ,Individual,Retail,Cuenca,2020-12-16,Low
+C00526,Marco Chávez Guerrero,Individual,Retail,Ambato,2017-11-20,Low
+C00527,Lucía León Vásquez,Individual,Retail,Guayaquil,2025-05-09,Low
+C00528,Carlos Reyes Vega,Individual,Retail,Quito,2017-10-30,Low
+C00529,Valeria Montenegro Paredes,Individual,Retail,Quito,2015-04-27,Low
+C00530,Patricia Proaño Vásquez,Individual,Retail,Santo Domingo,2018-11-17,Low
+C00531,Camaronera Cordillera Cía. Ltda.,Company,Corporate,Guayaquil,2014-11-19,Low
+C00532,Santiago Paredes Naranjo,Individual,Retail,Quito,2016-09-29,Low
+C00533,Comercial del Litoral Cía. Ltda.,Company,SME,Quito,2025-02-19,High
+C00534,Javier Jaramillo Yánez,Individual,Retail,Quito,2024-11-17,Low
+C00535,Camila León Mora,Individual, RETAIL ,Quito,2013-06-14,Low
+C00536,Distribuidora del Valle Cía. Ltda.,Company,SME,Cuenca,2014-09-06,Low
+C00537,Corporación Estrella S.A.S.,Company,SME,Loja,2025-06-20,Medium
+C00538,Patricia Cevallos Zambrano,Individual,Retail,Quito,2019-05-23,Low
+C00539,Raúl Calderón Flores,Individual,Retail,Guayaquil,2017-07-24,Medium
+C00540,Exportadora Los Ríos S.A.,Company,SME,Guayaquil,2022-03-25,High
+C00541,Verónica Navarrete Pérez,Individual,Retail,Loja,2024-03-06,Low
+C00542,Entidad Pública Educación 10,Public Entity,Government,Guayaquil,2012-09-06,Low
+C00543,Natalia Castillo Reyes,Individual,Retail,Guayaquil,2013-08-21,Low
+C00544,Rosa Castillo Mendoza,Individual,Retail,Quito,2016-10-27,Low
+C00545,María Yánez Chávez,Individual,Retail,Guayaquil,2025-10-20,Medium
+C00546,Entidad Pública Transporte 11,Public Entity,Government,Quito,2020-06-21,Low
+C00547,Pablo Erazo Pérez,Individual,Retail,Guayaquil,2023-07-14,Low
+C00548,Juan Calderón Ortiz,Individual,Retail,Guayaquil,2023-04-14,Low
+C00549,Gabriela Vega Andrade,Individual,Retail,Guayaquil,2015-08-29,Medium
+C00550,Sofía García Montenegro,Individual,Retail,Guayaquil,2016-02-05,Low
+C00551,Miguel Morales Ramírez,Individual,Retail,Cuenca,2014-04-23,Medium
+C00552,Daniela Proaño Jaramillo,Individual,Retail,Ambato,2016-04-21,Medium
+C00553,Andrés Bravo León,Individual,Retail,Manta,2021-05-08,Low
+C00554,Juan Castillo Ramírez,Individual,Retail,Quito,2018-11-13,Low
+C00555,Constructora Horizonte Cía. Ltda.,Company,SME,Ambato,2012-02-16,Low
+C00556,Inversiones Mitad del Mundo S.A.S.,Company,Corporate,Ambato,2022-03-31,Low
+C00557,Fernando Morales Paredes,Individual,Retail,Quito,2020-07-29,Low
+C00558,Fernando Morales Bravo,Individual,Retail,Guayaquil,2018-02-22,Low
+C00559,Ricardo Castillo Yánez,Individual,Retail,Cuenca,2020-09-30,Medium
+C00560,Corporación Los Ríos Cía. Ltda.,Company,Corporate,Quito,2025-08-23,Low
+C00561,Camaronera Horizonte Cía. Ltda.,Company,SME,Guayaquil,2022-08-01,Medium
+C00562,Ricardo Cárdenas Jaramillo,Individual,Retail,Guayaquil,2025-08-26,Low
+C00563,Rosa Montenegro Ortiz,Individual,Retail,Manta,2023-11-29,Low
+C00564,Exportadora Austral S.A.S.,Company,SME,Riobamba,2019-01-15,Low
+C00565,Marco Morales López,Individual,Retail,Cuenca,2016-06-18,Low
+C00566,Juan Erazo Benítez,Individual,Retail,Quito,2021-03-19,Medium
+C00567,Farmacéutica del Pacífico S.A.S.,Company,Corporate,Ibarra,2021-10-21,High
+C00568,Ricardo Calderón Vega,Individual,Retail,Cuenca,2019-06-27,Medium
+C00569,Fabián Flores Navarrete,Individual,Retail,Quito,2013-12-19,Low
+C00570,Fernando Espinoza Chávez,Individual,Retail,Quito,2022-06-12,Medium
+C00571,Carmen Sánchez Espinoza,Individual,Retail,Loja,2021-09-12,Low
+C00572,Pedro Andrade Bravo,Individual,Retail,Guayaquil,2024-01-20,Low
+C00573,Exportadora del Litoral S.A.,Company,SME,Ambato,2016-06-29,Low
+C00574,Javier Proaño Jaramillo,Individual,Retail,Guayaquil,2015-04-29,Low
+C00575,José Calderón Erazo,Individual,Retail,Riobamba,2019-10-26,Low
+C00576,Ricardo Naranjo Morales,Individual,Retail,Quito,2015-08-30,Low
+C00577,Logística Costa Azul Cía. Ltda.,Company,SME,Machala,2024-05-06,Low
+C00578,Marco Morales Villacís,Individual,Retail,Quito,2021-11-01,Low
+C00579,Santiago Yánez Guerrero,Individual,Retail,Guayaquil,2025-06-12,Medium
+C00580,Lucía Vega Erazo,Individual,Retail,Quito,2019-02-08,Low
+C00581,Rosa Suárez Vásquez,Individual,Retail,Guayaquil,2024-01-17,Medium
+C00582,Inversiones Equinoccial Cía. Ltda.,Company,SME,Machala,2018-12-14,Low
+C00583,Tecnología Cordillera S.A.,Company,Corporate,Loja,2020-09-27,Low
+C00584,Verónica Salazar Cevallos,Individual,Retail,Guayaquil,2017-08-01,Low
+C00585,Diana Jaramillo Herrera,Individual,Retail,Machala,2016-09-14,Low
+C00586,Agrícola Cóndor Cía. Ltda.,Company,SME,Guayaquil,2025-03-05,High
+C00587,Carmen López Vásquez,Individual,Retail,Guayaquil,2023-02-27,Low
+C00588,Patricia Paredes Bravo,Individual,Retail,Quito,2012-07-30,Medium
+C00589,Comercial del Valle Cía. Ltda.,Company,SME,Guayaquil,2023-10-12,Low
+C00590,Javier Naranjo Flores,Individual,Retail,Guayaquil,2013-06-27,Low
+C00591,Inversiones Nevado Cía. Ltda.,Company,SME,Quito,2018-12-26,Medium
+C00592,Juan Herrera Salazar,Individual,Retail,Riobamba,2020-03-13,Low
+C00593,Jorge Castillo Vega,Individual,Retail,Quito,2016-12-01,Medium
+C00594,Carmen Naranjo Flores,Individual,Retail,Guayaquil,2021-01-21,Low
+C00595,Paola Naranjo Paredes,Individual,Retail,Cuenca,2022-05-13,Low
+C00596,Fabián Pérez Herrera,Individual,Retail,Cuenca,2020-05-28,Low
+C00597,Logística del Pacífico S.A.S.,Company,Corporate,Riobamba,2016-06-09,Low
+C00598,Luis Ortiz León,Individual,Retail,Quito,2012-04-05,Low
+C00599,Javier Mendoza Proaño,Individual,Retail,Quito,2017-11-22,Low
+C00600,Verónica Suárez Sánchez,Individual,Retail,Guayaquil,2016-03-06,Medium
+C00601,Camila Navarrete Reyes,Individual,Retail,Guayaquil,2023-08-23,Medium
+C00602,Elena Benítez Calderón,Individual,Retail,Riobamba,2017-02-03,Medium
+C00603,Lucía Navarrete Quiroga,Individual,Retail,Riobamba,2013-11-10,High
+C00604,Gabriela Zambrano Suárez,Individual,Retail,Manta,2016-12-22,Low
+C00605,Javier Mora Erazo,Individual,Retail,Manta,2013-01-19,Low
+C00606,Miguel Mora León,Individual,Retail,Cuenca,2014-03-31,Low
+C00607,Lorena Naranjo Jaramillo,Individual,Retail,Guayaquil,2016-07-14,High
+C00608,Inversiones Cordillera Cía. Ltda.,Company,SME,Loja,2025-03-07,Low
+C00609,Diego Ramírez Andrade,Individual,Retail,Santo Domingo,2016-09-06,Low
+C00610,Carlos Delgado Cárdenas,Individual,Retail,Machala,2022-10-14,Medium
+C00611,Paola Zambrano León,Individual,Retail,Guayaquil,2019-11-10,High
+C00612,Verónica Herrera Zambrano,Individual,Retail,Guayaquil,2015-05-28,Low
+C00613,Verónica Salazar Andrade,Individual,Retail,Guayaquil,2022-07-26,Low
+C00614,Tecnología Equinoccial S.A.S.,Company,SME,Guayaquil,2022-03-11,Medium
+C00615,Farmacéutica Horizonte Cía. Ltda.,Company,SME,Guayaquil,2024-09-18,Low
+C00616,Natalia León Vega,Individual,Retail,Quito,2017-01-14,Low
+C00617,Óscar Erazo Vásquez,Individual,Retail,Quito,2021-09-12,Low
+C00618,  Tecnología  del Litoral S.A.S. ,Company,Corporate,Cuenca,2017-08-23,Low
+C00619,Juan Torres Flores,Individual,Retail,Guayaquil,2023-02-06,Low
+C00620,Industrias Equinoccial S.A.S.,Company,SME,Quito,2020-06-05,Medium
+C00621,  Santiago  Cevallos Erazo ,Individual,Retail,Quito,2014-03-18,Low
+C00622,Paola Vásquez Yánez,Individual,Retail,Manta,2021-06-17,Low
+C00623,Luis Torres Montenegro,Individual,Retail,Manta,2020-12-10,Low
+C00624,Farmacéutica Volcán S.A.S.,Company,SME,Quito,2024-08-09,Low
+C00625,Valeria García Quiroga,Individual,Retail,Quito,2017-09-07,Low
+C00362,Farmacéutica Andina Cía. Ltda.,Company,Corporate,Machala,2021-09-25,Medium
+C00626,Javier Ortiz Pérez,Individual,Retail,Quito,2013-01-26,Low
+C00627,Juan León Morales,Individual,Retail,Ambato,2020-12-31,Medium
+C00628,Gabriela Vega Flores,Individual,Retail,Guayaquil,2017-02-07,Low
+C00629,Rosa Zambrano Salazar,Individual,Retail,Guayaquil,2016-07-14,Low
+C00630,Javier Sánchez Montenegro,Individual,Retail,Riobamba,2024-06-12,Low
+C00631,Lucía Mendoza Yánez,Individual,Retail,Ambato,2018-08-23,Low
+C00632,Mónica Bravo Espinoza,Individual,Retail,Cuenca,2014-01-11,Medium
+C00633,Camaronera Puerto Nuevo Cía. Ltda.,Company,SME,Santo Domingo,2014-12-25,Low
+C00634,Pedro Bravo Proaño,Individual,Retail,Ibarra,2024-11-27,Low
+C00635,Luis Ortiz Navarrete,Individual,Retail,Machala,2017-01-12,High
+C00636,Distribuidora Los Ríos Cía. Ltda.,Company,SME,Guayaquil,2016-11-04,Low
+C00637,José Bravo Castillo,Individual,Retail,Quito,2016-04-23,Medium
+C00638,Natalia Zambrano Proaño,Individual,Retail,Ambato,2025-01-31,Low
+C00639,Agrícola del Litoral Cía. Ltda.,Company,SME,Quito,2024-11-23,Low
+C00640,Diego Salazar Ortiz,Individual,Retail,Guayaquil,2014-11-20,Medium
+C00641,Entidad Pública Transporte 12,Public Entity,Government,Manta,2013-03-05,Low
+C00642,Javier Navarrete Naranjo,Individual,Retail,Quito,2013-03-11,Low
+C00643,Natalia Chávez Espinoza,Individual,Retail,Loja,2013-04-16,Low
+C00644,  Carmen  Espinoza Torres ,Individual,Retail,Quito,2018-03-11,Medium
+C00645,José Erazo Vega,Individual,Retail,Guayaquil,2020-11-20,Low
+C00646,Raúl Ramírez Sánchez,Individual,Retail,Santo Domingo,2023-05-24,Low
+C00647,Raúl Yánez Salazar,Individual,Retail,Quito,2020-01-14,Medium
+C00648,Importadora Cóndor S.A.,Company,SME,Ambato,2015-08-13,Low
+C00649,Óscar López López,Individual,Retail,Guayaquil,2019-06-11,Medium
+C00650,Fabián Villacís Cárdenas,Individual,Retail,Guayaquil,2022-08-22,Low
+C00651,Jorge Ramírez Torres,Individual,Retail,Guayaquil,2014-01-13,Low
+C00652,Miguel Torres Flores,Individual,Retail,Quito,2014-02-09,Low
+C00653,Óscar Delgado Navarrete,Individual,Retail,Guayaquil,2023-11-13,Low
+C00654,Sofía Benítez Proaño,Individual,Retail,Riobamba,2013-07-22,Low
+C00655,Florícola Cumbre S.A.,Company,SME,Quito,2015-06-21,Low
+C00656,Logística Río Verde S.A.S.,Company,SME,Quito,2024-06-30,Medium
+C02083,Andrés Vásquez Ortiz,Individual,Retail,Quito,2021-05-05,Low
+C00657,Marco Benítez Bravo,Individual,Retail,Manta,2024-05-03,Low
+C00658,Pedro García Torres,Individual,Retail,Guayaquil,2023-08-18,Low
+C00659,Distribuidora Cóndor S.A.,Company,Corporate,Quito,2025-11-05,Low
+C00660,Corporación Equinoccial S.A.S.,Company,Corporate,Guayaquil,2019-08-03,Low
+C00661,Camila Mendoza Zambrano,Individual,Retail,Manta,2025-05-06,Medium
+C00662,Natalia García Mora,Individual, RETAIL ,Santo Domingo,2019-03-10,Low
+C00663,Constructora Nevado S.A.S.,Company,SME,Guayaquil,2019-03-09,Medium
+C00664,Pedro Chávez Zambrano,Individual,Retail,Quito,2013-11-05,Low
+C00665,Agrícola Nevado Cía. Ltda.,Company,Corporate,Manta,2024-10-21,Low
+C00666,Diana Cevallos Mendoza,Individual,Retail,Loja,2024-11-10,Medium
+C00667,Fabián Calderón López,Individual,Retail,Riobamba,2013-01-21,Low
+C00668,Javier Calderón Delgado,Individual,Retail,Ambato,2025-03-20,Low
+C00669,Gabriela Suárez Vásquez,Individual,Retail,Santo Domingo,2022-04-03,Medium
+C00670,Constructora Horizonte S.A.,Company,SME,Guayaquil,2023-02-09,Medium
+C00671,María Cevallos Villacís,Individual,Retail,Loja,2024-01-05,Low
+C00672,Logística Horizonte S.A.,Company,SME,Quito,2024-08-21,Medium
+C00673,Luis Jaramillo Jaramillo,Individual,Retail,Cuenca,2021-06-25,Low
+C00674,Logística Cordillera S.A.,Company,Corporate,Ambato,2025-10-31,Low
+C00675,María Cárdenas Cárdenas,Individual,Retail,Guayaquil,2022-12-13,Low
+C00676,Constructora Puerto Nuevo S.A.,Company,Corporate,Guayaquil,2022-01-27,Low
+C00677,Carlos Guerrero Guerrero,Individual,Retail,Guayaquil,2019-05-05,Medium
+C00678,Mónica Quiroga Calderón,Individual,Retail,Guayaquil,2017-11-12,Low
+C00679,Tecnología Costa Azul S.A.,Company,SME,Quito,2012-10-19,Low
+C00680,Miguel Cevallos Villacís,Individual,Retail,Guayaquil,2013-07-06,Low
+C00681,Corporación del Valle Cía. Ltda.,Company,SME,Ambato,2024-07-12,Medium
+C00682,Luis Proaño Andrade,Individual,Retail,Machala,2024-12-15,Low
+C00683,Gabriela Torres Reyes,Individual,Retail,Santo Domingo,2015-06-08,Low
+C00684,Miguel López Mendoza,Individual,Retail,Guayaquil,2021-11-04,Low
+C00685,Tecnología Los Ríos S.A.S.,Company,SME,Guayaquil,2019-02-14,Medium
+C00686,Pablo Mora Calderón,Individual,Retail,Ambato,2015-10-23,Low
+C00687,Luis Jaramillo García,Individual,Retail,Manta,2013-04-23,Medium
+C00688,Importadora Los Ríos S.A.S.,Company,SME,Guayaquil,2013-08-28,Medium
+C00689,Esteban Proaño Villacís,Individual,retail,Cuenca,2017-04-30,Low
+C00690,Javier Reyes Castillo,Individual,Retail,Quito,2024-06-05,Medium
+C00691,Miguel Jaramillo Quiroga,Individual,Retail,Loja,2024-09-20,Low
+C00692,José Chávez Ramírez,Individual,Retail,Quito,2022-04-25,Medium
+C00693,Tecnología Los Ríos Cía. Ltda.,Company,SME,Quito,2021-02-06,Low
+C00694,Marco Montenegro Villacís,Individual,Retail,Quito,2019-07-30,Low
+C00695,Diana Morales Ortiz,Individual,Retail,Loja,2020-02-25,Low
+C00696,Pablo Vásquez Ramírez,Individual,Retail,Quito,2015-03-03,Low
+C00697,Marco Ramírez Bravo,Individual,retail,Cuenca,2015-07-07,Medium
+C00698,Elena López Montenegro,Individual,Retail,Quito,2016-08-18,Low
+C00699,Entidad Pública Educación 13,Public Entity,Government,Guayaquil,2020-08-16,Low
+C00700,Fernando Jaramillo Cárdenas,Individual,Retail,Machala,2017-07-05,Low
+C00701,Logística Cumbre Cía. Ltda.,Company,Corporate,Cuenca,2012-10-16,Medium
+C00702,Rosa Benítez Andrade,Individual,Retail,Quito,2024-02-24,Low
+C00703,Javier Mendoza Jaramillo,Individual,Retail,Quito,2019-01-28,Medium
+C00704,Esteban Sánchez López,Individual,Retail,Manta,2014-04-11,Low
+C00275,Natalia Mora Suárez,Individual,Retail,Cuenca,2022-03-08,Medium
+C00705,Carmen León Cárdenas,Individual,Retail,Cuenca,2022-07-13,Low
+C00706,Paola Guerrero Jaramillo,Individual,Retail,Ambato,2024-04-09,Low
+C00707,Santiago Castillo Villacís,Individual,Retail,Santo Domingo,2020-02-16,Low
+C00708,Exportadora Río Verde S.A.,Company,Corporate,Quito,2025-11-18,Medium
+C00709,Importadora Mitad del Mundo S.A.,Company,Corporate,Guayaquil,2015-05-09,Medium
+C00710,Fernando Salazar Quiroga,Individual,Retail,Quito,2013-11-11,High
+C00711,Camila Benítez Bravo,Individual,Retail,Guayaquil,2017-09-01,Low
+C00712,Diana Benítez Vega,Individual,Retail,Guayaquil,2015-09-29,Low
+C00713,Industrias del Litoral Cía. Ltda.,Company,SME,Cuenca,2022-04-10,Low
+C00714,Luis Herrera Bravo,Individual,Retail,Guayaquil,2012-06-06,Low
+C00715,Esteban Villacís Villacís,Individual,Retail,Quito,2019-07-12,Low
+C00716,Farmacéutica Volcán Cía. Ltda.,Company,SME,Santo Domingo,2014-12-20,Medium
+C00717,Andrea Mendoza Vega,Individual,Retail,Manta,2013-11-25,Medium
+C00718,Héctor Guerrero Benítez,Individual,Retail,Guayaquil,2014-05-26,Low
+C00719,Carlos Jaramillo Proaño,Individual,Retail,Ambato,2024-01-10,Medium
+C00720,Valeria Bravo Espinoza,Individual,Retail,Cuenca,2022-05-02,Low
+C00721,Jorge Bravo Guerrero,Individual,Retail,Guayaquil,2024-03-24,Low
+C00722,Importadora Andina Cía. Ltda.,Company,SME,Guayaquil,2017-03-24,Medium
+C00723,Santiago Salazar Mora,Individual,retail,Quito,2023-02-09,Low
+C00724,Industrias Estrella S.A.,Company,Corporate,Guayaquil,2023-05-21,Low
+C00725,Distribuidora del Litoral S.A.,Company,Corporate,Cuenca,2014-10-12,Low
+C00726,Exportadora Horizonte S.A.,Company,SME,Quito,2018-08-27,Low
+C00727,Pedro Morales Chávez,Individual,Retail,Cuenca,2012-02-27,High
+C00728,Industrias Cordillera S.A.,Company,Corporate,Quito,2013-05-29,Medium
+C00729,Ana Bravo Chávez,Individual,Retail,Riobamba,2012-04-08,Low
+C00730,Ricardo Yánez Vásquez,Individual,Retail,Quito,2013-06-23,Medium
+C00731,Ricardo Montenegro Torres,Individual,Retail,Guayaquil,2022-12-20,High
+C00732,Fernando Naranjo Yánez,Individual,Retail,Quito,2019-11-30,Medium
+C00733,Ricardo Zambrano Reyes,Individual,Retail,Quito,2020-08-24,Low
+C00734,Diego Salazar Villacís,Individual,Retail,Guayaquil,2025-10-09,Low
+C00735,Elena López Jaramillo,Individual,Retail,Quito,2020-10-10,Low
+C00736,Fernando Benítez Vega,Individual,Retail,Machala,2018-10-22,Medium
+C00737,Verónica Naranjo Mendoza,Individual,Retail,Quito,2015-08-02,Low
+C00738,Agrícola Equinoccial S.A.,Company,SME,Quito,2025-05-03,Low
+C00739,Diana Vega Morales,Individual,Retail,Quito,2015-07-23,Low
+C00740,Lorena Chávez Bravo,Individual,Retail,Quito,2014-11-26,Low
+C00741,Patricia Herrera Vásquez,Individual,Retail,Quito,2020-04-19,Low
+C00742,Ricardo Naranjo Salazar,Individual,Retail,Manta,2022-09-05,Low
+C00743,Fabián Sánchez Mendoza,Individual,Retail,Cuenca,2017-02-18,Low
+C00744,  Paola  Vega Proaño ,Individual,Retail,Guayaquil,2012-06-07,Medium
+C00745,Santiago Jaramillo Bravo,Individual,Retail,Guayaquil,2017-12-19,Low
+C00746,Fernando Pérez Jaramillo,Individual,Retail,Quito,2013-04-28,Low
+C00747,Comercial Horizonte Cía. Ltda.,Company,Corporate,Riobamba,2018-02-12,Low
+C00748,Ricardo Erazo Calderón,Individual,Retail,Riobamba,2016-03-21,Low
+C00749,Lucía Quiroga Delgado,Individual,Retail,Guayaquil,2018-05-02,Low
+C00750,Constructora Andina Cía. Ltda.,Company,SME,Guayaquil,2015-03-26,Low
+C00751,Pablo Flores Vásquez,Individual,Retail,Quito,2020-07-26,Low
+C00752,Farmacéutica Horizonte S.A.,Company,SME,Guayaquil,2025-04-11,Medium
+C00753,Corporación Cordillera S.A.,Company,SME,Machala,2013-03-05,Low
+C00754,Patricia Jaramillo Salazar,Individual,Retail,Quito,2025-01-19,Low
+C00755,Ricardo Zambrano López,Individual,Retail,Quito,2018-05-06,Medium
+C00756,Luis Suárez Delgado,Individual,Retail,Quito,2014-12-16,Medium
+C00757,Diego Jaramillo García,Individual,Retail,Riobamba,2020-01-30,Low
+C00758,Pablo Sánchez Espinoza,Individual,Retail,Quito,2013-05-24,Low
+C00759,Mónica Jaramillo Navarrete,Individual,Retail,Ambato,2014-08-02,Medium
+C00760,Distribuidora Los Ríos S.A.,Company,SME,Guayaquil,2012-07-17,Medium
+C00761,Miguel Castillo Cevallos,Individual,Retail,Quito,2024-05-20,Low
+C00762,Mónica Benítez Suárez,Individual,Retail,Guayaquil,2023-01-15,Low
+C00763,Inversiones Nevado S.A.,Company,SME,Guayaquil,2023-01-09,Medium
+C00764,Natalia Vásquez Suárez,Individual,Retail,Quito,2024-06-17,Low
+C00765,María Bravo Quiroga,Individual,Retail,Ambato,2016-07-09,Low
+C00766,Distribuidora Horizonte Cía. Ltda.,Company,Corporate,Quito,2018-05-26,Low
+C00767,Héctor Zambrano Morales,Individual,Retail,Guayaquil,2016-08-11,Low
+C00768,Constructora Cordillera S.A.S.,Company,Corporate,Quito,2018-10-21,Low
+C00769,Miguel Proaño Paredes,Individual,Retail,Machala,2016-01-22,Low
+C00770,Santiago Salazar Reyes,Individual,Retail,Ambato,2025-09-08,Medium
+C00771,Esteban Navarrete Erazo,Individual,Retail,Guayaquil,2024-09-11,Low
+C00772,Comercial Andina S.A.S.,Company,Corporate,Santo Domingo,2012-04-01,Medium
+C00773,Industrias Río Verde Cía. Ltda.,Company,Corporate,Guayaquil,2020-04-03,Low
+C00774,Elena Vásquez Espinoza,Individual,Retail,Guayaquil,2012-07-02,Low
+C00775,Lucía Ramírez Jaramillo,Individual,Retail,Guayaquil,2024-07-28,Low
+C00776,Camaronera Andina Cía. Ltda.,Company,SME,Guayaquil,2014-07-11,Low
+C00777,Natalia Navarrete Pérez,Individual,Retail,Guayaquil,2015-06-09,Low
+C00778,Santiago Benítez Cevallos,Individual,Retail,Quito,2022-06-12,High
+C00779,Florícola del Pacífico S.A.S.,Company,Corporate,Cuenca,2018-04-25,Low
+C00780,Verónica Benítez Pérez,Individual,Retail,Guayaquil,2024-07-11,Low
+C00781,María Cevallos Proaño,Individual,Retail,Manta,2025-05-15,Low
+C00782,Ana Quiroga Vásquez,Individual,Retail,Quito,2020-03-27,Low
+C00783,Andrés Vásquez Vásquez,Individual,Retail,Quito,2019-10-11,Low
+C00784,Patricia Reyes Torres,Individual,Retail,Manta,2015-04-24,Medium
+C00785,Corporación Nevado Cía. Ltda.,Company,SME,Quito,2015-02-01,Low
+C00786,Isabel Montenegro Calderón,Individual,Retail,Loja,2024-06-17,Low
+C00787,Carmen Erazo Sánchez,Individual,Retail,Riobamba,2015-02-16,Medium
+C00788,Mónica Flores Cárdenas,Individual,Retail,Quito,2025-05-28,Low
+C00789,Fabián Andrade Paredes,Individual,Retail,Cuenca,2017-01-31,Medium
+C00790,Camila Guerrero Salazar,Individual,Retail,Quito,2020-05-16,Low
+C00791,Mónica Naranjo Proaño,Individual,Retail,Guayaquil,2014-05-21,Low
+C00792,Exportadora Costa Azul S.A.S.,Company,Corporate,Manta,2023-04-25,Low
+C00793,Carlos Ramírez Ortiz,Individual,Retail,Riobamba,2014-03-02,Low
+C00794,José Benítez Quiroga,Individual,Retail,Machala,2016-03-01,Low
+C00795,Carlos Paredes Montenegro,Individual,Retail,Guayaquil,2021-01-14,Low
+C00796,Valeria Villacís Vásquez,Individual,Retail,Quito,2021-08-11,Medium
+C00797,Camaronera Cóndor S.A.S.,Company,SME,Quito,2019-03-03,Low
+C00798,Corporación Puerto Nuevo S.A.S.,Company,SME,Cuenca,2021-06-24,Medium
+C00799,Javier Vega Benítez,Individual,Retail,Quito,2013-12-12,Low
+C00800,Rosa Ortiz García,Individual,Retail,Guayaquil,2019-07-26,High
+C00801,Luis Salazar Ramírez,Individual,Retail,Guayaquil,2021-03-17,Low
+C00802,Natalia Benítez Suárez,Individual,Retail,Guayaquil,2023-04-05,Low
+C00803,Fabián Villacís Calderón,Individual,Retail,Quito,2023-08-04,Medium
+C00804,Pedro León Cevallos,Individual,Retail,Quito,2019-06-07,Low
+C00805,  Carlos  Mendoza Castillo ,Individual,Retail,Manta,2015-12-17,Low
+C00806,Gabriela Naranjo Sánchez,Individual,Retail,Machala,2025-08-20,Low
+C00807,Marco Guerrero García,Individual,Retail,Quito,2025-09-11,Low
+C00808,Patricia Chávez Benítez,Individual,Retail,Cuenca,2020-04-05,Low
+C00809,Corporación del Pacífico Cía. Ltda.,Company,SME,Guayaquil,2013-12-15,High
+C00810,Javier Castillo Zambrano,Individual,Retail,Loja,2017-06-15,Medium
+C00811,  Lucía  Benítez León ,Individual,Retail,Quito,2020-05-16,Low
+C00812,Gabriela Yánez Cárdenas,Individual,Retail,Guayaquil,2012-11-21,Low
+C00813,Diego Zambrano Andrade,Individual,Retail,Cuenca,2023-10-07,Low
+C00814,  Comercial  Cordillera S.A. ,Company,SME,Machala,2017-06-19,Medium
+C00815,Fernando Castillo Castillo,Individual,Retail,Guayaquil,2013-08-03,Low
+C00816,Héctor Jaramillo Espinoza,Individual,Retail,Quito,2013-08-17,Low
+C00817,Farmacéutica Volcán S.A.S.,Company,Corporate,Ambato,2013-05-03,Low
+C00818,Ricardo Zambrano Benítez,Individual,Retail,Quito,2020-05-19,Low
+C00819,Miguel Herrera Castillo,Individual,Retail,Loja,2025-10-23,Low
+C00820,  Distribuidora  Cóndor S.A.S. ,Company,Corporate,Quito,2013-09-06,Low
+C00821,Importadora Nevado S.A.,Company,Corporate,Quito,2012-11-23,Low
+C00822,Isabel Sánchez Ramírez,Individual,Retail,Quito,2025-09-11,Low
+C00823,Esteban Suárez Vega,Individual,Retail,Quito,2015-01-29,Low
+C00824,Camila Sánchez Calderón,Individual,Retail,Guayaquil,2013-05-30,Low
+C00825,Industrias Cordillera S.A.S.,Company,SME,Quito,2024-09-02,Low
+C00826,Sofía Mendoza Sánchez,Individual,Retail,Guayaquil,2021-03-25,Low
+C00827,Camaronera Costa Azul S.A.S.,Company,Corporate,Guayaquil,2018-08-13,Low
+C00828,Raúl Navarrete Salazar,Individual,Retail,Quito,2022-05-18,Low
+C00829,Pedro Ortiz Morales,Individual,Retail,Quito,2023-02-23,Low
+C00830,Verónica Proaño Reyes,Individual,Retail,Guayaquil,2015-04-13,Low
+C00831,Lucía Villacís Navarrete,Individual,Retail,Santo Domingo,2017-09-18,Low
+C00832,Andrea Yánez Pérez,Individual,Retail,Guayaquil,2021-06-06,Low
+C00833,Elena Vega Erazo,Individual,Retail,Guayaquil,2015-02-18,Low
+C00834,Ana Cevallos Espinoza,Individual,Retail,Guayaquil,2018-01-07,Low
+C00835,Elena Morales Cevallos,Individual,Retail,Riobamba,2019-07-28,Low
+C00836,Pedro Chávez Ortiz,Individual,Retail,Santo Domingo,2017-12-25,Low
+C00837,Paola Jaramillo Benítez,Individual,Retail,Guayaquil,2020-08-05,Low
+C00838,  Exportadora  Austral S.A.S. ,Company,SME,Manta,2018-01-18,Low
+C00839,Paola Cárdenas Naranjo,Individual,Retail,Guayaquil,2024-08-13,Low
+C00840,Sofía Chávez Yánez,Individual,Retail,Quito,2025-01-30,Low
+C00841,Tecnología Austral Cía. Ltda.,Company,Corporate,Machala,2020-08-15,Medium
+C00842,Comercial Nevado Cía. Ltda.,Company,Corporate,Quito,2023-01-09,Medium
+C00843,Valeria Salazar Benítez,Individual,Retail,Guayaquil,2025-09-13,Low
+C00844,Carlos Erazo Villacís,Individual,Retail,Guayaquil,2021-01-22,Low
+C00845,Mónica Pérez Ortiz,Individual,Retail,Riobamba,2022-07-14,Low
+C00846,Fabián Ortiz Espinoza,Individual,Retail,Quito,2012-06-28,Low
+C00847,Inversiones Andina Cía. Ltda.,Company,SME,Guayaquil,2021-10-22,Low
+C00848,Agrícola del Litoral Cía. Ltda.,Company,SME,Machala,2016-11-30,Medium
+C00849,Óscar Mora Mendoza,Individual,Retail,Guayaquil,2017-02-15,Medium
+C00850,Rosa Bravo Navarrete,Individual,Retail,Quito,2013-10-11,Low
+C00851,Carmen Quiroga Jaramillo,Individual,Retail,Quito,2024-08-22,Low
+C00852,Carlos Naranjo Flores,Individual,Retail,Guayaquil,2015-12-12,Low
+C00853,Inversiones Sierra Norte S.A.,Company,SME,Guayaquil,2013-09-23,Low
+C00854,Gabriela Calderón Guerrero,Individual,Retail,Ambato,2020-04-10,Low
+C00855,Logística Sierra Norte S.A.,Company,Corporate,Quito,2018-02-08,Low
+C00856,Héctor Delgado Zambrano,Individual,Retail,Quito,2013-01-31,Medium
+C00857,Paola Erazo Vásquez,Individual,Retail,Cuenca,2015-12-05,Low
+C00858,Andrés Erazo Cevallos,Individual,Retail,Guayaquil,2020-06-18,Low
+C00859,Textiles Cumbre S.A.S.,Company,SME,Quito,2023-10-11,Medium
+C00860,Diana Torres Erazo,Individual,Retail,Ambato,2021-02-01,Low
+C00861,Inversiones Sierra Norte S.A.S.,Company,SME,Quito,2013-08-24,Low
+C00862,Sofía Guerrero Erazo,Individual,Retail,Quito,2025-01-26,Low
+C00863,Ricardo Vega Mendoza,Individual,Retail,Quito,2015-04-20,Low
+C00864,Diego Ramírez Zambrano,Individual,Retail,Loja,2012-05-14,Medium
+C00865,  Industrias  Cumbre Cía. Ltda. ,Company,Corporate,Guayaquil,2025-04-19,High
+C00866,Paola Jaramillo García,Individual,Retail,Quito,2013-03-11,Medium
+C00867,Logística Volcán S.A.,Company,SME,Guayaquil,2022-09-13,High
+C00868,Esteban Espinoza Torres,Individual,Retail,Santo Domingo,2018-12-17,Low
+C00869,Jorge Jaramillo Navarrete,Individual,Retail,Quito,2023-09-08,Low
+C00870,Valeria Bravo Reyes,Individual,Retail,Guayaquil,2019-04-29,Low
+C00871,Textiles Estrella S.A.,Company,SME,Guayaquil,2023-07-12,Medium
+C00872,Fabián Suárez Espinoza,Individual,Retail,Santo Domingo,2024-06-06,Low
+C00873,Marco Pérez Jaramillo,Individual,Retail,Guayaquil,2020-08-10,Low
+C00874,Luis Ramírez Andrade,Individual,Retail,Quito,2024-07-18,Low
+C00875,Carmen Chávez Navarrete,Individual,Retail,Guayaquil,2013-06-26,Low
+C00876,Esteban Espinoza Naranjo,Individual,Retail,Santo Domingo,2015-09-18,Low
+C00877,Rosa Reyes Sánchez,Individual,Retail,Quito,2024-09-21,Low
+C00878,Logística Horizonte S.A.S.,Company,SME,Guayaquil,2023-10-24,Medium
+C00879,Natalia Mora Pérez,Individual,Retail,Quito,2012-07-01,Low
+C00880,Héctor Ramírez Vega,Individual,Retail,Guayaquil,2025-02-18,Low
+C00881,Farmacéutica del Litoral S.A.,Company,SME,Loja,2024-08-12,Low
+C00882,Carmen García Calderón,Individual,Retail,Ambato,2021-04-03,Low
+C00883,Valeria Ramírez Flores,Individual,Retail,Guayaquil,2025-11-09,Low
+C00884,Logística del Pacífico Cía. Ltda.,Company,Corporate,Guayaquil,2021-09-10,Low
+C00885,José Sánchez Vásquez,Individual,Retail,Santo Domingo,2025-05-18,Low
+C00886,Daniela Zambrano Chávez,Individual,Retail,Guayaquil,2024-10-20,Medium
+C00887,Agrícola Sierra Norte S.A.S.,Company,SME,Guayaquil,2013-11-03,Medium
+C00888,Carmen Calderón Chávez,Individual,Retail,Santo Domingo,2014-01-26,Medium
+C00889,Carmen Delgado Andrade,Individual,Retail,Cuenca,2020-03-23,Medium
+C00890,Javier Proaño Flores,Individual,Retail,Quito,2018-12-12,Low
+C00891,Natalia Flores Cevallos,Individual,Retail,Loja,2015-10-24,Medium
+C00892,Camila García Pérez,Individual,Retail,Guayaquil,2023-10-19,Low
+C00893,Diego Espinoza Reyes,Individual,Retail,Guayaquil,2023-07-19,Low
+C00894,  Constructora  Cordillera S.A. ,Company,SME,Cuenca,2019-08-06,Medium
+C00895,  Marco  Torres Suárez ,Individual,Retail,Manta,2021-05-17,Low
+C00896,Sofía Salazar Morales,Individual,Retail,Cuenca,2015-05-03,Low
+C00897,Ana Yánez Guerrero,Individual,Retail,Guayaquil,2013-08-24,Low
+C00898,Ricardo Yánez Ortiz,Individual,Retail,Quito,2021-10-06,Medium
+C00899,Andrea Yánez Ramírez,Individual,Retail,Quito,2012-10-04,Low
+C00900,Javier Espinoza Delgado,Individual,Retail,Quito,2017-08-27,Medium
+C00901,Isabel Zambrano Salazar,Individual,Retail,Cuenca,2021-06-21,High
+C00902,Fabián López Andrade,Individual,Retail,Riobamba,2024-06-17,Low
+C00903,Camila Sánchez Jaramillo,Individual,Retail,Riobamba,2023-02-09,Medium
+C00904,Gabriela Cárdenas Cevallos,Individual,Retail,Cuenca,2020-02-03,Medium
+C00905,Patricia Sánchez Andrade,Individual,Retail,Guayaquil,2024-07-25,Low
+C00906,Héctor Pérez Mora,Individual,Retail,Ibarra,2023-11-10,Low
+C00907,Lorena Mendoza Chávez,Individual,Retail,Quito,2018-07-05,Medium
+C00908,Luis Quiroga Sánchez,Individual,Retail,Quito,2013-05-29,Medium
+C00909,Isabel Erazo Proaño,Individual,Retail,Guayaquil,2022-01-28,Medium
+C00910,Luis Naranjo Yánez,Individual,Retail,Guayaquil,2017-12-13,Low
+C00911,Miguel Montenegro Ortiz,Individual,Retail,Quito,2024-10-07,Medium
+C00912,Pablo Benítez Suárez,Individual,Retail,Manta,2025-10-17,Medium
+C00913,Ana Vega Yánez,Individual,Retail,Machala,2014-08-07,Medium
+C00914,Inversiones Nevado S.A.S.,Company,SME,Guayaquil,2016-06-28,Low
+C00915,Agrícola Los Ríos Cía. Ltda.,Company,Corporate,Guayaquil,2017-10-16,Low
+C00916,Industrias Volcán S.A.,Company,SME,Ambato,2024-07-27,Low
+C00917,Pedro Ramírez Calderón,Individual,Retail,Loja,2015-06-28,Medium
+C00918,María Ortiz Espinoza,Individual,Retail,Riobamba,2018-01-21,Low
+C00919,Corporación Horizonte S.A.,Company,SME,Guayaquil,2023-06-16,Medium
+C00920,Industrias Austral Cía. Ltda.,Company,SME,Guayaquil,2019-12-03,Medium
+C00921,Textiles del Litoral S.A.S.,Company,SME,Ibarra,2013-12-08,Low
+C00922,Valeria León Mora,Individual,Retail,Guayaquil,2023-12-30,High
+C00923,Javier Benítez Sánchez,Individual,Retail,Manta,2023-06-29,Low
+C00924,Andrés Mendoza Bravo,Individual,Retail,Riobamba,2013-07-02,Medium
+C00925,Camila Navarrete Reyes,Individual,Retail,Guayaquil,2012-12-09,Low
+C00926,Fabián Torres Benítez,Individual,Retail,Cuenca,2025-01-16,Low
+C00927,María Salazar Reyes,Individual,Retail,Quito,2014-08-12,Low
+C00928,Andrea Navarrete Sánchez,Individual,Retail,Manta,2012-09-23,Low
+C00929,Paola Ramírez Calderón,Individual,Retail,Santo Domingo,2024-02-26,Low
+C00930,Exportadora del Litoral Cía. Ltda.,Company,SME,Quito,2024-10-14,Low
+C00931,Importadora Bahía Cía. Ltda.,Company,Corporate,Guayaquil,2012-07-05,Low
+C00932,Gabriela Flores Herrera,Individual,Retail,Quito,2025-09-09,Low
+C00933,Lucía García Paredes,Individual,Retail,Quito,2016-10-05,Low
+C00934,Ana Pérez Ramírez,Individual,Retail,Ambato,2025-07-17,Medium
+C00935,Rosa Navarrete Proaño,Individual,Retail,Guayaquil,2025-11-04,Medium
+C00936,Luis Ramírez Cárdenas,Individual,Retail  ,Guayaquil,2019-06-23,Low
+C00937,Importadora Equinoccial S.A.S.,Company,SME,Quito,2020-02-06,Low
+C00938,Andrés Yánez Navarrete,Individual,Retail,Guayaquil,2024-09-10,Low
+C00939,Fabián García Benítez,Individual,Retail,Guayaquil,2023-06-07,Low
+C00940,Diana Pérez Proaño,Individual,Retail,Quito,2016-03-16,Low
+C00941,Elena Morales Bravo,Individual,Retail,Guayaquil,2019-09-21,High
+C00942,Pablo Yánez Quiroga,Individual,Retail,Cuenca,2014-10-18,Low
+C00943,Óscar Vega Andrade,Individual,Retail,Cuenca,2017-09-03,Low
+C00944,  Natalia  Guerrero Ortiz ,Individual,Retail,Guayaquil,2012-11-25,Low
+C00945,Luis Espinoza Zambrano,Individual,Retail,Guayaquil,2025-08-11,Low
+C00946,Importadora Andina Cía. Ltda.,Company, SME ,Quito,2016-08-17,Low
+C00947,Lucía Vásquez Salazar,Individual,Retail,Quito,2018-03-03,Low
+C00948,Carmen Morales Villacís,Individual,Retail,Quito,2017-06-11,Medium
+C00949,Elena Delgado Paredes,Individual,Retail,Ambato,2013-05-03,Low
+C00950,Distribuidora Volcán S.A.,Company,Corporate,Guayaquil,2024-05-24,Low
+C00951,María Castillo Mora,Individual,Retail,Quito,2017-01-11,Low
+C00952,Verónica Castillo Villacís,Individual,Retail,Guayaquil,2022-10-10,Medium
+C00953,José Ortiz Vega,Individual,Retail,Guayaquil,2015-03-31,Medium
+C00954,Diana Paredes García,Individual,Retail,Manta,2023-08-02,Medium
+C00955,José Espinoza Proaño,Individual,Retail,Manta,2024-09-15,Medium
+C00956,Andrea Bravo Proaño,Individual,Retail,Santo Domingo,2023-11-20,Low
+C00957,Diana Andrade Jaramillo,Individual,Retail,Quito,2021-05-31,Low
+C00958,Fernando López García,Individual,Retail,Guayaquil,2021-07-12,Medium
+C00959,Natalia Mendoza Zambrano,Individual,Retail,Guayaquil,2020-01-02,Low
+C00960,Fernando Ortiz Salazar,Individual,Retail,Quito,2019-07-16,Medium
+C00961,Raúl Sánchez Vega,Individual,Retail,Guayaquil,2013-09-16,Medium
+C00962,Distribuidora Volcán S.A.,Company,SME,Quito,2021-04-01,Medium
+C00963,Importadora Nevado Cía. Ltda.,Company,SME,Guayaquil,2020-04-26,Low
+C00964,Logística Estrella Cía. Ltda.,Company,SME,Cuenca,2018-04-16,Medium
+C00965,Daniela Flores Sánchez,Individual,Retail,Manta,2017-08-12,Low
+C00966,Paola Cevallos Castillo,Individual,Retail,Cuenca,2015-09-30,Low
+C00967,María Vega Morales,Individual,Retail,Quito,2023-04-19,Medium
+C00968,Verónica Andrade Chávez,Individual,Retail,Ambato,2020-01-02,Low
+C00969,Andrés Benítez García,Individual,Retail,Guayaquil,2016-04-26,Low
+C00970,Luis López Mendoza,Individual,Retail,Guayaquil,2024-07-21,Low
+C00971,Marco Naranjo Bravo,Individual,Retail,Quito,2024-07-28,Medium
+C00972,  Farmacéutica  Cordillera S.A.S. ,Company,SME,Machala,2013-06-02,Low
+C00973,Santiago Andrade León,Individual,Retail,Guayaquil,2021-06-05,Medium
+C00974,Daniela Espinoza Jaramillo,Individual,Retail,Guayaquil,2021-09-30,Medium
+C00975,Verónica Mora Navarrete,Individual,Retail,Loja,2025-08-28,Medium
+C00976,Valeria Montenegro León,Individual,Retail,Quito,2025-08-31,Low
+C00977,Corporación Volcán S.A.,Company,Corporate,Quito,2017-11-01,Medium
+C00978,José Mendoza Zambrano,Individual,Retail,Santo Domingo,2022-06-05,Medium
+C00979,Lucía Herrera Delgado,Individual,Retail,Quito,2024-04-25,Low
+C00980,Natalia Herrera Delgado,Individual,Retail,Manta,2017-03-13,Low
+C00981,Ana Suárez Erazo,Individual,Retail,Quito,2013-11-15,Low
+C00982,Juan Paredes Sánchez,Individual,Retail,Guayaquil,2015-12-31,Low
+C00983,Daniela Herrera Naranjo,Individual,Retail,Guayaquil,2021-12-02,Medium
+C00984,Raúl Flores Salazar,Individual,Retail,Ibarra,2018-03-13,Low
+C00985,Luis Andrade Benítez,Individual,Retail,Guayaquil,2024-02-01,Low
+C00986,Constructora Estrella S.A.,Company,SME,Quito,2016-04-08,Medium
+C00987,Marco Calderón Vásquez,Individual,Retail,Cuenca,2024-01-27,High
+C00988,Ricardo Villacís Guerrero,Individual,Retail,Cuenca,2023-04-21,Medium
+C00989,Industrias Sierra Norte S.A.,Company,SME,Guayaquil,2022-09-10,Low
+C00990,Carlos Jaramillo López,Individual,retail,Quito,2024-10-22,Medium
+C00991,Agrícola Puerto Nuevo Cía. Ltda.,Company,SME,Guayaquil,2013-02-04,Low
+C00992,Paola Villacís Torres,Individual,Retail,Quito,2013-12-27,Low
+C00993,Diana Jaramillo Zambrano,Individual,Retail,Quito,2018-01-16,High
+C00994,Agrícola del Pacífico Cía. Ltda.,Company,SME,Manta,2015-10-26,Low
+C00995,Luis Navarrete Cevallos,Individual,Retail,Quito,2021-03-14,Low
+C00996,Isabel Bravo Torres,Individual,Retail,Manta,2012-05-19,Medium
+C00997,Diana López Herrera,Individual,Retail,Machala,2014-09-29,Low
+C00998,Diana Guerrero Navarrete,Individual,Retail,Guayaquil,2024-01-06,Medium
+C00999,Gabriela Navarrete Castillo,Individual,Retail,Cuenca,2020-06-24,Low
+C01000,Carlos Zambrano Pérez,Individual,Retail,Guayaquil,2013-06-20,Low
+C01001,Camaronera Cordillera S.A.S.,Company,Corporate,Quito,2018-11-24,Low
+C01002,Paola Cárdenas Herrera,Individual,Retail,Quito,2023-11-07,Low
+C01003,Juan Flores Reyes,Individual,Retail,Guayaquil,2020-09-28,Medium
+C01004,Patricia Quiroga Cevallos,Individual,Retail,Ambato,2017-02-19,Low
+C01005,Raúl López Quiroga,Individual,Retail,Quito,2013-11-24,Low
+C01006,Verónica Quiroga Suárez,Individual,Retail,Quito,2023-11-23,Medium
+C01007,Miguel García Vásquez,Individual,Retail,Quito,2018-03-06,High
+C01008,Isabel Bravo Delgado,Individual,Retail,Guayaquil,2019-08-16,Low
+C01009,Ana Quiroga Ortiz,Individual,Retail,Guayaquil,2024-12-29,Low
+C01010,Natalia Salazar Guerrero,Individual,Retail,Manta,2016-12-22,Medium
+C01011,Rosa García Erazo,Individual,Retail,Quito,2024-05-06,Low
+C01012,Fernando Ortiz Yánez,Individual,Retail,Quito,2016-06-09,Low
+C01013,Ricardo Naranjo Cevallos,Individual,Retail,Santo Domingo,2013-11-18,Low
+C01014,Héctor Vega Salazar,Individual,Retail,Quito,2024-04-07,Low
+C01015,Pablo Navarrete Mora,Individual,Retail,Ibarra,2012-08-05,Low
+C01016,Jorge Sánchez Cárdenas,Individual,Retail,Machala,2014-11-13,Low
+C01017,María Ortiz Villacís,Individual,Retail,Machala,2018-05-12,Low
+C01018,Pablo Andrade Bravo,Individual,Retail,Quito,2020-10-14,Medium
+C01019,Diego Delgado Espinoza,Individual,Retail,Cuenca,2023-10-18,Low
+C01020,Jorge Calderón Quiroga,Individual,Retail,Quito,2020-11-26,Low
+C01021,Comercial Estrella S.A.,Company,SME,Santo Domingo,2015-07-15,Medium
+C01022,Héctor Jaramillo Espinoza,Individual,Retail,Quito,2018-03-02,Low
+C01023,Rosa Paredes Cevallos,Individual,Retail  ,Quito,2023-08-28,Medium
+C01024,Comercial Mitad del Mundo S.A.S.,Company,Corporate,Guayaquil,2019-07-27,Medium
+C01025,Inversiones Volcán S.A.S.,Company,Corporate,Quito,2014-11-21,Medium
+C01026,Luis Mendoza Delgado,Individual,Retail,Quito,2016-07-22,Low
+C01027,Florícola Austral S.A.,Company,SME,Guayaquil,2016-10-09,Low
+C01671,Logística Sierra Norte S.A.,Company,SME,Guayaquil,2021-07-31,Low
+C01028,Distribuidora del Litoral Cía. Ltda.,Company,Corporate,Quito,2021-08-21,Low
+C01029,Fabián García Vega,Individual,Retail,Cuenca,2015-03-14,High
+C01030,Juan Quiroga Cevallos,Individual,Retail,Loja,2018-10-26,Low
+C01031,Textiles Río Verde S.A.,Company,SME,Ambato,2025-07-17,Low
+C01032,Pablo Cevallos Morales,Individual,Retail,Quito,2020-05-24,Low
+C01033,Jorge Vásquez Montenegro,Individual,Retail,Quito,2025-06-03,Low
+C01034,Carlos Quiroga Quiroga,Individual,Retail,Cuenca,2012-05-09,Low
+C01035,Industrias Estrella S.A.,Company,SME,Ambato,2021-06-08,Low
+C01036,Santiago Quiroga Navarrete,Individual,Retail,Guayaquil,2022-03-26,Low
+C01037,Carmen Calderón Vásquez,Individual,Retail,Quito,2015-04-18,Low
+C01038,José Suárez Ramírez,Individual,Retail,Riobamba,2016-05-11,Medium
+C01039,Jorge López Naranjo,Individual,Retail,Quito,2025-02-17,High
+C01040,Comercial Volcán S.A.S.,Company,Corporate,Guayaquil,2022-08-10,Low
+C01041,Isabel Cárdenas Benítez,Individual,Retail  ,Quito,2017-02-11,Low
+C01042,Óscar Vásquez Ortiz,Individual,Retail,Guayaquil,2025-06-16,Medium
+C01043,Farmacéutica Andina Cía. Ltda.,Company,SME,Guayaquil,2025-11-10,Low
+C01044,Fabián Bravo Chávez,Individual,Retail,Quito,2015-04-21,Medium
+C01045,Raúl Jaramillo Chávez,Individual,Retail,Quito,2020-06-26,Low
+C01046,Daniela Andrade Navarrete,Individual,Retail,Guayaquil,2021-07-21,Medium
+C01047,Logística del Valle S.A.,Company,Corporate,Guayaquil,2014-09-11,Low
+C01048,Industrias Puerto Nuevo S.A.S.,Company,Corporate,Machala,2018-12-20,Low
+C01049,Luis Benítez León,Individual,Retail,Quito,2023-07-11,Low
+C01050,Santiago Espinoza Delgado,Individual,Retail,Quito,2020-09-06,Low
+C01051,Camaronera Costa Azul S.A.S.,Company,SME,Santo Domingo,2024-02-19,Low
+C01052,Ana Bravo Pérez,Individual,Retail,Machala,2013-08-22,Low
+C01053,Isabel Cárdenas López,Individual,Retail,Cuenca,2025-03-29,Low
+C01054,Comercial Mitad del Mundo S.A.,Company,Corporate,Guayaquil,2018-01-21,Low
+C01055,Marco Erazo Quiroga,Individual,Retail,Ambato,2024-05-23,Medium
+C01056,Pablo Herrera Erazo,Individual,Retail,Quito,2012-06-08,Low
+C01057,Tecnología Cumbre S.A.S.,Company,SME,Ibarra,2013-01-25,Low
+C01058,Logística Cóndor S.A.,Company,SME,Guayaquil,2017-11-28,High
+C01059,Raúl Paredes Espinoza,Individual,Retail,Santo Domingo,2013-12-31,High
+C01060,Ricardo Torres León,Individual,Retail,Guayaquil,2020-12-31,Low
+C01061,Rosa Reyes Andrade,Individual,Retail,Guayaquil,2025-11-25,Low
+C01062,Comercial Puerto Nuevo S.A.,Company,SME,Guayaquil,2021-06-18,Low
+C01063,Camaronera Horizonte S.A.,Company,SME,Guayaquil,2025-01-20,Low
+C01064,Carlos Calderón Quiroga,Individual,Retail,Ambato,2013-02-06,Low
+C01065,Natalia Salazar Delgado,Individual,Retail,Quito,2014-02-13,Low
+C01066,Ana Ortiz Montenegro,Individual,Retail,Machala,2017-08-11,Low
+C01067,Raúl García Jaramillo,Individual,Retail,Guayaquil,2023-07-07,Low
+C01068,María León Flores,Individual,Retail,Quito,2025-08-26,Low
+C01069,Camaronera Costa Azul Cía. Ltda.,Company,SME,Ambato,2019-08-18,Low
+C01070,Óscar Montenegro Naranjo,Individual,Retail,Loja,2017-03-12,Low
+C01071,Lucía Suárez López,Individual,Retail,Guayaquil,2019-08-04,Medium
+C01072,José Vega Yánez,Individual,Retail,Quito,2021-08-12,Medium
+C01073,Importadora Río Verde Cía. Ltda.,Company,SME,Loja,2024-08-29,Low
+C01074,Carmen Andrade Vásquez,Individual,Retail,Quito,2020-06-08,Low
+C01075,Tecnología Sierra Norte S.A.,Company,SME,Ibarra,2013-12-07,Medium
+C01076,Patricia Andrade Sánchez,Individual,Retail,Santo Domingo,2022-01-12,Low
+C01077,Mónica Proaño Jaramillo,Individual,Retail,Guayaquil,2015-11-28,Low
+C01078,Ricardo Proaño Zambrano,Individual,Retail,Riobamba,2025-08-31,Low
+C01079,Raúl Pérez Ortiz,Individual,Retail,Riobamba,2012-05-12,Low
+C01080,Luis Sánchez Cevallos,Individual,Retail,Cuenca,2024-08-23,Low
+C01081,Constructora Cóndor S.A.S.,Company,SME,Guayaquil,2014-11-30,Medium
+C01082,Lorena Suárez Navarrete,Individual,Retail,Guayaquil,2013-11-19,Low
+C01083,Raúl Suárez Reyes,Individual,Retail,Guayaquil,2021-11-24,Medium
+C01084,Paola Calderón Zambrano,Individual,Retail,Guayaquil,2022-09-17,Medium
+C01085,Gabriela Benítez Bravo,Individual,Retail,Cuenca,2013-06-04,Low
+C01086,Isabel Vega Bravo,Individual,Retail,Quito,2020-08-15,Medium
+C01087,Fabián Chávez Suárez,Individual,Retail,Quito,2024-05-12,Low
+C01088,Camila Cevallos Calderón,Individual,Retail,Guayaquil,2023-10-05,Low
+C01089,Paola Vásquez Delgado,Individual,Retail,Ambato,2020-01-31,Low
+C01090,Lorena Sánchez Reyes,Individual,Retail,Cuenca,2012-09-07,Low
+C01091,Raúl López Sánchez,Individual,Retail,Quito,2023-09-29,Low
+C01092,Fernando Herrera Torres,Individual,Retail,Guayaquil,2025-09-18,Low
+C01093,Diego Calderón Proaño,Individual,Retail,Machala,2024-08-15,Low
+C01094,Fabián García Sánchez,Individual,Retail,Guayaquil,2017-11-05,Low
+C01095,Ricardo López Calderón,Individual,Retail,Santo Domingo,2024-07-01,Low
+C01096,  Exportadora  Estrella S.A. ,Company,Corporate,Machala,2016-12-20,Low
+C01097,Textiles Cóndor S.A.S.,Company,SME,Guayaquil,2025-05-31,Medium
+C01098,Patricia Vásquez Benítez,Individual,Retail,Quito,2025-05-16,High
+C01099,Andrea Salazar Benítez,Individual,Retail,Machala,2018-06-11,Low
+C01100,Fernando Ramírez Bravo,Individual,Retail,Machala,2023-06-28,Low
+C01101,Lucía Castillo Erazo,Individual,Retail,Quito,2019-06-25,Low
+C01102,Luis Flores Vásquez,Individual,Retail,Guayaquil,2018-11-24,Low
+C01103,Jorge Salazar Salazar,Individual,Retail,Manta,2016-10-22,Low
+C01104,Diana García Ortiz,Individual,Retail,Machala,2022-01-12,Low
+C01105,Lorena Pérez Jaramillo,Individual,Retail,Guayaquil,2013-12-14,Low
+C01106,Isabel Villacís Bravo,Individual,Retail,Cuenca,2014-09-26,Low
+C01107,Andrea Delgado Erazo,Individual,retail,Quito,2018-02-03,Low
+C01108,Textiles Bahía S.A.S.,Company,Corporate,Quito,2024-12-22,Medium
+C01109,Valeria Navarrete Chávez,Individual,Retail,Quito,2025-08-20,Medium
+C01110,Marco Calderón Montenegro,Individual,Retail  ,Guayaquil,2015-10-04,Low
+C01111,Textiles Horizonte S.A.S.,Company,Corporate,Riobamba,2021-06-18,Medium
+C01112,Ricardo Bravo Quiroga,Individual,Retail,Guayaquil,2014-11-21,Low
+C01113,Importadora Austral S.A.S.,Company,SME,Loja,2012-02-21,Low
+C01114,Farmacéutica Cordillera Cía. Ltda.,Company,SME,Guayaquil,2017-03-16,Low
+C01115,Camaronera Equinoccial Cía. Ltda.,Company,SME,Quito,2019-08-16,Low
+C01116,Elena Navarrete López,Individual,Retail,Guayaquil,2018-05-14,Medium
+C01117,Diana Bravo Villacís,Individual,Retail,Quito,2015-03-26,Medium
+C01118,Miguel Chávez Montenegro,Individual,Retail,Cuenca,2025-03-27,Low
+C01119,Pablo Jaramillo Andrade,Individual,Retail,Santo Domingo,2024-06-20,Low
+C01120,Carlos Mora Morales,Individual,Retail,Cuenca,2015-11-17,Medium
+C01121,Jorge Herrera Mendoza,Individual,Retail,Cuenca,2012-02-28,Low
+C01122,Comercial Puerto Nuevo S.A.S.,Company,SME,Quito,2014-01-06,Low
+C01123,Camila León Morales,Individual,Retail,Ambato,2015-09-14,Low
+C01124,Constructora Austral S.A.S.,Company,Corporate,Loja,2016-01-20,Low
+C01125,Ricardo Paredes Vásquez,Individual,Retail,Machala,2015-06-21,Medium
+C01126,Ricardo Jaramillo Bravo,Individual,Retail,Quito,2022-03-04,Low
+C01127,Paola García Zambrano,Individual,Retail,Cuenca,2014-09-17,Low
+C01128,Isabel Morales Mendoza,Individual,Retail,Santo Domingo,2016-11-14,Low
+C01129,Gabriela Benítez Salazar,Individual,Retail,Guayaquil,2025-09-21,Low
+C01130,Exportadora Equinoccial S.A.S.,Company,Corporate,Cuenca,2019-05-02,Low
+C01131,Sofía Ortiz Navarrete,Individual,Retail,Cuenca,2020-02-27,Low
+C01132,Fabián Calderón Morales,Individual,Retail,Guayaquil,2018-11-28,Low
+C01133,Isabel Vega Naranjo,Individual,Retail,Quito,2012-06-09,Low
+C01134,Industrias Estrella Cía. Ltda.,Company,SME,Guayaquil,2014-08-12,Low
+C01135,Tecnología Estrella Cía. Ltda.,Company,SME,Guayaquil,2015-08-20,Low
+C01136,Óscar Reyes Mora,Individual,Retail,Guayaquil,2024-04-25,Low
+C01137,Tecnología Horizonte S.A.,Company,SME,Guayaquil,2024-09-05,Low
+C01138,Jorge Herrera Vásquez,Individual,Retail,Quito,2013-03-20,Low
+C01139,Logística del Pacífico Cía. Ltda.,Company,SME,Quito,2022-06-11,Low
+C01140,Florícola Río Verde Cía. Ltda.,Company,Corporate,Cuenca,2020-05-07,Low
+C01141,Paola Calderón Zambrano,Individual,Retail,Guayaquil,2024-02-11,Low
+C01142,Sofía Ortiz Villacís,Individual,Retail,Guayaquil,2019-03-12,Low
+C01143,Andrés Morales Proaño,Individual,Retail,Cuenca,2015-05-07,Low
+C01144,Logística Estrella S.A.S.,Company,SME,Guayaquil,2012-07-15,Low
+C01145,Industrias Bahía S.A.,Company,SME,Quito,2025-08-13,Low
+C01146,Distribuidora Estrella Cía. Ltda.,Company,Corporate,Guayaquil,2014-08-01,Low
+C01147,Carmen Jaramillo Guerrero,Individual,Retail,Quito,2022-04-29,Medium
+C01148,Diego Delgado Guerrero,Individual,Retail,Guayaquil,2014-01-01,Low
+C01149,Jorge Herrera López,Individual,Retail,Ambato,2015-01-19,Low
+C01150,Diana Montenegro Ortiz,Individual,Retail,Guayaquil,2016-10-19,Low
+C01151,Elena Villacís Sánchez,Individual,Retail,Manta,2018-10-05,Low
+C01152,Pedro López García,Individual,Retail,Manta,2012-07-05,Low
+C01153,Diana Herrera Sánchez,Individual,Retail,Guayaquil,2015-01-07,Low
+C01154,Diego Benítez Yánez,Individual,Retail,Ibarra,2020-03-23,Low
+C01155,Inversiones Austral S.A.S.,Company,SME,Quito,2025-11-13,Low
+C01156,Natalia Vega Benítez,Individual,Retail,Riobamba,2017-02-17,Low
+C01157,Industrias Costa Azul Cía. Ltda.,Company,Corporate,Guayaquil,2020-09-08,Medium
+C01158,Daniela Benítez Paredes,Individual,Retail,Guayaquil,2024-06-08,High
+C01159,Ana Chávez Guerrero,Individual,Retail,Guayaquil,2023-02-05,Low
+C01160,Lorena Delgado Montenegro,Individual,Retail,Quito,2013-11-30,Medium
+C01161,José Cárdenas Naranjo,Individual,Retail,Quito,2014-05-26,Low
+C01162,Andrés Andrade Naranjo,Individual,Retail,Guayaquil,2018-05-27,Low
+C01163,José Bravo Vásquez,Individual,Retail,Quito,2022-02-15,Medium
+C01164,Industrias Cóndor S.A.,Company,SME,Quito,2019-10-22,Low
+C01165,Exportadora Los Ríos Cía. Ltda.,Company,Corporate,Quito,2024-09-14,Low
+C01166,  Comercial  Nevado S.A. ,Company,SME,Guayaquil,2023-07-14,Low
+C01167,Pablo Navarrete Naranjo,Individual,Retail,Quito,2014-01-07,Low
+C01168,Comercial Nevado S.A.,Company,SME,Quito,2020-03-19,Low
+C01169,José García Sánchez,Individual,Retail,Quito,2012-12-13,Low
+C01170,Comercial Río Verde S.A.S.,Company,SME,Riobamba,2013-10-14,Medium
+C01171,Pedro Vásquez Mora,Individual,Retail,Guayaquil,2020-12-25,Low
+C01172,José Benítez Proaño,Individual,Retail,Quito,2019-10-29,Low
+C01173,Javier Montenegro Chávez,Individual,Retail,Guayaquil,2016-08-02,Low
+C01174,Fernando Mendoza Erazo,Individual,Retail,Santo Domingo,2021-11-09,Medium
+C01175,Mónica Chávez Jaramillo,Individual,Retail,Cuenca,2015-02-06,Low
+C01176,Comercial del Pacífico Cía. Ltda.,Company,Corporate,Guayaquil,2021-07-18,High
+C01177,Natalia Benítez Espinoza,Individual,Retail,Guayaquil,2022-06-25,Low
+C01178,José Paredes Yánez,Individual,Retail,Machala,2013-07-10,Low
+C01179,Constructora del Litoral S.A.S.,Company,SME,Guayaquil,2024-03-08,Low
+C01180,Juan Bravo Erazo,Individual,Retail,Cuenca,2018-09-04,Low
+C01181,Camila Zambrano Erazo,Individual,Retail  ,Guayaquil,2013-06-17,Low
+C01182,Camaronera Equinoccial Cía. Ltda.,Company,corporate,Guayaquil,2018-07-25,Medium
+C01183,Importadora del Valle S.A.,Company,Corporate,Guayaquil,2017-12-20,Medium
+C01184,Ricardo Chávez López,Individual,Retail,Cuenca,2023-07-24,Low
+C01185,Natalia Proaño Guerrero,Individual,Retail,Guayaquil,2017-12-03,Low
+C01186,Camaronera del Valle S.A.,Company,SME,Quito,2013-02-21,Medium
+C01187,Raúl León García,Individual,Retail,Cuenca,2012-08-12,Low
+C01188,Juan García Calderón,Individual,Retail,Guayaquil,2024-03-26,Low
+C01189,Lorena Proaño Suárez,Individual,Retail,Loja,2022-01-22,Medium
+C01190,Rosa Montenegro Benítez,Individual,Retail,Cuenca,2023-04-18,High
+C01191,Héctor Benítez Espinoza,Individual,Retail,Quito,2024-11-07,Low
+C01192,Lucía Montenegro Torres,Individual,Retail,Quito,2017-03-24,Low
+C01193,Héctor Vásquez Montenegro,Individual,Retail,Guayaquil,2012-07-29,Low
+C01194,Esteban Salazar Castillo,Individual,Retail,Machala,2016-01-13,Low
+C01195,Importadora Cordillera S.A.S.,Company,Corporate,Quito,2015-07-16,Low
+C01196,Natalia Pérez León,Individual,Retail,Quito,2021-07-01,Low
+C01197,Isabel Zambrano Yánez,Individual,Retail,Cuenca,2025-11-11,Low
+C01198,Natalia Torres Naranjo,Individual,Retail,Loja,2017-10-19,Low
+C01199,Natalia Chávez Guerrero,Individual,Retail,Guayaquil,2025-10-19,Low
+C01200,Andrea Navarrete Naranjo,Individual,Retail,Quito,2020-06-18,Medium
+C01201,Isabel Yánez Zambrano,Individual,Retail,Cuenca,2025-03-07,Low
+C01202,Lorena Villacís Villacís,Individual,Retail,Santo Domingo,2017-12-09,Low
+C01203,Verónica Montenegro Suárez,Individual,Retail,Guayaquil,2019-08-01,Low
+C01204,Javier Yánez Ortiz,Individual,Retail,Guayaquil,2025-02-20,Low
+C01205,  Comercial  Bahía S.A.S. ,Company,SME,Quito,2020-12-21,Low
+C01206,Lorena Cevallos Chávez,Individual,Retail,Quito,2017-10-18,Low
+C01207,Diana Montenegro Erazo,Individual,Retail,Guayaquil,2013-06-03,Low
+C01208,Lucía Yánez Ortiz,Individual,Retail,Ibarra,2015-08-30,Medium
+C01209,Constructora Volcán S.A.,Company,SME,Quito,2012-01-04,High
+C01210,Luis Paredes Salazar,Individual,Retail,Quito,2014-02-12,Medium
+C01211,Constructora Andina S.A.,Company,Corporate,Guayaquil,2023-02-11,Low
+C01212,Jorge Chávez Salazar,Individual,Retail,Cuenca,2016-05-02,Low
+C01213,Fabián Cárdenas Zambrano,Individual,Retail,Manta,2013-06-19,Low
+C01214,Juan Erazo Calderón,Individual,Retail,Quito,2012-12-08,High
+C01215,María Zambrano Reyes,Individual,Retail,Guayaquil,2021-12-06,Low
+C01216,Jorge Naranjo Salazar,Individual,Retail,Cuenca,2020-11-05,Medium
+C01217,Raúl Chávez Bravo,Individual,Retail,Quito,2025-08-18,Low
+C01218,Marco Ramírez Suárez,Individual,Retail,Cuenca,2019-01-02,Medium
+C01219,Agrícola Horizonte S.A.S.,Company,SME,Guayaquil,2014-06-25,Low
+C01220,Óscar López Delgado,Individual,Retail,Ibarra,2025-05-04,Low
+C01221,Santiago Cevallos Torres,Individual,Retail,Guayaquil,2013-05-21,Low
+C01222,Andrea Zambrano Morales,Individual,Retail,Quito,2017-07-29,Low
+C01223,Diego García Suárez,Individual,Retail,Quito,2020-07-01,Low
+C01224,Florícola Estrella Cía. Ltda.,Company,Corporate,Quito,2018-09-13,Low
+C01225,Exportadora del Pacífico Cía. Ltda.,Company,Corporate,Manta,2018-02-22,Medium
+C01226,Andrea Bravo Chávez,Individual,Retail,Guayaquil,2021-03-16,Medium
+C01227,Juan León Andrade,Individual, RETAIL ,Quito,2020-03-02,Low
+C01228,Textiles Andina S.A.S.,Company,SME,Ambato,2018-12-02,High
+C01229,Fernando Suárez Erazo,Individual,Retail,Guayaquil,2025-01-13,Low
+C01230,Santiago Herrera López,Individual,Retail,Cuenca,2019-07-19,Low
+C01231,Mónica Sánchez Erazo,Individual,Retail,Guayaquil,2021-07-17,Low
+C01232,Gabriela Jaramillo Quiroga,Individual,Retail,Quito,2022-02-19,Medium
+C01233,Esteban Ramírez Zambrano,Individual, RETAIL ,Guayaquil,2012-08-15,Low
+C01234,Jorge Flores Vásquez,Individual,Retail,Manta,2025-05-30,Low
+C01235,Farmacéutica Bahía S.A.S.,Company,SME,Guayaquil,2012-05-02,Low
+C01236,Mónica Castillo Vega,Individual,Retail,Guayaquil,2024-05-10,Low
+C01237,Fabián Erazo Torres,Individual,Retail,Quito,2018-02-16,High
+C01238,Pablo Paredes León,Individual,Retail,Guayaquil,2021-07-13,Medium
+C01239,Andrés Delgado Morales,Individual,Retail,Quito,2022-09-26,Low
+C01240,Natalia Villacís Calderón,Individual,Retail,Riobamba,2019-11-10,Low
+C01241,Patricia Paredes Suárez,Individual,Retail,Quito,2017-03-20,Medium
+C01242,Patricia Pérez Delgado,Individual,Retail,Guayaquil,2021-08-17,Low
+C01243,Industrias Río Verde Cía. Ltda.,Company,Corporate,Guayaquil,2024-03-19,Medium
+C01244,Carmen Montenegro Quiroga,Individual,Retail,Cuenca,2023-01-07,Low
+C01245,Rosa Montenegro Montenegro,Individual,Retail,Cuenca,2018-08-01,Low
+C01246,  Andrés  Vega León ,Individual,Retail,Cuenca,2020-07-05,Medium
+C01247,Esteban Torres Andrade,Individual,Retail,Manta,2025-09-13,High
+C01248,Luis Paredes Sánchez,Individual,Retail,Guayaquil,2016-05-11,Low
+C01249,Miguel Salazar Calderón,Individual,Retail,Quito,2017-02-22,Low
+C01250,Industrias Andina S.A.,Company,SME,Ambato,2025-10-11,Low
+C01251,Constructora Puerto Nuevo Cía. Ltda.,Company,SME,Quito,2025-03-11,Low
+C01252,Juan Paredes Vásquez,Individual,Retail,Guayaquil,2021-08-03,Low
+C01253,Raúl Vásquez Espinoza,Individual,Retail,Guayaquil,2014-05-27,Low
+C01254,Ricardo Ortiz Erazo,Individual,Retail,Riobamba,2022-03-28,Low
+C01255,  Juan  Calderón Villacís ,Individual,Retail,Quito,2023-11-01,Low
+C01256,Logística Cóndor S.A.,Company,SME,Quito,2019-01-20,Medium
+C01257,Tecnología Cumbre S.A.,Company,SME,Guayaquil,2020-06-14,Medium
+C01258,Óscar Calderón Villacís,Individual,Retail,Guayaquil,2015-12-04,Medium
+C01259,  Andrea  Naranjo Yánez ,Individual,Retail,Guayaquil,2014-04-25,Low
+C01260,Andrea Vega Benítez,Individual,Retail,Santo Domingo,2015-07-11,Low
+C01261,Exportadora Bahía S.A.S.,Company,SME,Guayaquil,2016-10-03,Low
+C01262,Tecnología Equinoccial S.A.,Company,SME,Loja,2015-12-10,Low
+C01263,Constructora Bahía Cía. Ltda.,Company,SME,Quito,2012-09-01,Medium
+C01264,Andrea Castillo Villacís,Individual,Retail,Manta,2013-11-15,Low
+C01265,Inversiones Austral Cía. Ltda.,Company,Corporate,Santo Domingo,2024-10-23,Low
+C01266,Rosa Yánez Suárez,Individual,Retail,Guayaquil,2022-10-28,Medium
+C01267,Andrea Herrera Mendoza,Individual,Retail,Machala,2024-11-19,Medium
+C01268,Luis Andrade Mendoza,Individual,Retail,Quito,2012-05-18,Medium
+C01269,Logística Sierra Norte S.A.,Company,Corporate,Quito,2025-08-25,Medium
+C01270,Valeria Benítez Cevallos,Individual,Retail,Quito,2020-09-29,Low
+C01271,  María  Zambrano Vásquez ,Individual,Retail,Ibarra,2017-01-15,Low
+C01272,Marco Calderón Salazar,Individual,Retail,Manta,2018-01-11,Low
+C01273,Textiles Cóndor S.A.,Company,Corporate,Quito,2021-05-31,Low
+C01274,Exportadora Puerto Nuevo S.A.S.,Company,SME,Guayaquil,2021-02-01,Medium
+C01275,Farmacéutica Andina S.A.S.,Company,SME,Quito,2014-08-27,High
+C01276,Camila Bravo Espinoza,Individual, RETAIL ,Manta,2020-04-27,Low
+C01277,Patricia Reyes Espinoza,Individual,Retail,Guayaquil,2017-04-23,Medium
+C01278,Diego Chávez Torres,Individual,Retail,Quito,2023-09-16,Medium
+C01279,Gabriela Villacís Andrade,Individual,Retail,Quito,2025-08-08,Low
+C01280,Importadora Río Verde Cía. Ltda.,Company,Corporate,Riobamba,2019-01-19,Low
+C01281,Camila Reyes Quiroga,Individual,Retail,Quito,2018-08-28,Low
+C01282,Entidad Pública Infraestructura 14,Public Entity,Government,Quito,2013-01-30,Low
+C01283,Andrea Jaramillo Pérez,Individual,Retail,Quito,2015-02-02,Low
+C01284,Exportadora Cóndor Cía. Ltda.,Company,SME,Quito,2013-09-01,Medium
+C01285,Juan Vásquez Pérez,Individual,Retail,Quito,2018-08-02,Medium
+C01286,Luis Salazar Chávez,Individual,Retail,Guayaquil,2014-11-01,Low
+C01287,Diego Vásquez Vega,Individual,Retail,Guayaquil,2013-02-11,Low
+C01288,Valeria Cárdenas Pérez,Individual,Retail,Guayaquil,2025-04-15,Medium
+C01289,Verónica Castillo López,Individual,Retail,Guayaquil,2018-04-12,Low
+C01290,Diana Mora López,Individual,Retail,Cuenca,2017-11-14,Low
+C01291,Diego Cárdenas Espinoza,Individual,Retail,Guayaquil,2025-01-17,Low
+C01292,Farmacéutica Mitad del Mundo S.A.S.,Company,Corporate,Guayaquil,2013-04-28,Low
+C01293,María Bravo López,Individual,Retail,Guayaquil,2013-12-06,Low
+C01294,Luis Vásquez Naranjo,Individual,Retail,Guayaquil,2025-03-27,Low
+C01295,Fernando Cevallos Cevallos,Individual,Retail,Guayaquil,2012-04-30,Low
+C01296,Rosa Suárez Proaño,Individual,Retail,Cuenca,2019-05-04,Low
+C01297,  Carmen  Proaño Mora ,Individual,Retail,Quito,2021-03-30,Low
+C01298,Industrias Cumbre S.A.,Company,Corporate,Riobamba,2013-12-22,Medium
+C01299,Héctor Jaramillo Castillo,Individual,Retail,Loja,2016-10-12,Medium
+C01300,Carlos Cevallos Paredes,Individual,Retail,Quito,2015-06-13,Low
+C01301,Lorena Zambrano Naranjo,Individual,Retail,Riobamba,2024-08-06,Medium
+C01302,Patricia Montenegro Paredes,Individual,Retail,Quito,2017-06-05,Medium
+C01303,Pablo Mora Delgado,Individual,Retail,Ambato,2012-11-14,Low
+C01304,Natalia Navarrete Naranjo,Individual,Retail,Loja,2024-09-14,Medium
+C01305,Héctor Mendoza Navarrete,Individual,Retail,Santo Domingo,2020-07-31,Medium
+C01306,Sofía Zambrano Herrera,Individual,Retail,Quito,2019-06-03,Low
+C01307,Marco Pérez Delgado,Individual,Retail,Quito,2013-10-17,Low
+C01308,Entidad Pública Salud 15,Public Entity,Government,Guayaquil,2018-05-01,Medium
+C01309,Óscar Cevallos Calderón,Individual,Retail,Quito,2012-12-14,Low
+C01310,José Erazo García,Individual,Retail,Riobamba,2024-04-12,High
+C01311,Isabel Suárez Villacís,Individual,Retail,Manta,2019-05-15,Low
+C01312,Marco Villacís Delgado,Individual,Retail,Guayaquil,2015-12-22,Low
+C01313,Lorena Vásquez Naranjo,Individual,Retail,Cuenca,2013-11-12,High
+C01314,Rosa Herrera López,Individual,Retail,Manta,2019-01-14,Medium
+C01315,Agrícola del Pacífico S.A.,Company,SME,Guayaquil,2013-02-19,Low
+C01316,Daniela López Torres,Individual,Retail,Cuenca,2025-11-01,Low
+C01317,Corporación Cóndor Cía. Ltda.,Company,SME,Guayaquil,2025-05-19,Low
+C01318,Distribuidora del Valle Cía. Ltda.,Company,SME,Santo Domingo,2013-02-09,Medium
+C01319,Florícola Mitad del Mundo S.A.S.,Company,Corporate,Guayaquil,2013-06-22,High
+C01320,Pedro Bravo Morales,Individual,Retail,Guayaquil,2024-01-13,Medium
+C01321,Importadora Andina Cía. Ltda.,Company,SME,Guayaquil,2025-03-14,Medium
+C01322,Farmacéutica Cordillera S.A.,Company,SME,Cuenca,2018-09-22,High
+C01323,  Distribuidora  Horizonte S.A.S. ,Company,Corporate,Ambato,2019-10-06,Low
+C01324,Patricia Proaño Sánchez,Individual,Retail  ,Quito,2020-02-08,Low
+C01325,  Pablo  Vega Proaño ,Individual,Retail,Santo Domingo,2021-08-11,Medium
+C01326,Andrea Delgado Espinoza,Individual,Retail,Quito,2021-11-07,Low
+C01327,Paola Castillo Suárez,Individual,Retail,Cuenca,2016-11-19,Low
+C01328,Pedro Ramírez Yánez,Individual,Retail,Machala,2020-05-29,Low
+C01329,Mónica Vega Reyes,Individual,Retail,Guayaquil,2019-05-11,Low
+C01330,Agrícola Andina S.A.,Company,Corporate,Guayaquil,2020-07-05,Low
+C01331,Mónica López Quiroga,Individual,Retail,Cuenca,2013-05-15,Low
+C01332,Florícola del Valle S.A.,Company,Corporate,Quito,2018-11-25,Low
+C01333,  María  Cevallos Proaño ,Individual,Retail,Quito,2013-01-15,Low
+C01334,Raúl Navarrete Cárdenas,Individual,Retail,Guayaquil,2017-06-13,Medium
+C01335,Importadora Austral Cía. Ltda.,Company,SME,Guayaquil,2012-02-23,Medium
+C01336,Isabel Sánchez Proaño,Individual,Retail,Quito,2022-02-12,Low
+C01337,Gabriela Flores León,Individual,Retail,Quito,2015-10-04,Low
+C01338,Paola Cárdenas López,Individual,Retail,Quito,2015-03-04,Low
+C01339,Exportadora Austral Cía. Ltda.,Company,SME,Guayaquil,2014-10-29,Low
+C01340,  Importadora  Mitad del Mundo S.A. ,Company,SME,Guayaquil,2012-02-20,Low
+C01341,Andrés García Erazo,Individual,Retail,Manta,2023-10-06,Low
+C01342,Logística Cumbre S.A.S.,Company,SME,Quito,2020-03-17,Low
+C01343,Farmacéutica Equinoccial S.A.S.,Company,SME,Ambato,2013-10-30,Medium
+C01344,  Fabián  Reyes Castillo ,Individual,Retail,Quito,2014-02-10,Low
+C01345,Ana Sánchez Ortiz,Individual,Retail,Guayaquil,2016-11-04,High
+C01346,Óscar Jaramillo Suárez,Individual,Retail,Loja,2025-05-06,Medium
+C01347,Verónica Sánchez Ramírez,Individual,Retail,Guayaquil,2024-05-21,Medium
+C01348,  Andrés  Andrade Delgado ,Individual,Retail,Quito,2016-10-17,Low
+C01349,Camaronera Los Ríos S.A.,Company,SME,Guayaquil,2018-03-22,High
+C01350,Daniela Herrera Mora,Individual,Retail,Quito,2013-06-24,High
+C01351,Patricia Proaño Erazo,Individual,Retail,Guayaquil,2012-04-16,Low
+C01352,Comercial del Litoral S.A.S.,Company,SME,Machala,2016-11-29,Low
+C01353,Marco Vega Torres,Individual,Retail,Quito,2024-09-06,Low
+C01354,Diego Suárez Flores,Individual,Retail,Quito,2013-01-20,Low
+C01355,María Delgado Torres,Individual,Retail,Quito,2025-03-26,Low
+C01356,Natalia García Bravo,Individual,Retail,Ambato,2014-12-17,Low
+C01357,Andrés Erazo Flores,Individual,Retail,Quito,2013-08-29,Low
+C01358,Óscar Cevallos León,Individual,Retail,Guayaquil,2023-11-28,Medium
+C01359,José Paredes Ortiz,Individual,Retail,Cuenca,2024-03-09,Low
+C01360,Carmen Proaño Flores,Individual,Retail,Santo Domingo,2016-07-21,Low
+C01361,María Suárez Delgado,Individual,Retail,Machala,2021-05-14,Medium
+C01362,Corporación del Pacífico Cía. Ltda.,Company,SME,Santo Domingo,2020-11-01,Low
+C01363,Héctor Zambrano Vásquez,Individual,Retail,Guayaquil,2017-09-17,Low
+C01364,Inversiones Puerto Nuevo S.A.,Company,SME,Cuenca,2016-03-24,Low
+C01365,Javier Andrade Ramírez,Individual,Retail,Machala,2014-11-26,Low
+C01366,Elena Guerrero Flores,Individual,Retail,Guayaquil,2015-04-18,Medium
+C01367,Diego Sánchez Navarrete,Individual,Retail,Machala,2023-07-18,Low
+C01368,Luis Calderón Vega,Individual,Retail  ,Riobamba,2025-08-31,Low
+C01369,Constructora Cóndor Cía. Ltda.,Company,SME,Cuenca,2013-11-24,Low
+C01370,Santiago Paredes Naranjo,Individual, RETAIL ,Manta,2019-08-07,Medium
+C01371,Pedro Reyes López,Individual,Retail,Guayaquil,2017-04-16,Low
+C01372,Fernando Cevallos Ortiz,Individual,Retail,Machala,2020-03-15,Low
+C01373,Inversiones Andina Cía. Ltda.,Company,Corporate,Santo Domingo,2025-02-03,Low
+C01374,Verónica Vega Sánchez,Individual,Retail,Quito,2021-01-01,Medium
+C01375,Verónica Sánchez Mendoza,Individual,Retail,Ibarra,2022-08-04,Low
+C01376,Santiago Erazo Suárez,Individual,Retail,Quito,2013-06-04,Medium
+C01377,Diego Flores López,Individual,Retail,Quito,2012-03-05,Medium
+C01378,Lorena Ramírez Suárez,Individual,Retail,Guayaquil,2019-08-31,Low
+C01379,Carmen Salazar Vásquez,Individual,Retail,Guayaquil,2024-07-05,Medium
+C01380,María Reyes Pérez,Individual,Retail,Manta,2020-04-02,Low
+C01381,  Importadora  del Litoral S.A. ,Company,SME,Cuenca,2017-12-09,Low
+C01382,Paola León Cárdenas,Individual,Retail,Manta,2018-10-01,Medium
+C01383,Distribuidora del Pacífico Cía. Ltda.,Company,Corporate,Guayaquil,2017-01-25,Medium
+C01384,José Benítez Calderón,Individual,Retail,Quito,2014-09-26,Low
+C01385,Javier León Jaramillo,Individual,Retail,Guayaquil,2022-01-06,Medium
+C01386,Verónica Salazar León,Individual,Retail,Ambato,2018-04-07,Low
+C01387,Héctor Reyes Paredes,Individual,Retail,Guayaquil,2025-05-25,Low
+C01388,Andrés Benítez Mora,Individual,Retail,Loja,2019-08-29,Medium
+C01389,Distribuidora Río Verde Cía. Ltda.,Company,SME,Quito,2019-04-07,Low
+C01390,María Guerrero Pérez,Individual,Retail,Machala,2025-10-23,Medium
+C01391,Javier Jaramillo Montenegro,Individual,Retail,Quito,2025-01-11,Low
+C01392,Luis Cevallos Benítez,Individual,Retail,Machala,2025-05-10,Low
+C01393,Exportadora Austral Cía. Ltda.,Company,SME,Guayaquil,2024-07-18,Low
+C01394,Sofía Naranjo Proaño,Individual,Retail,Ambato,2014-10-08,Low
+C01395,Inversiones Bahía S.A.S.,Company,Corporate,Guayaquil,2012-10-14,Low
+C01396,Lorena Torres Torres,Individual,Retail,Manta,2023-08-15,Low
+C01397,José Erazo López,Individual,Retail,Quito,2017-07-09,Low
+C01398,Lorena Torres Morales,Individual,Retail,Guayaquil,2024-05-31,Low
+C01399,Marco Naranjo Bravo,Individual,Retail,Guayaquil,2012-01-12,Medium
+C01400,Miguel Torres Naranjo,Individual,Retail,Quito,2021-06-29,Low
+C01401,Luis Castillo Zambrano,Individual,Retail,Quito,2024-02-16,Low
+C01402,Camila Guerrero Suárez,Individual,Retail,Quito,2016-06-25,Low
+C01403,Camila Guerrero Jaramillo,Individual,Retail,Guayaquil,2025-07-20,High
+C01404,Camaronera Nevado S.A.S.,Company,Corporate,Riobamba,2024-04-01,Low
+C01405,Elena Paredes Calderón,Individual,Retail,Quito,2019-04-10,Low
+C01406,Exportadora Costa Azul S.A.,Company,Corporate,Guayaquil,2024-06-05,Low
+C01407,Constructora Bahía S.A.,Company,Corporate,Quito,2015-06-15,High
+C01408,Tecnología Estrella S.A.,Company,SME,Guayaquil,2016-02-17,High
+C01409,Mónica Delgado Villacís,Individual,Retail,Guayaquil,2024-12-11,Low
+C01410,Santiago Ortiz Castillo,Individual,Retail,Guayaquil,2024-09-07,Low
+C00335,Entidad Pública Infraestructura 04,Public Entity,Government,Machala,2018-02-16,Low
+C01411,Raúl Delgado Pérez,Individual,Retail,Guayaquil,2017-04-19,Low
+C01412,Distribuidora Nevado Cía. Ltda.,Company,SME,Guayaquil,2019-04-07,Medium
+C01413,Carlos Naranjo Villacís,Individual,Retail  ,Cuenca,2018-06-07,Low
+C01414,Esteban Vásquez Villacís,Individual,Retail,Manta,2018-03-17,Low
+C01415,Ricardo Paredes Proaño,Individual,Retail,Quito,2013-07-05,Low
+C01416,Constructora del Litoral S.A.,Company,SME,Quito,2019-09-04,Low
+C01417,Fabián Flores Proaño,Individual,Retail,Quito,2019-03-14,Low
+C01418,Farmacéutica Sierra Norte S.A.,Company,Corporate,Manta,2012-01-05,Low
+C01419,Exportadora Volcán S.A.,Company,Corporate,Guayaquil,2025-05-23,Medium
+C01420,Rosa Jaramillo Ramírez,Individual,Retail,Quito,2016-07-11,Medium
+C01421,Elena Bravo Zambrano,Individual,retail,Quito,2012-10-24,Low
+C01422,Daniela Espinoza León,Individual,Retail,Guayaquil,2022-11-07,Medium
+C01423,Gabriela Herrera Montenegro,Individual,Retail,Cuenca,2019-08-10,High
+C01424,Raúl Bravo Castillo,Individual,Retail,Quito,2021-06-05,Medium
+C01425,Daniela Proaño Ramírez,Individual,Retail,Quito,2020-07-28,Low
+C01426,Héctor Yánez Sánchez,Individual,Retail,Guayaquil,2014-10-18,Low
+C01427,Natalia Espinoza Torres,Individual,Retail,Guayaquil,2020-06-24,Low
+C01428,Isabel Quiroga Castillo,Individual,Retail,Guayaquil,2013-02-13,Low
+C01429,Andrea Reyes Zambrano,Individual,Retail,Quito,2023-02-18,Low
+C01430,Florícola Río Verde Cía. Ltda.,Company,SME,Quito,2024-04-01,Low
+C01431,Logística Mitad del Mundo Cía. Ltda.,Company,Corporate,Guayaquil,2024-02-03,Low
+C01432,Agrícola Los Ríos Cía. Ltda.,Company,SME,Riobamba,2020-08-29,Low
+C01433,Lorena López Reyes,Individual,retail,Guayaquil,2020-01-12,Low
+C01434,Miguel Salazar Morales,Individual,Retail,Quito,2020-04-26,Low
+C01435,Gabriela Vásquez Torres,Individual,Retail,Quito,2016-08-17,Low
+C01436,Rosa Salazar Bravo,Individual,Retail,Cuenca,2023-10-06,Low
+C01437,Fabián Sánchez Bravo,Individual,Retail,Guayaquil,2021-09-30,High
+C01438,Farmacéutica del Litoral Cía. Ltda.,Company,SME,Cuenca,2018-11-23,Medium
+C01439,Sofía Bravo Guerrero,Individual,Retail,Machala,2017-06-09,Medium
+C01440,Juan Pérez Yánez,Individual,Retail,Quito,2017-01-28,Low
+C01441,Inversiones del Litoral S.A.,Company,SME,Guayaquil,2015-11-04,Low
+C01442,Valeria Suárez Cárdenas,Individual,Retail,Ambato,2022-09-12,Low
+C01443,Fabián Calderón Mora,Individual,Retail,Guayaquil,2015-07-15,Low
+C01444,Fabián Montenegro Herrera,Individual,Retail,Guayaquil,2015-11-20,Low
+C01445,Luis Castillo Salazar,Individual,Retail,Cuenca,2018-06-09,Medium
+C01446,Agrícola Horizonte Cía. Ltda.,Company,SME,Machala,2014-12-16,Low
+C01447,Distribuidora Andina S.A.,Company,SME,Santo Domingo,2025-01-25,Low
+C01448,Florícola Los Ríos S.A.S.,Company,SME,Guayaquil,2012-08-12,Medium
+C01449,Javier García Herrera,Individual,Retail,Machala,2024-12-07,Medium
+C01450,Diana Erazo Zambrano,Individual,Retail,Cuenca,2019-07-26,Medium
+C01451,María Navarrete Chávez,Individual,Retail  ,Santo Domingo,2016-11-24,Low
+C01452,Patricia Navarrete Ramírez,Individual,Retail,Quito,2019-05-04,Low
+C01453,Carlos Naranjo Calderón,Individual,Retail,Guayaquil,2016-02-12,Low
+C01454,Diego Cevallos Ortiz,Individual,Retail,Guayaquil,2022-04-05,Low
+C01455,Daniela García Benítez,Individual,Retail,Quito,2021-04-28,Low
+C01456,Mónica Calderón Benítez,Individual,Retail,Cuenca,2019-01-14,Medium
+C01457,  Florícola  del Litoral Cía. Ltda. ,Company,Corporate,Cuenca,2014-01-04,High
+C01458,Corporación Cordillera S.A.,Company,SME,Ibarra,2016-03-22,Low
+C01459,Ricardo Delgado Jaramillo,Individual,Retail,Guayaquil,2024-02-18,Medium
+C01460,Lorena Pérez Chávez,Individual,Retail,Quito,2016-01-24,Low
+C01461,Andrés Mendoza Mendoza,Individual,Retail,Guayaquil,2017-03-30,Low
+C01462,Valeria Zambrano Proaño,Individual,Retail,Guayaquil,2024-08-08,Low
+C01463,Comercial Los Ríos S.A.,Company,SME,Cuenca,2014-10-03,Low
+C01464,Corporación Mitad del Mundo S.A.,Company,SME,Guayaquil,2021-07-28,Low
+C01465,Lorena Torres Salazar,Individual,Retail,Guayaquil,2020-04-20,Low
+C01466,Gabriela Naranjo Yánez,Individual,Retail,Manta,2017-10-17,Low
+C01467,José Morales Pérez,Individual,Retail,Quito,2014-11-06,Low
+C01468,Natalia Benítez Flores,Individual,Retail,Riobamba,2015-08-28,Low
+C01469,Diego Quiroga Delgado,Individual,Retail,Santo Domingo,2021-04-11,Low
+C01470,Raúl Reyes García,Individual,Retail,Cuenca,2025-05-02,Low
+C01471,Ricardo Paredes Cárdenas,Individual,Retail,Santo Domingo,2016-02-07,Low
+C01472,Agrícola Nevado S.A.,Company,SME,Guayaquil,2021-11-19,Medium
+C01473,Carmen Sánchez Suárez,Individual,Retail,Manta,2012-11-24,Low
+C01474,Valeria Villacís Zambrano,Individual,Retail,Cuenca,2018-04-27,Medium
+C01475,Constructora del Valle S.A.,Company,Corporate,Manta,2013-09-17,Low
+C01476,Importadora Austral S.A.,Company,SME,Riobamba,2022-04-09,Low
+C01477,Javier Navarrete Cárdenas,Individual,Retail,Quito,2013-08-28,Low
+C01478,Camila Quiroga Cevallos,Individual,Retail,Quito,2017-01-21,Low
+C01479,Natalia Bravo Bravo,Individual,Retail,Quito,2014-06-15,Low
+C01480,Carmen Vega Villacís,Individual,Retail,Guayaquil,2017-08-08,Low
+C01481,Exportadora Andina Cía. Ltda.,Company,Corporate,Quito,2015-12-14,Low
+C01482,Juan Yánez Villacís,Individual,Retail,Loja,2024-07-15,Medium
+C01483,Comercial Nevado S.A.,Company,SME,Guayaquil,2012-05-31,Medium
+C01484,Camila Suárez Erazo,Individual,Retail,Guayaquil,2019-06-01,Low
+C01485,Andrés Andrade Vásquez,Individual,Retail,Guayaquil,2019-11-01,Medium
+C01486,Ricardo Mendoza Montenegro,Individual,Retail,Quito,2016-01-28,Low
+C01487,Distribuidora Sierra Norte S.A.S.,Company,SME,Santo Domingo,2022-02-22,Low
+C01488,Andrés León Torres,Individual,Retail,Quito,2012-05-23,Medium
+C01489,Javier Calderón Flores,Individual,Retail,Quito,2020-04-09,Medium
+C01490,Carmen Yánez Quiroga,Individual,Retail,Santo Domingo,2019-03-27,High
+C01491,Farmacéutica Volcán S.A.,Company,SME,Guayaquil,2021-01-08,Low
+C01492,Camaronera del Valle S.A.S.,Company,SME,Cuenca,2018-08-27,High
+C01493,Luis Chávez Villacís,Individual,Retail,Cuenca,2012-08-09,Low
+C01494,Jorge Mendoza Morales,Individual,Retail,Cuenca,2017-01-01,Medium
+C01495,Luis Cevallos Pérez,Individual,Retail,Guayaquil,2015-07-10,Low
+C01496,Exportadora del Valle S.A.,Company,SME,Manta,2024-06-26,Low
+C01497,Pedro Suárez Guerrero,Individual,Retail,Quito,2025-07-10,Low
+C01498,Mónica Ramírez Andrade,Individual,Retail,Quito,2014-06-17,Low
+C01499,Raúl Delgado Villacís,Individual,Retail,Guayaquil,2012-01-08,Low
+C01500,Fabián Suárez Vega,Individual,Retail,Quito,2023-10-06,Medium
+C01501,Diana Salazar Villacís,Individual,Retail,Manta,2024-11-14,Low
+C01502,Elena Herrera Morales,Individual,Retail,Guayaquil,2016-01-16,Low
+C01503,Elena Jaramillo López,Individual,Retail,Guayaquil,2013-06-07,Low
+C01504,Juan Calderón Morales,Individual,Retail,Guayaquil,2014-07-12,Low
+C01505,Textiles Estrella S.A.S.,Company,SME,Guayaquil,2025-04-02,Medium
+C01506,Natalia Bravo Erazo,Individual,Retail,Quito,2024-10-11,Low
+C01507,Andrés Suárez Mendoza,Individual,Retail,Quito,2021-09-08,Low
+C01508,Andrés Andrade Delgado,Individual,Retail,Ambato,2016-05-30,Low
+C01509,Distribuidora Nevado Cía. Ltda.,Company,SME,Quito,2013-01-15,Low
+C01510,Distribuidora Bahía S.A.,Company,SME,Santo Domingo,2012-01-16,Low
+C01511,Exportadora Volcán S.A.S.,Company,Corporate,Guayaquil,2013-05-26,Low
+C01512,Elena León Reyes,Individual,Retail,Machala,2017-06-22,Low
+C01513,Andrea Morales Suárez,Individual,Retail,Guayaquil,2016-07-27,Low
+C01514,Rosa Suárez Sánchez,Individual,Retail,Guayaquil,2021-01-10,Low
+C01515,Distribuidora Volcán S.A.S.,Company,SME,Guayaquil,2013-09-01,Medium
+C01516,Andrés Mendoza Naranjo,Individual,Retail,Guayaquil,2015-06-02,Low
+C01517,Héctor Naranjo Torres,Individual,Retail,Quito,2013-06-02,Low
+C01518,José Zambrano Castillo,Individual,Retail,Cuenca,2014-02-17,Low
+C01519,Entidad Pública Agua 16,Public Entity,Government,Guayaquil,2013-11-15,Medium
+C01520,Textiles Bahía S.A.,Company,SME,Guayaquil,2024-09-29,Low
+C01521,Diego Reyes Erazo,Individual,Retail,Cuenca,2023-04-14,Low
+C01522,Natalia Cárdenas Yánez,Individual,Retail,Guayaquil,2025-10-20,Low
+C01523,Javier Vega López,Individual,Retail,Cuenca,2015-05-19,Low
+C01524,Constructora Puerto Nuevo S.A.S.,Company,SME,Quito,2015-10-31,Low
+C01525,Jorge Herrera Salazar,Individual,Retail,Quito,2015-08-24,Low
+C01526,Verónica Chávez Andrade,Individual,Retail,Loja,2018-09-06,Low
+C01527,Florícola Andina Cía. Ltda.,Company,Corporate,Quito,2021-03-29,High
+C01528,Sofía Espinoza Montenegro,Individual,Retail,Quito,2020-11-20,Low
+C01529,Andrea Erazo Reyes,Individual,Retail,Cuenca,2019-11-23,Medium
+C01530,Pedro Zambrano Pérez,Individual,Retail,Guayaquil,2023-06-02,Low
+C01531,Héctor Ramírez Guerrero,Individual,Retail,Santo Domingo,2025-06-15,Low
+C01532,Mónica Yánez Calderón,Individual,Retail,Ibarra,2014-05-25,Low
+C01533,Natalia Calderón Benítez,Individual,Retail,Cuenca,2015-09-27,Low
+C01534,Mónica Andrade Salazar,Individual,Retail,Machala,2024-05-01,High
+C01535,Andrés Zambrano Herrera,Individual,Retail,Guayaquil,2013-05-16,Low
+C01536,Verónica Calderón Paredes,Individual,Retail,Manta,2014-05-05,Low
+C01537,Raúl Proaño Navarrete,Individual,Retail,Guayaquil,2022-10-27,Medium
+C01538,Textiles Los Ríos S.A.S.,Company,Corporate,Guayaquil,2022-08-16,Medium
+C01539,Jorge Navarrete Torres,Individual,Retail,Manta,2022-01-10,Medium
+C01540,Comercial Andina S.A.,Company,SME,Ambato,2019-09-26,Medium
+C01541,Mónica García Yánez,Individual,Retail,Guayaquil,2016-07-23,High
+C01542,Javier Villacís Quiroga,Individual,Retail,Ambato,2017-11-08,Low
+C01543,Corporación Nevado S.A.S.,Company,Corporate,Quito,2013-02-28,Low
+C01544,José Guerrero Mora,Individual,Retail,Loja,2021-04-18,Medium
+C01545,José Guerrero Morales,Individual,Retail,Guayaquil,2017-03-06,Low
+C01546,Juan Herrera Erazo,Individual,Retail,Quito,2012-12-20,Low
+C01547,Valeria Chávez Navarrete,Individual,Retail,Guayaquil,2024-06-17,Low
+C01548,Carmen Herrera Guerrero,Individual,Retail,Quito,2019-09-20,Low
+C01549,Esteban Herrera Salazar,Individual,Retail,Guayaquil,2016-01-21,Low
+C01550,Paola Morales Quiroga,Individual,Retail,Guayaquil,2012-08-28,Low
+C01551,Santiago Ramírez Calderón,Individual,Retail,Quito,2016-12-30,Low
+C01552,Importadora Los Ríos S.A.S.,Company,SME,Quito,2012-02-20,Low
+C01553,Exportadora Cordillera Cía. Ltda.,Company,Corporate,Guayaquil,2013-04-06,Low
+C01554,Diego López Flores,Individual,Retail,Santo Domingo,2024-03-10,Medium
+C01555,Paola Jaramillo Reyes,Individual,Retail,Quito,2017-07-11,Low
+C01556,Ricardo Navarrete Salazar,Individual,Retail,Guayaquil,2018-11-05,Medium
+C01557,Diego Salazar García,Individual,Retail,Quito,2020-04-04,Low
+C01558,Ana Sánchez Delgado,Individual,Retail,Quito,2013-01-21,Low
+C01559,Juan Montenegro Reyes,Individual,Retail,Quito,2016-10-25,Low
+C01560,Marco Mora Quiroga,Individual,Retail,Guayaquil,2022-05-06,Low
+C01561,Constructora Estrella Cía. Ltda.,Company,SME,Guayaquil,2024-07-27,Low
+C01562,Textiles Nevado S.A.,Company,SME,Quito,2014-10-19,Low
+C01563,  Carlos  Mendoza Ortiz ,Individual,Retail,Quito,2016-02-01,Low
+C01564,Esteban Suárez Calderón,Individual,Retail,Guayaquil,2025-07-24,Medium
+C01565,Esteban Calderón Castillo,Individual,Retail,Guayaquil,2016-02-15,Low
+C01566,Exportadora Equinoccial Cía. Ltda.,Company,SME,Quito,2021-03-01,Medium
+C01567,Ricardo Naranjo Castillo,Individual,Retail,Quito,2023-06-25,Low
+C01568,Entidad Pública Energía 17,Public Entity,Government,Quito,2019-09-09,Low
+C00640,Diego Salazar Ortiz,Individual,Retail,Guayaquil,2014-11-20,Medium
+C01569,Santiago Vega Flores,Individual,Retail,Quito,2015-08-24,Low
+C01570,Carlos Ramírez Naranjo,Individual,Retail,Guayaquil,2020-11-18,Low
+C01571,Industrias Puerto Nuevo S.A.S.,Company,SME,Quito,2024-02-23,Low
+C01572,José Cevallos Guerrero,Individual,Retail,Quito,2019-08-19,Low
+C01573,Textiles Los Ríos S.A.S.,Company,SME,Cuenca,2021-03-09,Low
+C01574,Pedro León Quiroga,Individual,Retail,Manta,2023-07-17,Low
+C01575,Lorena Reyes Yánez,Individual,Retail,Machala,2025-01-14,Medium
+C01576,Valeria Proaño Torres,Individual,Retail,Santo Domingo,2014-11-01,Medium
+C01577,Natalia Delgado López,Individual,Retail,Machala,2013-08-29,Low
+C01578,Raúl Mendoza Erazo,Individual,Retail,Loja,2025-04-07,Low
+C01579,Valeria Yánez Mora,Individual,Retail,Manta,2024-04-11,Medium
+C01580,Daniela Chávez Vega,Individual,Retail,Quito,2015-08-02,Low
+C01581,Diana García Flores,Individual,Retail,Quito,2023-11-05,Medium
+C01582,Tecnología Nevado S.A.,Company,SME,Quito,2017-07-06,High
+C01583,Raúl Flores Pérez,Individual,Retail,Ambato,2012-07-04,Low
+C01584,Fabián León García,Individual,Retail,Quito,2013-01-19,Low
+C01585,Tecnología Volcán Cía. Ltda.,Company,Corporate,Cuenca,2014-01-02,Low
+C01586,Héctor Calderón Benítez,Individual,Retail,Riobamba,2022-06-03,Low
+C01587,Ricardo Mendoza Herrera,Individual,Retail,Quito,2014-09-25,Medium
+C01588,Rosa Andrade Ortiz,Individual,Retail,Guayaquil,2025-06-29,Low
+C01589,Esteban Ramírez Herrera,Individual,Retail,Guayaquil,2021-07-26,Low
+C01590,Diana Salazar Calderón,Individual,Retail,Cuenca,2023-04-07,Low
+C01591,Agrícola del Pacífico S.A.,Company,Corporate,Loja,2013-07-24,Medium
+C01592,  Farmacéutica  Bahía Cía. Ltda. ,Company,SME,Guayaquil,2021-01-06,Low
+C01593,Daniela Torres Suárez,Individual,Retail,Guayaquil,2019-12-03,Low
+C01594,María Sánchez Calderón,Individual,Retail,Guayaquil,2021-08-25,Low
+C01595,  Pedro  Montenegro Ortiz ,Individual,Retail,Guayaquil,2020-06-03,Low
+C01596,Gabriela Torres Torres,Individual,Retail,Guayaquil,2014-08-05,Low
+C01597,Inversiones Cóndor S.A.,Company,SME,Quito,2025-04-27,Low
+C01598,Andrés Calderón Erazo,Individual,Retail,Quito,2020-06-25,Low
+C01599,Distribuidora Cordillera S.A.,Company,SME,Manta,2013-07-16,Medium
+C01600,Carlos Cevallos García,Individual,Retail,Riobamba,2022-05-11,Low
+C01601,Daniela Sánchez Calderón,Individual,Retail,Guayaquil,2017-12-15,Low
+C01602,Lucía Cevallos Mendoza,Individual,Retail,Guayaquil,2012-01-11,High
+C01603,María Paredes Jaramillo,Individual,Retail,Loja,2023-06-02,Low
+C01604,Juan Pérez Reyes,Individual,Retail,Quito,2017-02-26,Medium
+C01605,Logística Andina S.A.S.,Company,Corporate,Guayaquil,2021-01-07,Medium
+C01606,Óscar Andrade Proaño,Individual,Retail,Quito,2023-05-05,Medium
+C01607,Lorena Suárez Reyes,Individual,Retail,Guayaquil,2019-11-12,Low
+C01608,Valeria Calderón Reyes,Individual,Retail,Guayaquil,2023-01-04,Low
+C01609,Fernando Benítez Chávez,Individual,Retail,Ambato,2024-04-18,Medium
+C01610,Verónica Cevallos Mendoza,Individual,Retail,Quito,2016-09-02,Medium
+C01611,Carlos Suárez Vega,Individual,Retail,Riobamba,2020-01-21,Low
+C01612,Distribuidora Costa Azul Cía. Ltda.,Company,SME,Quito,2022-08-26,Medium
+C01613,Jorge Naranjo Andrade,Individual,Retail,Guayaquil,2019-10-30,Medium
+C01614,Pablo Benítez López,Individual,Retail,Guayaquil,2020-11-17,Low
+C01615,  Exportadora  del Pacífico Cía. Ltda. ,Company,SME,Loja,2024-08-26,Medium
+C01616,  Javier  Montenegro Reyes ,Individual,Retail,Ambato,2018-01-08,Low
+C01617,Ana Vega Yánez,Individual,Retail,Guayaquil,2015-07-31,High
+C01618,Distribuidora Nevado S.A.S.,Company,Corporate,Cuenca,2022-10-29,Low
+C01619,Camaronera del Valle S.A.,Company,SME,Guayaquil,2022-08-24,Low
+C01620,Industrias Estrella Cía. Ltda.,Company,SME,Quito,2015-12-24,High
+C01621,Sofía Jaramillo López,Individual,Retail,Cuenca,2025-10-23,Low
+C01622,Jorge García Calderón,Individual,Retail,Guayaquil,2024-02-22,Low
+C01623,Diana Chávez García,Individual,Retail,Quito,2015-05-08,Low
+C01624,Andrés Delgado Jaramillo,Individual,Retail,Quito,2012-09-17,Medium
+C01625,Paola Zambrano Cárdenas,Individual,Retail,Riobamba,2021-03-06,Low
+C01626,María Sánchez Reyes,Individual,Retail,Guayaquil,2019-01-08,Low
+C01627,Paola Herrera Sánchez,Individual,Retail,Guayaquil,2022-05-07,Low
+C01628,Fernando Cevallos Montenegro,Individual,Retail,Guayaquil,2014-02-05,Low
+C01095,Ricardo López Calderón,Individual,Retail,Santo Domingo,2024-07-01,Low
+C01629,Santiago Proaño Cevallos,Individual,Retail,Quito,2020-09-28,Low
+C01630,José Paredes Salazar,Individual,Retail,Ambato,2024-10-13,Medium
+C01631,Camila Guerrero Proaño,Individual,Retail,Machala,2025-04-30,Low
+C01632,Sofía Ortiz Cárdenas,Individual,Retail,Machala,2015-03-31,Medium
+C01633,Pedro Herrera López,Individual,Retail,Quito,2015-03-26,Low
+C02342,  Corporación  Volcán Cía. Ltda. ,Company,SME,Guayaquil,2012-12-16,Low
+C01634,Natalia Pérez Flores,Individual,Retail,Quito,2012-05-19,Low
+C01635,Marco Castillo López,Individual,Retail,Cuenca,2021-06-08,Low
+C01636,Importadora Los Ríos S.A.,Company,SME  ,Cuenca,2013-10-08,Medium
+C01637,Sofía Navarrete Benítez,Individual,Retail,Machala,2019-09-26,Low
+C01638,Raúl Torres Guerrero,Individual,Retail,Guayaquil,2014-12-12,Low
+C01639,Lucía Salazar Calderón,Individual,Retail,Quito,2021-08-22,Low
+C01640,Pedro Erazo Calderón,Individual,Retail,Quito,2024-09-18,Low
+C01641,Héctor Cárdenas Herrera,Individual,Retail,Quito,2012-03-20,Low
+C01642,Corporación del Litoral S.A.,Company,SME,Quito,2017-03-05,Medium
+C01643,Rosa Proaño Guerrero,Individual,Retail,Guayaquil,2014-12-06,Low
+C01644,Ana Zambrano Proaño,Individual,Retail,Santo Domingo,2023-11-13,Medium
+C01645,Fernando Zambrano Erazo,Individual,Retail,Riobamba,2024-11-29,Low
+C01646,Verónica Suárez Chávez,Individual,Retail,Quito,2012-11-16,Low
+C01647,Fabián Mora Cárdenas,Individual,Retail,Guayaquil,2012-03-20,High
+C01648,Distribuidora Cumbre S.A.S.,Company,SME,Machala,2024-05-31,Low
+C01649,Valeria Andrade Morales,Individual,Retail,Quito,2023-08-22,Medium
+C01650,Mónica Reyes Ortiz,Individual,Retail,Guayaquil,2012-02-09,Low
+C01651,Farmacéutica Estrella S.A.,Company,Corporate,Quito,2012-07-08,Medium
+C01652,Rosa Villacís Proaño,Individual,Retail,Machala,2015-06-01,Low
+C01653,Camila Mendoza Reyes,Individual,Retail,Ambato,2022-04-24,Low
+C01654,Santiago Andrade Calderón,Individual,Retail,Guayaquil,2019-07-22,High
+C01655,Rosa Navarrete Chávez,Individual,Retail,Guayaquil,2013-02-19,Low
+C01656,Tecnología Estrella S.A.S.,Company,Corporate,Guayaquil,2016-11-30,Low
+C01657,  Importadora  Los Ríos Cía. Ltda. ,Company,SME,Guayaquil,2024-11-21,Medium
+C01658,Patricia Paredes Sánchez,Individual,Retail,Guayaquil,2018-12-06,Low
+C01659,  Juan  Andrade Espinoza ,Individual,Retail,Quito,2021-04-05,Low
+C01660,Inversiones Estrella S.A.S.,Company,Corporate,Quito,2018-05-10,Medium
+C01661,Tecnología Puerto Nuevo Cía. Ltda.,Company,Corporate,Guayaquil,2015-02-04,Low
+C01662,José Herrera Calderón,Individual,Retail,Guayaquil,2025-06-03,Low
+C01663,Miguel Suárez Montenegro,Individual,Retail,Riobamba,2024-06-01,Low
+C01664,Luis Mora Torres,Individual,Retail,Quito,2013-07-27,Low
+C01665,Diego Reyes Naranjo,Individual,Retail,Guayaquil,2025-02-25,High
+C01666,Distribuidora Mitad del Mundo Cía. Ltda.,Company,Corporate,Guayaquil,2018-08-10,Low
+C01667,Andrea Herrera Navarrete,Individual,Retail,Santo Domingo,2021-05-22,Low
+C01668,Farmacéutica Horizonte Cía. Ltda.,Company,SME,Cuenca,2018-06-07,Medium
+C01669,Lucía Cevallos Delgado,Individual,Retail,Quito,2021-07-25,Low
+C01670,Diego Navarrete Ortiz,Individual,Retail,Guayaquil,2022-04-12,Low
+C01671,Logística Sierra Norte S.A.,Company,SME,Guayaquil,2021-07-31,Low
+C01672,José Paredes Calderón,Individual,Retail,Quito,2012-04-04,Low
+C01673,Ricardo Naranjo Paredes,Individual,Retail,Cuenca,2024-11-08,Medium
+C01674,Corporación Volcán S.A.,Company,SME,Quito,2024-11-03,High
+C01675,Importadora Cóndor S.A.,Company,Corporate,Riobamba,2016-08-06,Low
+C01676,Carmen Paredes Ortiz,Individual,Retail,Guayaquil,2021-06-17,High
+C01677,Textiles Sierra Norte S.A.,Company,SME,Machala,2014-10-30,Medium
+C01678,Exportadora Puerto Nuevo Cía. Ltda.,Company,SME,Quito,2025-06-05,Low
+C01679,Santiago Torres Zambrano,Individual,Retail,Riobamba,2013-09-19,Low
+C01680,Corporación Volcán S.A.S.,Company,Corporate,Manta,2018-01-17,Low
+C01681,Isabel Flores León,Individual,retail,Quito,2012-10-26,Medium
+C01682,Héctor Ramírez Suárez,Individual,Retail,Riobamba,2018-10-04,Low
+C01683,Ricardo Pérez Morales,Individual,Retail,Quito,2020-06-26,Medium
+C01684,Carmen Flores Sánchez,Individual,Retail,Machala,2021-09-15,Low
+C01685,Javier León Torres,Individual,Retail,Cuenca,2020-12-18,Low
+C01686,Pedro Flores Guerrero,Individual,Retail,Manta,2023-01-22,Low
+C01687,Importadora Bahía S.A.,Company,SME,Guayaquil,2017-03-27,Low
+C01688,Natalia Quiroga Suárez,Individual,Retail,Manta,2025-05-29,Medium
+C01689,Diana Mora Pérez,Individual,Retail,Quito,2021-02-01,Medium
+C01690,Comercial Mitad del Mundo S.A.,Company,Corporate,Guayaquil,2012-12-24,Low
+C01691,Logística Mitad del Mundo Cía. Ltda.,Company,SME,Guayaquil,2016-03-07,Low
+C01692,Constructora Puerto Nuevo S.A.,Company,SME,Quito,2023-11-03,Medium
+C01693,Distribuidora Cumbre S.A.,Company,Corporate,Guayaquil,2025-01-29,Low
+C01694,Andrés Delgado Mendoza,Individual,Retail,Quito,2022-01-07,Low
+C01695,Óscar Delgado Flores,Individual,Retail,Guayaquil,2024-08-02,Medium
+C01696,Tecnología Equinoccial S.A.,Company,SME,Ambato,2023-02-18,Low
+C01697,Isabel Navarrete Cárdenas,Individual,Retail,Loja,2025-02-01,Low
+C01698,Javier Bravo Delgado,Individual,Retail,Guayaquil,2017-10-17,Low
+C01699,Tecnología Río Verde S.A.S.,Company,SME,Guayaquil,2014-09-13,High
+C01700,Valeria Naranjo Sánchez,Individual,Retail,Guayaquil,2014-09-04,Medium
+C01701,Andrea Mora Montenegro,Individual,Retail,Quito,2022-06-30,Low
+C01702,Miguel Reyes Guerrero,Individual,Retail,Quito,2024-04-18,Low
+C01703,Héctor Guerrero Bravo,Individual,Retail,Cuenca,2016-07-19,Medium
+C01704,Natalia Villacís Paredes,Individual,Retail,Quito,2014-09-15,Low
+C01705,Miguel Cevallos Montenegro,Individual, RETAIL ,Guayaquil,2012-02-27,Low
+C01706,Comercial Nevado Cía. Ltda.,Company,SME,Machala,2022-06-10,Low
+C01707,María León Paredes,Individual,Retail,Guayaquil,2015-01-10,Low
+C01708,Exportadora Sierra Norte S.A.,Company,Corporate,Manta,2012-11-07,Low
+C01709,Santiago Navarrete Torres,Individual,Retail,Quito,2012-06-12,Low
+C01710,Javier Espinoza Chávez,Individual,Retail,Guayaquil,2014-08-27,Medium
+C01711,Patricia Jaramillo Flores,Individual,Retail,Machala,2024-11-01,Low
+C01712,María Castillo Andrade,Individual,Retail,Guayaquil,2020-02-29,Medium
+C01713,Diana Paredes León,Individual,Retail,Cuenca,2014-07-10,Medium
+C01714,Fabián Herrera Quiroga,Individual,Retail,Quito,2018-07-26,Low
+C01715,María Ramírez García,Individual,Retail,Guayaquil,2012-05-06,Low
+C01716,Carmen García Vásquez,Individual,Retail,Quito,2025-01-21,Low
+C01717,Farmacéutica Nevado Cía. Ltda.,Company,SME,Cuenca,2017-03-08,High
+C01718,Tecnología Horizonte S.A.,Company,SME,Guayaquil,2014-01-13,Low
+C01719,Tecnología Equinoccial Cía. Ltda.,Company,SME,Quito,2015-06-27,Medium
+C01720,Natalia Chávez Guerrero,Individual,Retail,Quito,2017-07-14,Low
+C01721,Lucía Herrera Calderón,Individual,Retail,Manta,2024-12-03,Low
+C01722,Natalia Vásquez Proaño,Individual,Retail,Quito,2014-03-17,Low
+C01723,Santiago Cevallos Erazo,Individual,Retail,Guayaquil,2015-06-11,Low
+C01724,Farmacéutica Mitad del Mundo Cía. Ltda.,Company,Corporate,Quito,2022-05-17,Low
+C01725,Carlos Montenegro García,Individual,Retail,Guayaquil,2025-04-19,Low
+C01726,Juan Castillo Calderón,Individual,Retail,Quito,2024-08-23,Medium
+C01727,Daniela García Vega,Individual,Retail,Loja,2016-03-01,Low
+C01728,Carlos Ramírez Suárez,Individual,Retail,Cuenca,2025-04-15,Low
+C01729,Andrés Proaño López,Individual,Retail,Quito,2023-11-05,Low
+C01730,Marco López Navarrete,Individual,Retail,Ibarra,2018-09-25,Low
+C01731,Elena Paredes Herrera,Individual,Retail,Guayaquil,2016-08-21,Medium
+C01732,Daniela Sánchez Morales,Individual,Retail,Quito,2020-12-28,Low
+C01733,Javier Erazo Herrera,Individual,Retail,Quito,2022-08-28,Low
+C01734,Camaronera Andina Cía. Ltda.,Company,SME,Ibarra,2023-09-27,Low
+C01735,Miguel López Delgado,Individual,Retail,Guayaquil,2017-10-28,Medium
+C01736,Diana Erazo Jaramillo,Individual,Retail,Ambato,2021-05-18,High
+C01737,Ricardo Erazo Montenegro,Individual,Retail,Cuenca,2016-04-20,Medium
+C01738,Pablo Montenegro Delgado,Individual,Retail  ,Quito,2023-03-21,Low
+C01739,Constructora Horizonte Cía. Ltda.,Company,SME,Guayaquil,2012-08-14,Medium
+C01740,Juan Jaramillo López,Individual,Retail,Ambato,2021-01-09,Low
+C01741,Daniela López Delgado,Individual,Retail,Guayaquil,2022-10-24,Medium
+C01742,Tecnología Río Verde Cía. Ltda.,Company,SME,Quito,2022-12-28,Low
+C01743,Camila García Chávez,Individual,Retail,Guayaquil,2020-05-05,Low
+C01744,  Andrea  Zambrano Proaño ,Individual,Retail,Quito,2012-09-22,Medium
+C01745,Elena Yánez Andrade,Individual,Retail,Loja,2012-08-30,Medium
+C01746,Florícola Nevado S.A.,Company,Corporate,Guayaquil,2017-12-20,Low
+C01747,Corporación Austral S.A.,Company,SME,Loja,2022-06-02,Medium
+C01748,Daniela Flores Zambrano,Individual,Retail,Loja,2025-04-01,Low
+C01749,Valeria Andrade Cevallos,Individual,Retail,Guayaquil,2022-04-16,Medium
+C00435,Diana Vega Herrera,Individual,Retail,Guayaquil,2018-08-27,High
+C01750,Santiago Proaño Naranjo,Individual,Retail,Guayaquil,2025-03-27,Low
+C01751,Marco Chávez Ortiz,Individual,Retail,Ambato,2012-09-23,Medium
+C01752,Ricardo Paredes Delgado,Individual,Retail,Quito,2019-11-05,Low
+C01753,Andrea Salazar García,Individual,Retail,Quito,2014-11-08,Low
+C01754,Farmacéutica Cumbre S.A.,Company,SME,Guayaquil,2013-12-13,Low
+C01755,Santiago Naranjo Torres,Individual,Retail,Guayaquil,2021-08-17,Medium
+C01756,Pablo Montenegro Zambrano,Individual,Retail,Quito,2015-11-07,Low
+C01757,Camaronera Cordillera Cía. Ltda.,Company,SME,Guayaquil,2020-05-18,Medium
+C01758,Héctor Calderón Chávez,Individual,Retail,Quito,2012-01-23,Low
+C01759,  Patricia  Cárdenas Benítez ,Individual,Retail,Quito,2014-04-26,Medium
+C01760,Andrés Erazo Cevallos,Individual,Retail,Loja,2013-09-28,Medium
+C01761,Sofía Ortiz Bravo,Individual,Retail,Quito,2012-10-10,Low
+C01762,Exportadora Mitad del Mundo S.A.,Company,SME,Guayaquil,2015-11-20,Low
+C01763,Javier Espinoza Cevallos,Individual,Retail,Quito,2019-06-07,High
+C01764,Lucía Bravo Naranjo,Individual,Retail,Quito,2024-10-17,Low
+C01765,  Logística  del Pacífico S.A. ,Company, SME ,Cuenca,2018-05-22,Low
+C01766,Fernando Ortiz Mendoza,Individual,Retail,Machala,2024-10-28,Low
+C01767,Andrés Yánez Chávez,Individual,Retail,Guayaquil,2017-03-03,Medium
+C01768,  Farmacéutica  del Litoral Cía. Ltda. ,Company,Corporate,Quito,2013-04-16,Low
+C01769,Óscar Zambrano Salazar,Individual,Retail,Guayaquil,2013-04-07,Low
+C01770,Camila Zambrano Mendoza,Individual,Retail,Guayaquil,2022-04-24,Low
+C01771,Exportadora Austral S.A.,Company,SME,Guayaquil,2025-10-18,Low
+C01772,Marco Sánchez Bravo,Individual,Retail,Quito,2024-04-10,Low
+C01773,Marco Espinoza Naranjo,Individual,Retail,Santo Domingo,2014-11-15,Medium
+C01774,Verónica Castillo Salazar,Individual,Retail,Cuenca,2023-05-30,Low
+C01775,Santiago García Jaramillo,Individual,Retail,Manta,2022-01-22,Low
+C01776,María Proaño Yánez,Individual,Retail,Loja,2023-12-15,Low
+C01777,  Exportadora  del Litoral S.A. ,Company,Corporate,Machala,2017-03-01,Low
+C01778,Ricardo García Pérez,Individual,Retail,Guayaquil,2015-02-17,Low
+C01779,Sofía Ortiz Delgado,Individual,Retail,Cuenca,2025-04-17,Low
+C01780,Óscar Herrera Vásquez,Individual,Retail,Machala,2017-08-20,Low
+C01781,Importadora Bahía S.A.S.,Company,Corporate,Cuenca,2019-03-17,Low
+C01782,Lucía Yánez López,Individual,Retail,Guayaquil,2012-03-01,Low
+C01783,Camila Cevallos Chávez,Individual,Retail,Loja,2016-09-07,Medium
+C01784,Natalia Yánez Navarrete,Individual,Retail,Quito,2014-02-19,Low
+C01785,Comercial Sierra Norte Cía. Ltda.,Company,Corporate,Guayaquil,2021-09-19,Medium
+C01786,Valeria Suárez Torres,Individual,Retail,Guayaquil,2023-11-24,Medium
+C01787,Andrés Salazar Chávez,Individual,Retail,Guayaquil,2015-11-09,Low
+C01788,Mónica Castillo Herrera,Individual,Retail,Quito,2015-10-10,Medium
+C01789,Ricardo Vásquez Flores,Individual,Retail,Guayaquil,2015-11-15,Low
+C01790,Jorge Calderón López,Individual,Retail,Guayaquil,2021-02-05,Medium
+C01791,Sofía Montenegro López,Individual,Retail,Cuenca,2016-01-16,Low
+C01792,Exportadora Sierra Norte S.A.,Company,SME,Guayaquil,2024-03-30,Low
+C01793,Florícola Andina S.A.,Company,Corporate,Guayaquil,2021-12-11,Low
+C01794,Comercial del Litoral Cía. Ltda.,Company,SME,Riobamba,2024-02-23,Low
+C01795,Fernando López Espinoza,Individual,Retail,Quito,2017-03-12,Low
+C01796,Farmacéutica Austral S.A.S.,Company,SME,Ambato,2020-04-25,Low
+C01797,Gabriela Herrera León,Individual,Retail,Quito,2016-12-25,Low
+C01798,Luis Cárdenas Benítez,Individual,Retail,Quito,2024-05-27,Low
+C01799,Ricardo Zambrano Pérez,Individual,Retail,Quito,2013-03-25,Low
+C01800,Exportadora Puerto Nuevo Cía. Ltda.,Company,Corporate,Cuenca,2023-10-16,Low
+C01801,María Proaño Salazar,Individual,Retail,Quito,2014-01-08,Low
+C01802,Carmen Naranjo Guerrero,Individual,Retail,Manta,2016-06-11,Low
+C01803,Lorena Paredes Quiroga,Individual,Retail,Cuenca,2016-06-26,Low
+C01804,Verónica Quiroga Guerrero,Individual,Retail,Quito,2024-07-20,Low
+C01805,Santiago Mora Vásquez,Individual,Retail,Quito,2024-02-02,Low
+C01806,Juan Erazo Quiroga,Individual,Retail,Manta,2013-01-03,Medium
+C01807,Carlos Castillo Salazar,Individual,Retail,Ibarra,2012-06-10,Medium
+C01808,Corporación Cóndor S.A.S.,Company,SME,Guayaquil,2015-11-13,Low
+C01809,Andrés Quiroga Navarrete,Individual,Retail,Ambato,2013-09-29,Low
+C01810,Industrias Mitad del Mundo Cía. Ltda.,Company,SME,Quito,2016-05-27,Low
+C01811,Juan Montenegro Proaño,Individual,Retail,Manta,2018-07-31,Low
+C01812,Miguel Villacís Herrera,Individual,Retail,Guayaquil,2012-12-05,Low
+C01813,Fernando Mora Chávez,Individual,Retail,Quito,2012-01-27,Low
+C01814,Valeria Salazar Castillo,Individual,Retail,Guayaquil,2018-01-03,Low
+C01815,Verónica Ortiz Salazar,Individual,Retail,Quito,2024-02-03,Low
+C01816,Raúl Espinoza Paredes,Individual,Retail,Guayaquil,2013-02-12,Medium
+C01817,Pablo García Quiroga,Individual,Retail,Guayaquil,2024-09-25,Low
+C01818,Inversiones Puerto Nuevo S.A.,Company,SME,Machala,2022-02-14,High
+C01819,Javier Cárdenas Paredes,Individual,Retail,Ambato,2020-09-11,Low
+C01820,Carlos Vásquez Ramírez,Individual,Retail,Quito,2024-03-30,Medium
+C01821,Constructora Cóndor S.A.S.,Company,Corporate,Quito,2015-09-29,Low
+C01822,  Diana  Ramírez Sánchez ,Individual,Retail,Cuenca,2022-03-11,Medium
+C01823,Santiago Benítez Quiroga,Individual,Retail,Guayaquil,2021-08-10,Medium
+C01824,Distribuidora Los Ríos Cía. Ltda.,Company,Corporate,Quito,2021-07-12,Low
+C01825,José Zambrano Castillo,Individual,Retail,Quito,2021-01-27,Medium
+C01826,Lucía Navarrete Herrera,Individual,Retail,Quito,2016-02-11,Medium
+C01827,Esteban Proaño Pérez,Individual,Retail,Quito,2022-02-20,Low
+C01828,Valeria Morales Suárez,Individual,Retail,Quito,2013-01-17,Medium
+C01829,Fabián Cárdenas Morales,Individual,Retail,Ambato,2023-04-19,High
+C01830,José Salazar Salazar,Individual,Retail,Cuenca,2025-11-17,Low
+C01831,Exportadora Equinoccial S.A.S.,Company,Corporate,Ambato,2025-03-08,Medium
+C01832,Raúl Zambrano Montenegro,Individual,Retail,Guayaquil,2020-10-06,Medium
+C01833,Carlos Zambrano León,Individual,Retail,Quito,2024-01-16,Medium
+C01834,Natalia Yánez López,Individual,Retail,Machala,2023-06-01,Low
+C01835,Florícola Nevado S.A.,Company,Corporate,Riobamba,2019-03-29,Medium
+C01836,Farmacéutica Los Ríos Cía. Ltda.,Company,SME,Quito,2012-02-19,Medium
+C01837,Sofía Bravo Paredes,Individual,Retail,Cuenca,2016-08-16,Low
+C01838,Paola Flores Ortiz,Individual,Retail,Cuenca,2024-11-05,Low
+C01839,José Guerrero Quiroga,Individual,Retail,Guayaquil,2025-04-05,Low
+C01840,Gabriela Espinoza Bravo,Individual,Retail,Guayaquil,2021-11-06,Low
+C01841,Óscar Mora León,Individual,Retail,Ambato,2023-07-01,Low
+C01842,Paola Delgado Jaramillo,Individual,Retail,Quito,2013-09-09,Low
+C01843,Pablo Castillo Suárez,Individual,Retail,Cuenca,2018-01-29,Low
+C01844,Agrícola Bahía S.A.S.,Company,Corporate,Guayaquil,2024-02-23,Low
+C01845,Juan Yánez Jaramillo,Individual,Retail,Guayaquil,2012-01-13,Low
+C01846,Luis Guerrero Castillo,Individual,Retail,Quito,2015-07-02,Low
+C01847,Corporación del Pacífico S.A.,Company,Corporate,Quito,2013-06-21,Low
+C01848,Textiles Sierra Norte S.A.S.,Company,SME,Guayaquil,2025-07-17,Medium
+C01849,Pedro Ramírez Mora,Individual,Retail,Quito,2012-06-06,Low
+C01850,Camaronera Estrella Cía. Ltda.,Company,Corporate,Cuenca,2024-07-07,Low
+C01851,Industrias Austral S.A.,Company,SME,Cuenca,2024-04-25,Medium
+C01852,Santiago Guerrero León,Individual,Retail,Quito,2021-02-09,Low
+C01853,  Luis  Mora Herrera ,Individual,Retail,Cuenca,2013-04-10,Medium
+C01854,Pablo Mendoza Paredes,Individual,Retail,Quito,2016-11-23,Low
+C01855,Camaronera Sierra Norte S.A.S.,Company,Corporate,Loja,2022-11-13,Low
+C01856,María Quiroga Jaramillo,Individual,Retail,Guayaquil,2020-05-21,Low
+C01857,Natalia Flores Jaramillo,Individual,Retail,Quito,2016-02-05,Low
+C01858,Marco Zambrano Delgado,Individual,Retail,Cuenca,2020-06-13,Low
+C01859,Exportadora Cordillera S.A.,Company,SME,Guayaquil,2018-11-30,Low
+C01860,Elena Paredes Suárez,Individual,Retail,Manta,2023-12-13,Medium
+C01861,Farmacéutica del Litoral S.A.S.,Company,SME,Machala,2018-02-06,Medium
+C01862,Raúl Jaramillo Guerrero,Individual,Retail,Ibarra,2022-02-17,Low
+C01863,Agrícola del Litoral S.A.S.,Company,Corporate,Guayaquil,2014-11-07,Low
+C01864,Mónica Reyes Erazo,Individual,Retail,Quito,2023-11-12,Low
+C01865,Diego Vásquez Yánez,Individual,Retail,Loja,2025-11-13,Low
+C01866,Ana Paredes López,Individual,Retail,Guayaquil,2020-09-04,High
+C01867,Fabián Bravo Herrera,Individual,Retail,Santo Domingo,2022-03-05,Low
+C01868,Pablo López Mendoza,Individual,Retail,Quito,2025-01-21,Low
+C01869,Óscar Jaramillo Yánez,Individual, RETAIL ,Guayaquil,2025-07-15,Low
+C01870,Andrea Castillo Zambrano,Individual,Retail,Cuenca,2022-05-29,Low
+C01871,Gabriela Vásquez Chávez,Individual,Retail,Guayaquil,2015-11-15,Medium
+C01872,Juan Erazo Ortiz,Individual,Retail,Quito,2016-06-27,Medium
+C01873,Óscar Flores Jaramillo,Individual,Retail,Guayaquil,2013-06-28,Low
+C01874,Isabel Zambrano Jaramillo,Individual,Retail,Riobamba,2024-03-09,Low
+C01875,Camaronera Los Ríos S.A.,Company,Corporate,Guayaquil,2016-11-18,Low
+C01876,Diana Proaño Vega,Individual,Retail,Guayaquil,2022-07-17,Low
+C01877,Raúl Chávez Salazar,Individual,Retail,Guayaquil,2015-01-14,Low
+C01878,Lorena Jaramillo Delgado,Individual,Retail,Quito,2017-03-28,Low
+C01879,Fabián Vega Chávez,Individual,Retail,Quito,2017-11-08,Low
+C01880,Diego Proaño Calderón,Individual,Retail,Cuenca,2024-02-04,Medium
+C01881,Mónica Calderón Herrera,Individual,Retail,Cuenca,2017-07-08,Low
+C01882,Florícola Volcán Cía. Ltda.,Company,SME,Quito,2023-10-20,Low
+C01883,Esteban Jaramillo Quiroga,Individual,Retail,Quito,2018-11-22,Low
+C01884,Andrés Salazar Naranjo,Individual,Retail,Guayaquil,2025-11-03,Low
+C01885,Ricardo Zambrano García,Individual,Retail,Guayaquil,2015-10-21,High
+C01886,Agrícola del Pacífico S.A.,Company,Corporate,Riobamba,2016-01-09,Low
+C01887,Valeria Bravo Yánez,Individual,Retail,Guayaquil,2022-11-11,Low
+C01888,Distribuidora Cordillera S.A.S.,Company,SME,Machala,2018-08-04,Low
+C01889,  Marco  Quiroga Navarrete ,Individual,Retail,Quito,2012-07-29,High
+C01890,Pablo Herrera Naranjo,Individual,Retail,Santo Domingo,2013-06-22,Medium
+C01891,Esteban Cárdenas Salazar,Individual,Retail,Cuenca,2022-07-27,High
+C01892,Andrea Torres Flores,Individual,Retail,Riobamba,2017-05-11,Low
+C01893,Raúl Yánez Torres,Individual,Retail,Guayaquil,2017-09-26,Medium
+C01894,Andrea Torres Suárez,Individual,Retail,Quito,2019-10-08,Low
+C01895,Jorge Salazar Montenegro,Individual,Retail,Guayaquil,2020-03-15,Low
+C01896,Logística Puerto Nuevo S.A.,Company,SME,Guayaquil,2022-08-09,Low
+C01897,Natalia Ortiz Andrade,Individual,Retail,Ibarra,2018-03-13,High
+C01898,Distribuidora Cóndor S.A.S.,Company,Corporate,Guayaquil,2015-12-30,Low
+C01899,Daniela Yánez Villacís,Individual,Retail,Guayaquil,2024-02-10,Low
+C01900,Tecnología Nevado S.A.S.,Company,SME,Cuenca,2018-04-02,Medium
+C01901,José Montenegro Calderón,Individual,Retail,Guayaquil,2019-07-31,Medium
+C01902,Pedro Chávez Erazo,Individual,Retail,Ambato,2016-07-26,Low
+C01903,Pablo Herrera Mendoza,Individual,Retail,Guayaquil,2024-11-03,Low
+C01904,Héctor Delgado Chávez,Individual,Retail,Cuenca,2023-05-04,Low
+C01905,Esteban Cevallos Erazo,Individual,Retail,Quito,2014-01-29,Medium
+C01906,Pedro Naranjo Flores,Individual,Retail,Manta,2015-04-04,Low
+C01907,Jorge Sánchez Calderón,Individual,Retail,Manta,2015-08-28,Low
+C01908,Lucía Guerrero Erazo,Individual,Retail,Guayaquil,2012-09-21,Low
+C01909,Andrés Jaramillo Benítez,Individual,Retail,Quito,2012-02-27,High
+C01910,Patricia Pérez Quiroga,Individual,Retail,Machala,2013-04-09,Low
+C01911,Diego Mendoza Flores,Individual,Retail,Machala,2013-08-24,Low
+C01912,Paola Proaño Pérez,Individual,Retail,Manta,2022-11-24,High
+C01913,Diego Cárdenas López,Individual,Retail,Quito,2012-01-23,High
+C01914,Diego Villacís Espinoza,Individual,Retail,Guayaquil,2018-10-03,Low
+C01915,Andrea Montenegro Andrade,Individual,Retail,Santo Domingo,2019-06-01,Low
+C01916,Paola Cevallos Zambrano,Individual,Retail,Machala,2021-09-25,Low
+C01917,Diego Mora Flores,Individual,Retail,Quito,2025-09-30,Low
+C01918,Daniela Yánez Cevallos,Individual,Retail,Guayaquil,2015-09-12,Medium
+C01919,José Jaramillo Vásquez,Individual,Retail,Ambato,2016-06-26,Low
+C01920,Patricia Proaño Reyes,Individual,Retail,Guayaquil,2020-03-22,Low
+C01921,Gabriela Zambrano Cevallos,Individual,Retail,Machala,2014-12-25,Low
+C01922,Camila Quiroga Salazar,Individual,Retail,Ibarra,2018-02-17,Low
+C01923,Diego Cevallos Salazar,Individual,Retail,Santo Domingo,2018-05-26,Low
+C01924,Rosa Guerrero Navarrete,Individual,Retail,Cuenca,2014-09-16,Low
+C01925,Javier Torres Mora,Individual,Retail,Quito,2024-12-04,Low
+C01926,Andrés Erazo Vásquez,Individual,Retail,Quito,2023-01-24,Low
+C01927,Pablo Villacís Andrade,Individual,Retail,Machala,2021-06-02,Low
+C01928,Elena Benítez Montenegro,Individual,Retail  ,Machala,2022-01-25,Low
+C01929,Pablo Zambrano Benítez,Individual,Retail,Quito,2025-01-09,Low
+C01930,Patricia Mendoza Andrade,Individual,Retail,Cuenca,2017-03-02,Low
+C01931,Importadora Volcán Cía. Ltda.,Company,Corporate,Quito,2023-10-23,Low
+C01932,Exportadora Sierra Norte Cía. Ltda.,Company,Corporate,Guayaquil,2016-09-09,Low
+C01933,Marco Proaño Paredes,Individual,Retail,Guayaquil,2020-03-12,Low
+C01934,Ricardo Reyes Yánez,Individual,Retail,Guayaquil,2022-04-28,Medium
+C01935,Rosa Mora Proaño,Individual,Retail,Machala,2018-09-26,Low
+C01936,Daniela Chávez Sánchez,Individual,Retail,Quito,2014-10-05,Low
+C01937,Ricardo Erazo Vega,Individual,Retail,Quito,2012-02-26,Low
+C01938,Gabriela Ortiz Castillo,Individual,Retail,Quito,2024-03-31,Low
+C01939,María García Proaño,Individual,Retail,Guayaquil,2022-12-18,Low
+C01940,Tecnología del Valle S.A.S.,Company,SME,Guayaquil,2022-09-29,Medium
+C01941,Daniela Proaño Zambrano,Individual,Retail,Quito,2024-05-16,Medium
+C01942,Mónica Reyes Villacís,Individual,Retail,Guayaquil,2016-03-10,Low
+C01943,Paola Bravo León,Individual,Retail,Guayaquil,2015-02-26,Low
+C01944,Exportadora Andina S.A.S.,Company,Corporate,Guayaquil,2012-01-02,Low
+C01945,Miguel López Mora,Individual,Retail,Cuenca,2025-05-21,Low
+C01946,Textiles del Valle S.A.S.,Company,Corporate,Quito,2022-11-02,Low
+C01947,Rosa Sánchez Pérez,Individual,Retail,Quito,2021-12-04,Low
+C01948,Óscar Bravo Espinoza,Individual,Retail,Guayaquil,2016-12-16,Low
+C01949,Mónica Quiroga Ortiz,Individual,Retail,Ibarra,2021-09-13,Medium
+C01950,Carmen Herrera Vega,Individual,Retail,Guayaquil,2022-06-21,Medium
+C01951,Pablo Suárez Cevallos,Individual,Retail,Guayaquil,2022-09-21,Medium
+C01952,María Morales Navarrete,Individual,Retail,Quito,2017-05-04,Low
+C01953,Florícola Horizonte S.A.,Company,SME,Guayaquil,2018-06-14,Medium
+C01954,Esteban Ramírez Delgado,Individual,Retail,Guayaquil,2023-02-15,Low
+C01955,Elena Castillo Vásquez,Individual,Retail,Quito,2020-04-29,Low
+C01956,Elena León Andrade,Individual,Retail,Cuenca,2024-09-07,Low
+C01957,  Héctor  Torres Zambrano ,Individual,Retail,Guayaquil,2024-03-13,Low
+C01958,Agrícola Cóndor Cía. Ltda.,Company,SME,Guayaquil,2016-09-07,High
+C01959,Florícola Estrella S.A.S.,Company,SME,Machala,2018-03-25,Low
+C01960,Carlos Paredes Erazo,Individual,Retail,Quito,2025-06-02,Low
+C01961,Lorena Salazar Salazar,Individual,Retail,Guayaquil,2016-08-27,Low
+C01962,Elena Quiroga Morales,Individual,Retail,Riobamba,2016-12-27,Low
+C01963,Santiago García Herrera,Individual,Retail,Manta,2023-12-20,Low
+C01964,Jorge Sánchez Bravo,Individual,Retail,Guayaquil,2019-08-12,Low
+C01965,Carlos López Montenegro,Individual,Retail,Guayaquil,2024-06-16,Low
+C01966,Natalia Mora Ramírez,Individual,Retail,Guayaquil,2024-11-03,Medium
+C01967,Camaronera Sierra Norte Cía. Ltda.,Company,Corporate,Guayaquil,2023-01-10,Low
+C01968,Héctor Mora Jaramillo,Individual,Retail,Guayaquil,2024-05-11,Low
+C01969,Textiles Cumbre S.A.,Company,Corporate,Quito,2024-03-10,Low
+C01970,Carlos Mendoza Paredes,Individual,Retail,Quito,2020-04-19,Low
+C01971,Fabián Erazo Calderón,Individual,Retail,Quito,2019-04-12,Low
+C01972,Florícola del Litoral S.A.S.,Company,SME,Guayaquil,2020-09-03,Medium
+C01973,Paola Andrade Bravo,Individual,Retail,Guayaquil,2014-09-04,Low
+C01974,Fabián Jaramillo Cárdenas,Individual,Retail,Guayaquil,2020-12-27,Low
+C01975,Ricardo Torres Salazar,Individual,Retail,Quito,2018-03-25,Low
+C01976,Diana Zambrano Salazar,Individual,Retail,Loja,2020-01-15,Low
+C01977,Gabriela Paredes Castillo,Individual,Retail,Quito,2023-09-30,Low
+C01978,Farmacéutica Volcán S.A.S.,Company,SME,Cuenca,2024-10-25,Low
+C01979,Inversiones Puerto Nuevo Cía. Ltda.,Company,Corporate,Machala,2017-10-03,Low
+C01980,Héctor Yánez Bravo,Individual,Retail,Guayaquil,2018-08-22,Medium
+C01981,Fernando Mendoza Mora,Individual,Retail,Manta,2023-06-30,Medium
+C01982,Tecnología Cumbre S.A.,Company,Corporate,Guayaquil,2022-02-24,Low
+C01983,Fernando Cevallos Bravo,Individual,Retail,Quito,2016-10-04,Low
+C01984,Exportadora del Pacífico S.A.S.,Company,Corporate,Quito,2013-02-01,Medium
+C01985,Miguel Benítez Erazo,Individual,Retail,Cuenca,2018-01-13,Low
+C01986,Farmacéutica Volcán S.A.S.,Company,Corporate,Quito,2022-09-01,Medium
+C01987,Logística Estrella Cía. Ltda.,Company,Corporate,Guayaquil,2025-07-22,Low
+C01988,Inversiones Cóndor Cía. Ltda.,Company,SME,Guayaquil,2018-09-13,Low
+C01989,Daniela Torres Villacís,Individual,Retail,Quito,2024-01-15,Low
+C01990,Miguel Proaño Paredes,Individual,Retail,Quito,2019-07-21,Low
+C01991,Textiles del Pacífico S.A.,Company,SME,Guayaquil,2017-08-17,Medium
+C01992,Luis Naranjo Flores,Individual,Retail,Quito,2023-11-24,Medium
+C01993,Valeria Mora Pérez,Individual,Retail,Guayaquil,2019-01-01,Low
+C01994,Fabián Montenegro Reyes,Individual,Retail,Quito,2023-12-11,Low
+C01995,Agrícola Equinoccial S.A.S.,Company,SME,Ibarra,2017-12-29,Medium
+C01996,Constructora Sierra Norte S.A.,Company,Corporate,Ambato,2023-09-16,Low
+C01997,Óscar Salazar Mora,Individual,Retail,Guayaquil,2018-03-14,Low
+C01998,Paola Naranjo León,Individual,Retail,Guayaquil,2025-03-15,Low
+C01999,Constructora Nevado Cía. Ltda.,Company,SME,Machala,2021-06-02,Low
+C02000,Diana Morales García,Individual,Retail,Guayaquil,2025-03-30,Low
+C02001,Mónica López Yánez,Individual,Retail,Quito,2024-03-29,High
+C02002,  Diana  Flores Reyes ,Individual,Retail,Guayaquil,2015-05-10,Low
+C02003,Santiago Vásquez Sánchez,Individual,Retail,Santo Domingo,2012-07-10,Medium
+C02004,Paola Herrera Reyes,Individual,Retail,Cuenca,2016-12-07,Low
+C02005,Lorena Suárez Yánez,Individual,Retail,Cuenca,2022-07-29,Low
+C02006,Luis Chávez Salazar,Individual,Retail,Cuenca,2025-07-09,Low
+C02007,  Andrea  Pérez Reyes ,Individual,Retail,Cuenca,2013-08-01,Low
+C02008,Camila Salazar Salazar,Individual,Retail,Guayaquil,2023-10-09,Medium
+C02009,Raúl Calderón Bravo,Individual,Retail,Quito,2022-05-19,Low
+C02010,Carlos Salazar Vega,Individual,Retail,Quito,2018-10-14,High
+C02011,Santiago León Zambrano,Individual,Retail,Quito,2023-06-24,Low
+C02012,José Jaramillo Benítez,Individual,Retail,Guayaquil,2020-12-09,Low
+C02013,Mónica García López,Individual,Retail,Cuenca,2012-08-16,Low
+C02014,Rosa Navarrete Calderón,Individual,Retail,Cuenca,2023-09-24,Medium
+C02015,Farmacéutica Equinoccial S.A.S.,Company,SME,Guayaquil,2022-12-15,Low
+C02016,Óscar Cevallos Guerrero,Individual,Retail,Guayaquil,2014-12-16,Medium
+C02017,Natalia Navarrete Jaramillo,Individual,Retail,Loja,2018-03-01,Low
+C02018,Elena Ramírez Erazo,Individual,Retail,Guayaquil,2024-02-17,Low
+C02019,Pablo Vega Salazar,Individual,Retail,Ibarra,2024-08-18,Low
+C02020,Javier Montenegro Andrade,Individual,Retail,Guayaquil,2021-12-01,Low
+C02021,Exportadora Costa Azul S.A.,Company,SME,Quito,2019-02-20,High
+C02022,Javier Herrera Flores,Individual,Retail,Quito,2016-12-28,Low
+C02023,Verónica Paredes Cevallos,Individual,Retail,Riobamba,2014-05-07,Low
+C02024,Sofía Castillo Delgado,Individual,Retail,Ambato,2014-04-18,Medium
+C02025,Ricardo Delgado Mendoza,Individual,Retail,Manta,2020-10-28,Medium
+C02026,Florícola Austral S.A.S.,Company,SME,Loja,2021-10-27,Low
+C02027,Corporación Nevado S.A.,Company,SME,Manta,2018-10-14,Medium
+C02028,Javier Chávez Suárez,Individual,Retail,Riobamba,2021-03-29,Low
+C02029,Pedro Benítez Naranjo,Individual,Retail,Manta,2024-11-01,Low
+C02030,Daniela Herrera Bravo,Individual,Retail,Ambato,2016-11-26,Low
+C02031,Daniela Guerrero Torres,Individual,Retail,Quito,2015-08-05,Low
+C02032,Exportadora Río Verde S.A.,Company,SME,Riobamba,2020-10-28,Medium
+C02033,Daniela Cevallos Herrera,Individual,Retail,Cuenca,2018-10-28,High
+C02034,Distribuidora Los Ríos S.A.,Company,SME,Machala,2020-06-06,Medium
+C02035,Carlos Navarrete Torres,Individual,Retail,Manta,2021-09-15,Low
+C02036,Isabel Morales Ramírez,Individual,Retail,Machala,2020-08-14,Low
+C02037,Inversiones Sierra Norte S.A.S.,Company,Corporate,Cuenca,2018-05-10,Medium
+C02038,Corporación del Litoral S.A.S.,Company,SME,Guayaquil,2025-09-16,Low
+C02039,María Sánchez Andrade,Individual,Retail,Quito,2014-02-09,Low
+C02040,Pedro García Naranjo,Individual,Retail,Machala,2018-09-22,Low
+C02041,Santiago Delgado Yánez,Individual,Retail,Guayaquil,2022-02-01,Medium
+C02042,Diego Yánez Herrera,Individual,Retail,Cuenca,2018-06-22,High
+C02043,Distribuidora Andina S.A.,Company,Corporate,Quito,2012-08-30,Low
+C02044,Santiago López Guerrero,Individual,Retail,Quito,2016-03-25,Low
+C02045,Lucía Erazo Villacís,Individual,Retail,Guayaquil,2024-01-02,Low
+C02046,Mónica Ortiz Pérez,Individual,Retail,Guayaquil,2012-09-19,Medium
+C02047,Diego Herrera Naranjo,Individual,Retail,Ambato,2016-09-06,High
+C02048,Andrea Naranjo Cárdenas,Individual,Retail,Guayaquil,2012-05-12,Medium
+C02049,Florícola Austral Cía. Ltda.,Company,SME,Guayaquil,2014-09-12,Low
+C02050,Andrés Morales Ortiz,Individual,Retail,Guayaquil,2019-11-10,Low
+C02051,Inversiones Mitad del Mundo Cía. Ltda.,Company,SME,Guayaquil,2013-03-06,Low
+C02052,Camila Herrera Villacís,Individual,Retail,Ambato,2020-01-01,Low
+C02053,Lorena Sánchez Torres,Individual,Retail,Quito,2021-11-02,Medium
+C02054,Farmacéutica Austral Cía. Ltda.,Company,SME,Guayaquil,2012-08-03,Medium
+C02055,Andrea Salazar Andrade,Individual,Retail,Ambato,2013-06-04,High
+C02056,Verónica Quiroga Paredes,Individual,Retail,Quito,2025-02-12,Low
+C02057,Raúl Naranjo Proaño,Individual,Retail,Guayaquil,2017-03-27,Medium
+C02058,Verónica Villacís Flores,Individual,Retail,Guayaquil,2022-10-25,Medium
+C02059,Carmen Torres Flores,Individual,Retail,Quito,2023-10-18,Low
+C02060,Agrícola Costa Azul S.A.,Company,SME,Guayaquil,2012-03-07,Low
+C02061,Pedro Ortiz Montenegro,Individual,Retail,Guayaquil,2016-05-10,Low
+C02062,Patricia Suárez Delgado,Individual,Retail,Riobamba,2022-10-10,Low
+C02063,Daniela Yánez Flores,Individual,Retail,Quito,2021-09-18,Low
+C02064,Jorge Andrade Vega,Individual,Retail,Quito,2013-09-27,Low
+C02303,Isabel Erazo Paredes,Individual,Retail,Ambato,2017-01-07,Low
+C02065,Lorena Zambrano Mora,Individual,Retail,Machala,2022-03-09,Low
+C02066,  Andrea  Andrade Jaramillo ,Individual,Retail,Cuenca,2025-08-15,Low
+C02067,Carlos Vásquez Paredes,Individual,Retail,Guayaquil,2012-09-29,Low
+C02068,Gabriela Suárez Chávez,Individual,Retail,Cuenca,2025-10-24,Low
+C02069,José Salazar Herrera,Individual,Retail,Guayaquil,2015-06-10,Low
+C02070,Luis García Salazar,Individual,Retail,Ambato,2019-03-04,Low
+C02071,Comercial Equinoccial Cía. Ltda.,Company,SME,Guayaquil,2025-06-15,Low
+C02072,Diego Pérez Cevallos,Individual,Retail,Guayaquil,2019-03-02,High
+C02073,Diego López López,Individual,Retail,Riobamba,2014-02-22,Medium
+C02074,Farmacéutica del Pacífico S.A.,Company,SME,Guayaquil,2016-08-28,Low
+C02075,Distribuidora Estrella S.A.,Company,Corporate,Quito,2023-08-06,High
+C02076,Daniela León Ortiz,Individual,Retail,Quito,2017-09-13,Medium
+C02077,Pedro Sánchez Herrera,Individual,Retail,Quito,2018-09-06,Low
+C02078,María López Paredes,Individual,Retail,Quito,2021-08-23,Low
+C02079,Constructora del Pacífico S.A.S.,Company,SME,Cuenca,2022-03-06,Low
+C02080,Logística Los Ríos Cía. Ltda.,Company,SME,Guayaquil,2020-02-01,Low
+C02081,Miguel Torres Zambrano,Individual,Retail,Ibarra,2020-08-08,Low
+C02082,Tecnología Horizonte S.A.S.,Company,SME,Quito,2024-09-30,Medium
+C02083,Andrés Vásquez Ortiz,Individual,Retail,Quito,2021-05-05,Low
+C02084,Corporación Mitad del Mundo S.A.,Company,SME,Guayaquil,2020-04-26,Medium
+C02085,Verónica Zambrano Chávez,Individual,Retail,Guayaquil,2021-02-22,Low
+C02086,Fabián Navarrete Sánchez,Individual,Retail,Guayaquil,2015-06-16,Medium
+C02087,Santiago Vega Yánez,Individual,Retail,Cuenca,2015-07-07,Medium
+C02088,Pablo Mendoza Navarrete,Individual,Retail,Guayaquil,2024-11-27,Medium
+C02089,Pedro Cárdenas Navarrete,Individual,Retail,Quito,2012-08-02,Low
+C02090,Raúl Jaramillo Quiroga,Individual,Retail,Quito,2017-04-20,Medium
+C02091,Raúl Espinoza Cárdenas,Individual,Retail,Guayaquil,2023-03-20,Low
+C02092,Farmacéutica Bahía S.A.S.,Company,SME,Guayaquil,2022-05-11,Low
+C02093,Camila Morales Castillo,Individual,Retail,Santo Domingo,2012-02-03,Low
+C02094,  Lorena  Chávez Castillo ,Individual,Retail,Quito,2024-01-20,Low
+C02095,Verónica Proaño Morales,Individual,Retail,Manta,2025-02-11,Low
+C02096,Sofía Montenegro Zambrano,Individual,Retail,Machala,2018-03-27,Medium
+C02097,Andrés Villacís Quiroga,Individual,Retail,Quito,2024-07-14,Low
+C02098,Natalia Yánez Ramírez,Individual,Retail,Machala,2020-11-13,Low
+C02099,  Tecnología  Austral S.A.S. ,Company,SME,Cuenca,2020-08-05,Low
+C02100,Rosa Bravo Cárdenas,Individual,Retail,Quito,2012-07-28,Medium
+C02101,Miguel Morales Sánchez,Individual,Retail,Guayaquil,2020-09-26,Low
+C02102,Fabián Benítez Guerrero,Individual,Retail,Quito,2017-07-15,Low
+C02103,Natalia Cevallos Flores,Individual,Retail,Quito,2024-08-08,Low
+C02104,Esteban Morales Pérez,Individual,Retail,Guayaquil,2014-04-02,Medium
+C02105,Textiles del Litoral S.A.,Company,Corporate,Quito,2025-05-20,Low
+C02106,Industrias Nevado S.A.,Company,SME,Riobamba,2012-03-26,Low
+C02107,Constructora Estrella S.A.S.,Company,SME,Cuenca,2018-12-27,High
+C02108,Luis Jaramillo Mora,Individual,Retail,Machala,2021-05-10,Medium
+C02109,Mónica Calderón Cevallos,Individual,Retail,Guayaquil,2012-11-20,Low
+C02110,Fernando Paredes Suárez,Individual,Retail,Guayaquil,2024-12-03,Low
+C02111,Carmen Delgado Morales,Individual,Retail,Quito,2022-09-21,Low
+C02112,Camila Yánez García,Individual,Retail,Guayaquil,2020-07-27,Low
+C02113,Esteban García Flores,Individual,Retail,Quito,2024-04-10,Low
+C02114,José Herrera Ramírez,Individual,Retail,Machala,2025-11-16,Low
+C02115,Logística Bahía S.A.S.,Company,SME,Machala,2014-12-21,Low
+C02116,Camaronera Cordillera Cía. Ltda.,Company,SME,Santo Domingo,2022-11-13,Low
+C02117,Logística Cóndor S.A.,Company,Corporate,Quito,2023-01-04,Medium
+C02118,Fernando Erazo Espinoza,Individual,Retail,Guayaquil,2013-10-14,Low
+C02119,Sofía Bravo Guerrero,Individual,Retail,Guayaquil,2018-06-03,Low
+C02120,Lucía Torres Quiroga,Individual,Retail,Cuenca,2024-03-18,Low
+C02121,  Valeria  Morales Sánchez ,Individual,Retail,Quito,2016-02-28,Low
+C02122,Industrias Mitad del Mundo Cía. Ltda.,Company,SME,Guayaquil,2019-04-01,Medium
+C02123,Constructora Cordillera S.A.,Company,SME,Santo Domingo,2013-06-16,Low
+C02124,Textiles Cóndor S.A.S.,Company,Corporate,Quito,2023-09-04,Medium
+C02125,Elena Villacís Erazo,Individual,Retail,Ibarra,2024-08-14,Low
+C02126,Importadora Estrella S.A.S.,Company,SME,Quito,2019-08-23,Low
+C02127,Camaronera Puerto Nuevo S.A.,Company,Corporate,Machala,2015-04-08,Low
+C02128,Rosa Reyes Jaramillo,Individual,Retail,Ambato,2014-12-27,Low
+C02129,Agrícola Andina Cía. Ltda.,Company,SME,Guayaquil,2012-12-16,Medium
+C02130,Verónica Guerrero Naranjo,Individual,Retail,Quito,2020-06-24,High
+C02131,Inversiones Sierra Norte Cía. Ltda.,Company,SME,Loja,2014-04-20,Low
+C02132,Pablo Cárdenas Calderón,Individual,Retail,Ibarra,2018-02-05,Medium
+C02133,Importadora Cumbre S.A.,Company,corporate,Quito,2016-04-23,Low
+C02134,Agrícola Sierra Norte S.A.,Company,SME,Guayaquil,2015-04-28,Low
+C02135,  Pedro  Andrade Calderón ,Individual,Retail,Quito,2016-04-26,Low
+C02136,Florícola Cordillera S.A.,Company,Corporate,Guayaquil,2014-01-25,Medium
+C02137,Verónica Montenegro Erazo,Individual,Retail,Cuenca,2024-04-14,Medium
+C02138,Javier Benítez Salazar,Individual,Retail,Santo Domingo,2021-12-08,Low
+C02139,Camaronera Bahía S.A.S.,Company,Corporate,Guayaquil,2021-10-17,Low
+C02140,Logística Mitad del Mundo Cía. Ltda.,Company,SME,Quito,2012-12-01,Low
+C02141,Distribuidora Andina S.A.,Company,SME,Guayaquil,2018-09-24,Low
+C02142,Valeria Ortiz Ramírez,Individual,Retail,Loja,2019-06-20,Low
+C02143,Farmacéutica Bahía S.A.,Company,SME,Manta,2021-03-12,Low
+C02144,Logística del Valle S.A.S.,Company,SME,Cuenca,2013-11-27,Medium
+C02145,Lorena Naranjo Benítez,Individual,Retail,Cuenca,2012-07-23,Low
+C02146,Textiles Estrella S.A.,Company,SME,Guayaquil,2014-03-08,Medium
+C02147,  Marco  Paredes Ortiz ,Individual,Retail,Manta,2019-02-25,Low
+C02148,Javier Vega Vásquez,Individual,Retail,Cuenca,2018-11-12,Low
+C02149,Farmacéutica del Litoral S.A.,Company,SME,Riobamba,2025-09-09,Low
+C02150,Comercial Cordillera Cía. Ltda.,Company,SME,Quito,2025-06-16,Low
+C02151,María Villacís Espinoza,Individual,Retail,Guayaquil,2017-05-24,Medium
+C02152,Agrícola Río Verde S.A.,Company,sme,Guayaquil,2019-02-20,Low
+C02153,Logística Los Ríos Cía. Ltda.,Company,Corporate,Guayaquil,2013-04-24,Low
+C02154,José Suárez Pérez,Individual,Retail,Quito,2020-12-08,Low
+C02155,Lorena Zambrano Quiroga,Individual,Retail,Quito,2024-07-03,Medium
+C02156,María Calderón Quiroga,Individual,Retail,Ambato,2017-05-23,Medium
+C02157,Gabriela Morales Ramírez,Individual,Retail,Cuenca,2022-03-11,Low
+C02158,Valeria Sánchez Ortiz,Individual,Retail,Quito,2025-02-11,Low
+C02159,Agrícola Horizonte Cía. Ltda.,Company,SME,Guayaquil,2025-01-28,Low
+C02160,Santiago Andrade León,Individual,Retail,Quito,2020-04-10,Low
+C02161,Daniela Naranjo Jaramillo,Individual,Retail,Guayaquil,2020-01-18,Low
+C02162,Rosa Salazar Calderón,Individual,Retail,Quito,2024-05-22,Low
+C02163,Verónica Benítez Herrera,Individual,Retail,Quito,2025-09-24,Low
+C02164,Jorge Vega Quiroga,Individual,Retail,Guayaquil,2025-09-06,Low
+C02165,Industrias Austral Cía. Ltda.,Company,SME,Quito,2014-09-03,Low
+C02166,Exportadora Puerto Nuevo Cía. Ltda.,Company,SME,Machala,2022-08-25,Medium
+C02167,Inversiones Los Ríos S.A.,Company,SME,Machala,2024-05-04,Low
+C02168,Héctor Cevallos Ramírez,Individual,Retail,Guayaquil,2020-01-14,Low
+C02169,Pablo García Yánez,Individual,Retail,Quito,2016-09-29,Low
+C02170,Florícola Cumbre S.A.,Company,SME,Guayaquil,2012-01-17,Low
+C02171,Natalia Sánchez Chávez,Individual,Retail,Cuenca,2025-01-20,Low
+C02172,Camila Espinoza Suárez,Individual,Retail,Riobamba,2019-12-09,Low
+C02173,Marco Yánez Bravo,Individual,Retail,Ambato,2019-09-20,High
+C02174,Diego Naranjo Flores,Individual,Retail,Cuenca,2025-10-28,Low
+C02175,Farmacéutica Nevado S.A.,Company,SME,Machala,2018-06-16,Low
+C02176,  Lucía  Bravo Quiroga ,Individual,Retail,Guayaquil,2024-12-27,Low
+C02177,Logística Equinoccial S.A.,Company,SME,Cuenca,2021-06-08,Low
+C02178,Javier López Castillo,Individual,Retail,Guayaquil,2021-05-17,Low
+C02179,Fabián León Navarrete,Individual,Retail,Quito,2013-03-26,Low
+C02180,Lorena Delgado Jaramillo,Individual,Retail,Cuenca,2013-07-21,Low
+C02181,Andrea Montenegro Benítez,Individual,Retail,Quito,2016-08-02,Low
+C02182,Fernando Vega Guerrero,Individual,Retail,Guayaquil,2015-06-26,Low
+C02183,Diana Quiroga Suárez,Individual,Retail,Guayaquil,2013-11-11,Low
+C02184,Sofía Mendoza Benítez,Individual,Retail,Quito,2017-06-28,Low
+C02185,Paola Proaño Calderón,Individual,Retail,Guayaquil,2024-03-15,Low
+C02186,Agrícola Cóndor S.A.S.,Company,Corporate,Quito,2020-07-10,Low
+C02187,Esteban Calderón Paredes,Individual,Retail,Quito,2023-02-22,Low
+C02188,Valeria Morales Mora,Individual,Retail,Guayaquil,2014-02-11,Low
+C02189,Tecnología Andina Cía. Ltda.,Company,SME,Guayaquil,2018-07-26,Low
+C02190,Miguel Vásquez Espinoza,Individual,Retail,Guayaquil,2022-12-10,Low
+C02191,Javier Naranjo Ortiz,Individual,Retail  ,Santo Domingo,2019-01-16,Low
+C02192,Esteban Cárdenas Paredes,Individual,Retail,Guayaquil,2023-06-20,Low
+C02193,Andrés Pérez Proaño,Individual,Retail,Quito,2018-11-18,Low
+C02194,María Cárdenas Yánez,Individual,Retail,Quito,2021-05-23,Low
+C02195,Valeria Guerrero Jaramillo,Individual,Retail,Ambato,2014-11-01,Medium
+C02196,Constructora Cumbre S.A.,Company,SME,Ambato,2017-03-10,Medium
+C02197,Lorena Montenegro Yánez,Individual,Retail,Guayaquil,2024-05-21,Low
+C02198,Sofía Chávez Vásquez,Individual,Retail,Guayaquil,2024-07-09,Low
+C02199,Camila Reyes Navarrete,Individual,Retail,Ambato,2025-11-15,Low
+C02200,Logística Mitad del Mundo Cía. Ltda.,Company,SME,Machala,2022-05-26,Low
+C02201,Lucía Mora Quiroga,Individual,Retail,Cuenca,2017-02-28,Low
+C02202,Rosa Quiroga Montenegro,Individual,Retail,Manta,2015-03-25,Low
+C02203,Carmen Delgado Proaño,Individual,Retail,Quito,2020-11-07,Medium
+C02204,Corporación Andina Cía. Ltda.,Company,Corporate,Cuenca,2016-12-04,Medium
+C02205,Diana Chávez Mendoza,Individual,Retail,Guayaquil,2015-05-26,Medium
+C02206,Ana Mora Quiroga,Individual,Retail,Guayaquil,2018-01-07,Medium
+C02207,Raúl Morales Morales,Individual,Retail,Quito,2025-11-22,Low
+C02208,Héctor León Calderón,Individual,Retail,Ambato,2023-03-09,Low
+C02209,Constructora Costa Azul Cía. Ltda.,Company,Corporate,Loja,2018-06-01,Medium
+C02210,Óscar Herrera Benítez,Individual,Retail,Santo Domingo,2020-04-22,Low
+C02211,Ana Guerrero Mendoza,Individual,Retail,Loja,2014-02-05,Medium
+C02212,Agrícola del Pacífico S.A.S.,Company,SME,Guayaquil,2024-01-01,Medium
+C02213,Pedro Zambrano Guerrero,Individual,Retail,Quito,2013-05-06,Low
+C02214,  Diana  Suárez Proaño ,Individual,Retail,Guayaquil,2012-10-19,Low
+C02215,Comercial Cordillera S.A.,Company,SME,Quito,2023-06-01,Medium
+C02216,Tecnología Horizonte S.A.,Company,Corporate,Guayaquil,2014-04-24,Low
+C02217,Esteban Ramírez Reyes,Individual,Retail,Guayaquil,2012-04-08,Low
+C02218,Ricardo Villacís Quiroga,Individual,Retail,Machala,2022-12-03,Low
+C02219,Industrias del Pacífico S.A.,Company,Corporate,Manta,2022-05-17,Low
+C02220,Mónica Erazo Mora,Individual,Retail,Quito,2016-07-30,Low
+C02221,Rosa García Vásquez,Individual,Retail,Riobamba,2025-06-13,Low
+C02222,Florícola Estrella Cía. Ltda.,Company,SME,Quito,2025-01-29,Low
+C02223,Diana Mendoza Mendoza,Individual,Retail,Machala,2024-11-24,Low
+C02224,Raúl Morales Vásquez,Individual,Retail,Cuenca,2019-12-30,Low
+C02225,Javier Chávez Salazar,Individual,Retail,Riobamba,2020-03-06,High
+C02226,Natalia Yánez Suárez,Individual,Retail,Quito,2015-07-28,Low
+C02227,Jorge Reyes Castillo,Individual,Retail,Santo Domingo,2018-01-01,Low
+C02228,Corporación Cóndor S.A.,Company,SME,Guayaquil,2016-07-16,Medium
+C02229,Valeria Morales León,Individual,Retail,Quito,2020-08-13,Low
+C02230,Miguel Paredes Salazar,Individual,Retail,Manta,2020-04-27,Low
+C02231,Exportadora Horizonte S.A.,Company,SME,Riobamba,2014-05-22,Low
+C02232,Textiles Río Verde S.A.,Company,Corporate,Quito,2024-01-08,Low
+C02233,Esteban Herrera Andrade,Individual,Retail,Riobamba,2015-09-29,Medium
+C02234,Esteban Reyes Guerrero,Individual,Retail,Guayaquil,2023-03-30,Low
+C02235,Esteban Suárez Villacís,Individual,Retail,Loja,2021-12-04,Low
+C02236,Ana Jaramillo Pérez,Individual,Retail,Cuenca,2018-08-15,Low
+C02237,Ana Torres Castillo,Individual,Retail,Guayaquil,2022-07-14,Low
+C02238,Logística Volcán S.A.,Company,SME,Guayaquil,2022-08-25,Low
+C02239,Lorena Chávez Torres,Individual,Retail,Guayaquil,2018-08-21,Low
+C02240,Santiago Mora Ortiz,Individual,Retail,Guayaquil,2017-12-19,Low
+C02241,Patricia Jaramillo León,Individual,Retail,Quito,2025-11-21,Low
+C02242,  Distribuidora  Río Verde S.A.S. ,Company,SME,Guayaquil,2016-02-02,Low
+C02243,Entidad Pública Infraestructura 18,Public Entity,Government,Cuenca,2018-12-29,Low
+C02244,Agrícola Cordillera Cía. Ltda.,Company,Corporate,Guayaquil,2021-06-13,Low
+C02245,Camila Yánez Guerrero,Individual,Retail,Guayaquil,2014-02-26,Low
+C02246,Carmen Cárdenas Andrade,Individual,Retail,Guayaquil,2012-09-24,Low
+C02247,Fabián Morales Paredes,Individual,Retail,Guayaquil,2016-07-23,Low
+C02248,Héctor Morales Torres,Individual,Retail,Quito,2014-01-01,Low
+C02249,Fabián Zambrano Castillo,Individual,Retail,Santo Domingo,2023-05-02,High
+C02250,Inversiones Cordillera S.A.S.,Company,Corporate,Guayaquil,2024-06-08,Low
+C02251,Camila Herrera Cárdenas,Individual,Retail,Quito,2018-12-17,Low
+C02252,Natalia León Vega,Individual,Retail,Guayaquil,2018-07-04,Medium
+C02253,Carmen Benítez Calderón,Individual,Retail,Manta,2020-06-15,Low
+C02254,Natalia Benítez Navarrete,Individual,Retail,Guayaquil,2018-04-11,Low
+C02255,Lucía Zambrano Mendoza,Individual,Retail,Ibarra,2016-06-11,Low
+C02256,Inversiones Costa Azul Cía. Ltda.,Company,SME,Manta,2016-07-02,Low
+C02257,Ana Delgado Cevallos,Individual,Retail,Guayaquil,2017-04-07,Low
+C02258,Lucía Andrade Ramírez,Individual,Retail,Riobamba,2025-06-28,Low
+C02259,Miguel Sánchez Pérez,Individual,Retail,Cuenca,2024-07-03,Low
+C02260,Miguel Delgado Paredes,Individual,Retail,Quito,2021-12-12,Low
+C02261,Pablo Zambrano León,Individual,Retail,Guayaquil,2013-11-05,Low
+C02262,Camaronera Volcán S.A.S.,Company,Corporate,Manta,2018-10-18,Medium
+C02263,Industrias Río Verde S.A.,Company,SME,Guayaquil,2013-12-24,Low
+C02264,Andrea Morales Ortiz,Individual,Retail,Quito,2021-09-14,Low
+C02265,Corporación Cóndor S.A.S.,Company,SME,Ambato,2014-10-19,Low
+C02266,Elena Erazo Naranjo,Individual,Retail,Ambato,2021-02-25,Low
+C02267,José García Zambrano,Individual,Retail,Quito,2014-03-16,Low
+C02268,Diego Mora Calderón,Individual,Retail,Quito,2016-11-10,Low
+C02269,Raúl Mora Torres,Individual,Retail,Quito,2015-08-15,Low
+C02270,Natalia León López,Individual,Retail,Quito,2021-10-03,Medium
+C02271,Textiles Andina S.A.S.,Company,SME,Santo Domingo,2013-12-02,High
+C02272,Agrícola Sierra Norte S.A.,Company,SME,Quito,2012-01-06,Low
+C02273,Paola Salazar Proaño,Individual,Retail,Quito,2022-09-09,Low
+C02274,  Ricardo  Erazo Vega ,Individual,Retail,Quito,2012-07-23,Low
+C02275,Andrea Vásquez Calderón,Individual,Retail,Guayaquil,2018-07-11,Low
+C02276,Santiago Sánchez Castillo,Individual,Retail,Quito,2016-03-23,High
+C02277,Diego Yánez Torres,Individual,Retail,Quito,2023-12-14,Low
+C02278,Sofía Mora Chávez,Individual,Retail,Manta,2020-02-05,Low
+C02279,Óscar López Paredes,Individual,Retail,Quito,2022-01-11,Medium
+C02280,Javier Reyes Delgado,Individual,Retail,Manta,2012-05-16,Low
+C02281,José Guerrero García,Individual,Retail,Cuenca,2013-06-06,Low
+C02282,Camaronera del Pacífico Cía. Ltda.,Company,SME,Quito,2012-07-07,Medium
+C02283,Javier Jaramillo López,Individual,Retail,Machala,2016-09-23,Low
+C02284,José Villacís León,Individual,Retail,Manta,2024-01-14,Low
+C02285,Fernando Benítez Herrera,Individual,Retail,Cuenca,2025-10-28,Low
+C02286,Fabián Montenegro Vásquez,Individual,Retail,Ibarra,2018-06-19,Low
+C02287,Ricardo Vega Flores,Individual,Retail,Loja,2020-03-29,Low
+C02288,Logística Cumbre Cía. Ltda.,Company,Corporate,Quito,2020-07-13,Low
+C02289,Daniela Vásquez Ramírez,Individual,Retail,Guayaquil,2013-06-21,Low
+C02290,  Andrea  Calderón Cárdenas ,Individual,Retail,Guayaquil,2023-07-13,Medium
+C02291,Verónica Suárez Mendoza,Individual,Retail,Santo Domingo,2025-11-08,Low
+C02292,Andrea Chávez León,Individual,Retail,Guayaquil,2025-05-21,High
+C02293,Sofía Mora Salazar,Individual,Retail,Quito,2022-05-02,Low
+C02294,María Suárez Erazo,Individual,Retail,Manta,2015-07-27,Low
+C02295,Lorena Navarrete Morales,Individual,Retail,Ibarra,2021-08-28,Low
+C02296,Tecnología Nevado S.A.,Company,Corporate,Guayaquil,2018-11-08,Low
+C02297,Luis Erazo López,Individual,Retail,Guayaquil,2012-03-08,Low
+C02298,Gabriela Erazo Mendoza,Individual,Retail,Quito,2022-06-26,Medium
+C02299,Camila Jaramillo Yánez,Individual,Retail,Cuenca,2025-11-13,Low
+C02300,Paola Navarrete Benítez,Individual,Retail  ,Quito,2015-02-02,High
+C02301,Lucía Torres Cevallos,Individual,Retail,Ibarra,2018-09-22,Low
+C02302,Gabriela Navarrete García,Individual,Retail,Guayaquil,2019-09-14,Low
+C02303,Isabel Erazo Paredes,Individual,Retail,Ambato,2017-01-07,Low
+C02304,Valeria Mendoza Flores,Individual,Retail,Guayaquil,2014-04-03,Low
+C02305,Javier Proaño Benítez,Individual,Retail,Loja,2016-02-21,Medium
+C02306,Exportadora Nevado Cía. Ltda.,Company,SME,Loja,2025-01-24,Medium
+C02307,Javier Guerrero Delgado,Individual,Retail,Quito,2019-11-07,Low
+C02308,Rosa Paredes Chávez,Individual,Retail,Machala,2025-09-10,Low
+C02309,Natalia Naranjo Salazar,Individual,Retail,Quito,2024-11-07,Low
+C02310,Miguel Reyes Cevallos,Individual,Retail,Guayaquil,2025-03-03,Low
+C02311,Jorge Cárdenas Reyes,Individual,Retail,Machala,2015-02-24,Low
+C02312,Esteban Vásquez Chávez,Individual,Retail,Ambato,2015-09-28,Low
+C02313,Importadora Sierra Norte Cía. Ltda.,Company,Corporate,Quito,2021-11-30,Low
+C02314,Lorena Delgado Chávez,Individual,Retail,Quito,2013-11-17,Low
+C02315,Comercial Los Ríos S.A.S.,Company,SME,Santo Domingo,2023-01-30,Low
+C02316,Luis Sánchez Bravo,Individual,Retail,Guayaquil,2025-07-06,Medium
+C02317,Pablo Montenegro Naranjo,Individual,Retail,Guayaquil,2016-10-29,Low
+C02318,Diana Navarrete Mora,Individual,Retail,Quito,2024-11-11,Medium
+C02319,Rosa Quiroga Jaramillo,Individual,Retail,Guayaquil,2020-12-26,Low
+C02320,Camaronera del Valle S.A.S.,Company,Corporate,Guayaquil,2017-04-29,Low
+C02321,  Esteban  Vásquez Vásquez ,Individual,Retail,Guayaquil,2013-06-07,Low
+C02322,Natalia Benítez Quiroga,Individual,Retail,Loja,2016-05-08,Low
+C02323,Fernando Ramírez Ortiz,Individual,Retail,Loja,2013-11-23,Low
+C02324,Tecnología Sierra Norte S.A.S.,Company,SME,Quito,2025-05-10,Medium
+C00690,Javier Reyes Castillo,Individual,Retail,Quito,2024-06-05,Medium
+C02325,Importadora Horizonte S.A.,Company,Corporate,Quito,2022-06-28,Low
+C02326,Valeria Espinoza Montenegro,Individual,Retail,Quito,2015-08-17,Medium
+C02327,Exportadora Cóndor S.A.,Company,SME,Guayaquil,2015-06-28,Low
+C02328,Paola Zambrano Proaño,Individual,Retail,Quito,2024-11-25,Low
+C02329,Elena Castillo Guerrero,Individual,Retail,Quito,2022-02-13,Low
+C02330,Pedro Torres Erazo,Individual,Retail,Quito,2013-10-25,Low
+C02331,Industrias del Litoral Cía. Ltda.,Company,SME,Manta,2014-12-08,Low
+C02332,Diana Ortiz Navarrete,Individual,Retail,Loja,2012-10-07,Medium
+C02333,Sofía Torres Delgado,Individual,Retail,Guayaquil,2020-11-22,Low
+C02334,Ana Pérez Andrade,Individual,Retail,Guayaquil,2016-08-12,Low
+C02335,Isabel Torres Ramírez,Individual,Retail,Manta,2017-05-20,Low
+C02336,Jorge Cevallos Espinoza,Individual,Retail,Cuenca,2025-07-16,Low
+C02337,Carlos Delgado Salazar,Individual,Retail,Quito,2014-04-03,Low
+C02338,Entidad Pública Infraestructura 19,Public Entity,Government  ,Guayaquil,2013-02-07,Low
+C02339,Exportadora Mitad del Mundo S.A.,Company,SME,Loja,2013-09-21,Medium
+C02340,Diana Guerrero Cárdenas,Individual,Retail,Guayaquil,2012-03-15,Low
+C02341,Rosa Castillo Ortiz,Individual,Retail,Quito,2023-06-12,Low
+C02342,  Corporación  Volcán Cía. Ltda. ,Company,SME,Guayaquil,2012-12-16,Low
+C02343,Juan García Delgado,Individual,Retail,Guayaquil,2021-09-22,Low
+C02344,José Calderón Erazo,Individual,Retail,Guayaquil,2016-01-17,Low
+C02345,Agrícola Austral S.A.,Company,Corporate,Manta,2017-12-09,Low
+C02346,Industrias Mitad del Mundo Cía. Ltda.,Company,SME,Quito,2015-03-07,Low
+C02347,Santiago Guerrero Erazo,Individual,Retail,Quito,2021-11-06,Low
+C02348,Lucía Suárez Suárez,Individual,Retail,Machala,2015-03-04,Low
+C02349,Javier Zambrano García,Individual,Retail,Quito,2025-03-27,Medium
+C02350,Patricia Vásquez Vega,Individual,Retail,Guayaquil,2014-03-17,Medium
+C02351,Diana Castillo Quiroga,Individual,Retail,Cuenca,2016-11-16,Medium
+C02352,Pedro Villacís Espinoza,Individual,Retail,Loja,2020-10-07,Low
+C02353,Inversiones Costa Azul S.A.S.,Company,SME,Manta,2013-08-09,Low
+C02354,Jorge Ramírez López,Individual,Retail,Quito,2014-04-17,Low
+C02355,Miguel Guerrero Erazo,Individual,Retail,Guayaquil,2021-04-28,Low
+C02356,Industrias Puerto Nuevo Cía. Ltda.,Company,Corporate,Quito,2020-09-09,Medium
+C02357,José Morales Villacís,Individual,Retail,Guayaquil,2012-08-19,Low
+C02358,Óscar Naranjo Zambrano,Individual,Retail,Ambato,2013-10-07,Low
+C02359,Gabriela Jaramillo Erazo,Individual,Retail,Quito,2013-04-17,Low
+C02360,  Verónica  Espinoza Cevallos ,Individual,Retail,Quito,2024-02-21,Medium
+C02361,Carmen Yánez García,Individual,Retail,Guayaquil,2015-07-09,Low
+C02362,Fernando Benítez Flores,Individual,Retail,Cuenca,2022-01-04,Medium
+C00015,Isabel Pérez Mendoza,Individual,Retail,Quito,2020-12-14,Low
+C02363,Inversiones del Pacífico Cía. Ltda.,Company,SME,Cuenca,2023-09-05,Medium
+C02364,Esteban Quiroga Yánez,Individual,Retail,Guayaquil,2013-04-10,Medium
+C02365,Diego García Vega,Individual,Retail,Ibarra,2024-12-09,Low
+C02366,Constructora Equinoccial S.A.S.,Company,Corporate,Ibarra,2014-04-15,Medium
+C02367,Comercial Volcán S.A.,Company,SME,Quito,2019-01-11,Low
+C02368,Pablo Mendoza García,Individual,Retail,Ibarra,2022-05-04,Low
+C02369,Javier Montenegro López,Individual,Retail,Quito,2018-11-04,Low
+C02370,Logística Nevado S.A.S.,Company,SME,Quito,2016-09-26,Medium
+C02371,Natalia Yánez Yánez,Individual,Retail,Guayaquil,2024-02-18,Low
+C02372,María Vega Espinoza,Individual,Retail,Quito,2023-01-27,Medium
+C02373,Andrés Guerrero Villacís,Individual,Retail,Manta,2014-09-14,Low
+C02374,Esteban Bravo Mora,Individual,Retail,Ambato,2012-10-27,Low
+C02375,Óscar Delgado Ortiz,Individual,Retail,Quito,2018-08-20,Medium
+C02376,Héctor Naranjo Sánchez,Individual,Retail,Cuenca,2017-04-04,Medium
+C02377,Andrea Guerrero Jaramillo,Individual,Retail,Guayaquil,2015-06-16,Low
+C02378,Valeria García Montenegro,Individual,Retail,Machala,2013-07-25,Low
+C02379,Gabriela Salazar Navarrete,Individual,Retail,Machala,2017-09-12,Medium
+C02380,Logística Sierra Norte S.A.,Company,SME,Cuenca,2016-02-01,Low
+C02381,Comercial Equinoccial S.A.S.,Company,Corporate,Guayaquil,2020-01-11,Medium
+C02382,Andrea Paredes Salazar,Individual,Retail,Quito,2019-01-15,Medium
+C02383,Óscar Ortiz Andrade,Individual,Retail,Cuenca,2023-09-10,Low
+C02384,Lorena Cevallos Yánez,Individual,Retail,Quito,2018-11-10,Medium
+C02385,Raúl Reyes Herrera,Individual,Retail,Cuenca,2015-12-11,Low
+C02386,Fernando Sánchez Flores,Individual,Retail,Guayaquil,2023-05-26,Medium
+C02387,Daniela Bravo Castillo,Individual,Retail,Guayaquil,2015-01-19,Low
+C02388,Pedro Andrade López,Individual,Retail,Cuenca,2015-11-07,Medium
+C02389,Verónica García Bravo,Individual,Retail,Quito,2013-05-17,Medium
+C02390,Gabriela Ortiz Chávez,Individual,Retail,Guayaquil,2012-04-28,Low
+C02391,Sofía Quiroga Pérez,Individual,Retail,Guayaquil,2018-01-26,High
+C02392,José León Pérez,Individual,Retail,Guayaquil,2020-04-01,Low
+C02393,Marco Cárdenas Torres,Individual,Retail,Quito,2023-07-18,Low
+C02394,Valeria Cárdenas Pérez,Individual,Retail,Guayaquil,2018-05-23,Low
+C02395,Fernando Bravo Calderón,Individual,Retail,Guayaquil,2012-11-14,Medium
+C02396,Diego Ramírez Salazar,Individual,Retail,Cuenca,2025-10-10,Low
+C02397,Gabriela Villacís Espinoza,Individual,Retail,Guayaquil,2016-06-23,Low
+C02398,Verónica López Proaño,Individual,Retail,Guayaquil,2015-12-08,High
+C02399,Paola Castillo Villacís,Individual,Retail,Quito,2021-06-30,Medium
+C02400,Fabián Torres Naranjo,Individual,Retail,Guayaquil,2020-08-09,Low
+C02401,Carlos Calderón Mendoza,Individual,Retail,Manta,2017-03-03,Low
+C02402,Verónica Jaramillo Quiroga,Individual,Retail,Cuenca,2021-07-10,Low
+C02403,Fernando Pérez Cárdenas,Individual,Retail,Riobamba,2017-02-27,Low
+C02404,Corporación Mitad del Mundo S.A.,Company,Corporate,Quito,2025-06-23,Medium
+C02405,Industrias del Pacífico S.A.S.,Company,SME,Guayaquil,2015-12-10,Medium
+C02406,Gabriela Villacís Bravo,Individual,Retail,Quito,2025-07-21,Low
+C02407,Verónica Morales Sánchez,Individual,Retail,Riobamba,2024-06-16,Medium
+C02408,Camaronera Bahía S.A.S.,Company,Corporate,Guayaquil,2025-09-15,High
+C02409,Esteban Andrade Ortiz,Individual,Retail,Guayaquil,2021-06-18,Low
+C02410,Óscar García Castillo,Individual,Retail,Guayaquil,2013-01-02,Low
+C02411,Andrea Mora Mendoza,Individual,Retail,Guayaquil,2019-08-19,Low
+C02412,Isabel Morales Pérez,Individual,Retail,Cuenca,2025-09-17,Low
+C02413,Textiles Volcán Cía. Ltda.,Company, SME ,Guayaquil,2022-04-01,Medium
+C02414,Isabel Benítez Chávez,Individual,Retail,Machala,2013-11-27,Low
+C02415,Rosa Flores Benítez,Individual,Retail,Guayaquil,2022-01-18,Low
+C02416,  Javier  Cárdenas Chávez ,Individual,Retail,Cuenca,2012-01-01,Low
+C02417,Constructora Bahía Cía. Ltda.,Company,Corporate,Guayaquil,2018-07-24,Medium
+C02418,Gabriela Morales Quiroga,Individual,Retail,Quito,2020-04-02,Low
+C02419,Elena Proaño Mora,Individual,Retail,Quito,2024-10-11,Medium
+C02420,Camaronera Horizonte Cía. Ltda.,Company,SME,Quito,2017-02-21,Low
+C02421,Diego Paredes López,Individual,Retail,Loja,2015-10-06,Medium
+C02422,Importadora Cordillera S.A.,Company,SME,Guayaquil,2024-12-04,Medium
+C02423,Tecnología Los Ríos S.A.S.,Company,SME,Ambato,2015-11-13,Medium
+C02424,Sofía Suárez Espinoza,Individual,Retail,Quito,2017-08-04,Low
+C02425,Paola Cárdenas Navarrete,Individual,Retail,Quito,2023-06-27,Low
+C02426,Tecnología Austral S.A.,Company,SME,Quito,2015-03-03,Low
+C02427,Florícola Horizonte S.A.,Company,SME,Cuenca,2018-08-05,Low
+C02428,Patricia Jaramillo Vega,Individual,Retail,Quito,2023-10-04,Low
+C02429,  Daniela  Villacís Salazar ,Individual,Retail,Guayaquil,2021-06-22,Low
+C02430,Pedro Morales Erazo,Individual,Retail,Manta,2023-05-30,Low
+C02431,Constructora Los Ríos S.A.,Company,SME,Guayaquil,2024-07-19,Low
+C02432,  Inversiones  Austral Cía. Ltda. ,Company,SME,Quito,2013-01-26,Low
+C02433,Lucía Montenegro Ramírez,Individual,Retail,Guayaquil,2021-08-07,Low
+C02434,Diego Villacís Ortiz,Individual,Retail,Quito,2025-03-31,Low
+C02435,Textiles Cóndor S.A.S.,Company,SME,Manta,2017-12-10,High
+C02436,Patricia Bravo Pérez,Individual,Retail  ,Santo Domingo,2017-05-15,Medium
+C02437,Valeria Herrera Yánez,Individual,Retail,Loja,2017-09-09,Medium
+C02438,Paola Castillo Villacís,Individual,Retail,Guayaquil,2022-08-29,Low
+C02439,Carmen Benítez Castillo,Individual,Retail,Quito,2021-12-25,Low
+C02440,Carlos Salazar Castillo,Individual,Retail,Guayaquil,2016-08-30,Low
+C02441,Luis Cevallos Proaño,Individual,Retail,Quito,2020-05-10,Medium
+C02442,Exportadora Los Ríos S.A.S.,Company,SME,Quito,2017-11-27,Low
+C02443,Valeria Chávez Vásquez,Individual,Retail,Guayaquil,2025-11-24,Low
+C02444,Luis Andrade Cevallos,Individual,Retail,Machala,2012-08-24,Low
+C02445,Rosa Espinoza Delgado,Individual,Retail,Machala,2020-02-10,Low
+C02446,Óscar Erazo Suárez,Individual,Retail,Machala,2020-12-13,High
+C02447,Rosa Navarrete García,Individual,Retail,Manta,2022-01-16,Low
+C02448,Elena Espinoza Ramírez,Individual,Retail,Quito,2022-07-20,Medium
+C02449,Textiles Volcán S.A.S.,Company,SME,Quito,2021-03-25,Medium
+C02450,Farmacéutica Puerto Nuevo S.A.S.,Company,Corporate,Guayaquil,2025-09-20,Low
+C02451,Diego Vásquez Zambrano,Individual,Retail,Cuenca,2023-10-25,Low
+C02452,Andrés Naranjo Naranjo,Individual,Retail,Quito,2016-01-18,Low
+C02453,Elena Quiroga Benítez,Individual,Retail,Quito,2023-12-31,Medium
+C02454,Carlos Paredes Delgado,Individual,Retail,Loja,2016-11-06,Low
+C02455,Santiago Cevallos Ramírez,Individual,Retail,Guayaquil,2014-01-09,Medium
+C02456,Héctor Sánchez León,Individual,Retail,Machala,2018-09-17,Medium
+C02457,María Mendoza Salazar,Individual,Retail,Santo Domingo,2015-09-25,Low
+C02458,Héctor Castillo Naranjo,Individual,Retail,Quito,2024-03-25,Medium
+C02459,Pablo Cárdenas Ramírez,Individual,retail,Guayaquil,2014-02-21,High
+C02460,Patricia Espinoza Suárez,Individual,Retail,Guayaquil,2012-03-11,Low
+C02461,Distribuidora del Litoral Cía. Ltda.,Company,SME,Riobamba,2016-09-16,High
+C02462,Raúl Vásquez León,Individual,Retail,Quito,2022-12-19,Low
+C02463,Lorena Bravo Delgado,Individual,Retail,Santo Domingo,2013-09-14,High
+C02464,Andrea Villacís Sánchez,Individual,Retail,Machala,2023-08-21,High
+C02465,Importadora Puerto Nuevo Cía. Ltda.,Company,SME,Santo Domingo,2016-08-10,Low
+C02466,Miguel Ramírez Calderón,Individual,Retail,Quito,2014-01-21,Low
+C02467,Luis Delgado Mendoza,Individual,Retail,Guayaquil,2020-08-21,Low
+C02468,Florícola Sierra Norte Cía. Ltda.,Company,SME,Cuenca,2024-04-15,Medium
+C02469,  Fabián  Reyes Ortiz ,Individual,Retail,Guayaquil,2024-04-14,Low
+C02470,Carmen Castillo Mendoza,Individual,Retail,Guayaquil,2013-12-14,Low
+C02471,Fernando Ortiz Flores,Individual,Retail,Riobamba,2013-03-18,Low
+C02472,Luis Mendoza Delgado,Individual,Retail,Guayaquil,2018-08-28,Low
+C02473,Importadora Equinoccial S.A.,Company,Corporate,Cuenca,2018-10-18,Low
+C02474,Isabel Cárdenas Chávez,Individual,Retail,Quito,2018-11-07,Medium
+C02475,Lucía Navarrete López,Individual,Retail,Quito,2017-12-26,Low
+C02476,Sofía Flores Bravo,Individual,Retail,Guayaquil,2024-04-15,High
+C02477,Logística Puerto Nuevo S.A.S.,Company,SME,Cuenca,2023-10-22,Low
+C02478,Industrias del Valle S.A.S.,Company,Corporate,Quito,2015-03-04,Low
+C02479,Diego Jaramillo Flores,Individual,Retail,Guayaquil,2025-02-15,Medium
+C02480,Lorena Proaño Villacís,Individual,Retail,Quito,2024-02-01,Low
+C02481,Corporación Estrella S.A.S.,Company,Corporate,Guayaquil,2017-03-02,Medium
+C02482,Javier Vega Herrera,Individual,Retail,Guayaquil,2022-03-23,Low
+C02483,Exportadora Andina S.A.,Company,SME,Quito,2024-09-30,Medium
+C02484,Diego Paredes Mendoza,Individual,Retail,Guayaquil,2014-09-27,Low
+C02485,Pedro Sánchez López,Individual,Retail,Loja,2023-06-24,Medium
+C02486,José Jaramillo Mora,Individual,Retail,Guayaquil,2020-07-10,Low
+C02487,Gabriela López Paredes,Individual,Retail,Guayaquil,2025-05-03,High
+C02488,Mónica Erazo Sánchez,Individual,Retail,Guayaquil,2012-07-09,Low
+C02489,Héctor Yánez Suárez,Individual,Retail,Guayaquil,2016-07-31,Medium
+C02490,Agrícola Mitad del Mundo Cía. Ltda.,Company,Corporate,Quito,2016-12-11,Low
+C02491,Héctor Suárez Montenegro,Individual,Retail,Guayaquil,2017-04-30,Low
+C02492,Ana Cárdenas Herrera,Individual,Retail,Machala,2024-05-21,Low
+C02493,Rosa García Mendoza,Individual,Retail,Cuenca,2018-03-19,Low
+C02494,Logística Austral S.A.S.,Company,SME,Quito,2016-10-21,Low
+C02495,Entidad Pública Infraestructura 20,Public Entity,Government  ,Quito,2017-11-04,Medium
+C02496,Ricardo Ortiz Navarrete,Individual,Retail,Guayaquil,2018-07-02,Low
+C02497,Lucía Paredes Reyes,Individual,Retail,Guayaquil,2024-08-26,Low
+C02498,Paola Yánez Torres,Individual,Retail,Quito,2025-02-22,Low
+C02499,Fabián Sánchez Naranjo,Individual,Retail,Machala,2017-09-26,Medium
+C02500,Inversiones Bahía S.A.S.,Company,SME,Quito,2019-06-10,Medium

@@ -1,0 +1,24 @@
+table dim_channel
+	lineageTag: 75b94484-b924-4b3c-9ca3-2da9a0a49af1
+
+	column channel_id
+		dataType: int64
+		isHidden
+		lineageTag: 2749f16f-3ae9-41e1-a5ae-bfef084e9205
+		summarizeBy: none
+		sourceColumn: channel_id
+
+	column channel_name
+		dataType: string
+		lineageTag: b7b1b696-eb87-4b28-96e4-ebb95c7508e9
+		sourceColumn: channel_name
+
+	partition dim_channel = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(SqlServer, SqlDatabase),
+				    Data = Source{[Schema="rpt", Item="dim_channel"]}[Data]
+				in
+				    Data
+

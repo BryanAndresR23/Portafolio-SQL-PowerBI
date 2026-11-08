@@ -1,0 +1,32 @@
+table dim_country
+	lineageTag: b994c72b-0264-4360-a65d-49015d9f736d
+
+	column country_code
+		dataType: string
+		lineageTag: 0a231baf-619b-4071-8551-00ff726e7a72
+		sourceColumn: country_code
+
+	column country_name
+		dataType: string
+		lineageTag: 3280439e-588d-4e4f-b0ca-50bb5137d3f0
+		sourceColumn: country_name
+
+	column region
+		dataType: string
+		lineageTag: 8e006f9a-6b29-4947-8504-40184e6a4b96
+		sourceColumn: region
+
+	column local_currency
+		dataType: string
+		lineageTag: 96a08168-3116-4525-836c-1106bef108c2
+		sourceColumn: local_currency
+
+	partition dim_country = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(SqlServer, SqlDatabase),
+				    Data = Source{[Schema="rpt", Item="dim_country"]}[Data]
+				in
+				    Data
+

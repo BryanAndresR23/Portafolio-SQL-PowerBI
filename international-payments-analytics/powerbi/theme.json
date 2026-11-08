@@ -1,0 +1,45 @@
+{
+  "name": "International Payments",
+  "dataColors": [
+    "#1F3A5F",
+    "#2A9D8F",
+    "#E9C46A",
+    "#E76F51",
+    "#6C8EAD",
+    "#8AB17D",
+    "#F4A261",
+    "#B5838D"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1B1F24",
+  "tableAccent": "#1F3A5F",
+  "good": "#2E7D32",
+  "neutral": "#F9A825",
+  "bad": "#C62828",
+  "maximum": "#1F3A5F",
+  "center": "#E9C46A",
+  "minimum": "#F1F4F8",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#1B1F24" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 11, "color": "#1B1F24" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 9, "color": "#4A5561" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 24, "color": "#1F3A5F" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E1E6EE" } }, "radius": 8 }],
+        "dropShadow": [{ "show": false }],
+        "subTitle": [{ "show": false }],
+        "padding": [{ "top": 8, "bottom": 8, "left": 10, "right": 10 }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F3F5F9" } }, "transparency": 0 }],
+        "outspace": [{ "color": { "solid": { "color": "#F3F5F9" } }, "transparency": 0 }]
+      }
+    }
+  }
+}

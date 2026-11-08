@@ -1,0 +1,282 @@
+/// Container for all report measures
+table _Measures
+	lineageTag: b1f8f3ce-b2ab-4b72-857d-9c3e2643fbed
+
+	/// Number of payments in any status
+	measure Payments = COUNTROWS ( fact_payment )
+		formatString: #,0
+		displayFolder: 1. Payments
+		lineageTag: c89f70c9-d094-49f3-88c1-ceebc9f454a2
+
+	measure 'Completed Payments' = CALCULATE ( [Payments], fact_payment[status] = "Completed" )
+		formatString: #,0
+		displayFolder: 1. Payments
+		lineageTag: 81b9c78f-227d-44d8-b4ca-c5ffa6675513
+
+	/// Value of completed payments in USD
+	measure 'Processed Value USD' = CALCULATE ( SUM ( fact_payment[amount_usd] ), fact_payment[status] = "Completed" )
+		formatString: \$#,0
+		displayFolder: 1. Payments
+		lineageTag: 044ded28-fffe-4655-8804-c325dedf04ec
+
+	measure 'Average Ticket USD' = DIVIDE ( [Processed Value USD], [Completed Payments] )
+		formatString: \$#,0
+		displayFolder: 1. Payments
+		lineageTag: 1f9de2e4-0245-4b1d-b86b-ea0c3e8c3382
+
+	measure 'Net Flow USD' =
+			// + money coming into Ecuador, - money going out
+			CALCULATE ( SUM ( fact_payment[net_flow_usd] ), fact_payment[status] = "Completed" )
+		formatString: \$#,0
+		displayFolder: 1. Payments
+		lineageTag: d3e58942-a6bc-4204-b9fe-00cecd38a98e
+
+	measure 'Active Customers' = CALCULATE ( DISTINCTCOUNT ( fact_payment[customer_id] ), fact_payment[status] <> "Rejected" )
+		formatString: #,0
+		displayFolder: 1. Payments
+		lineageTag: 5edf2723-dd1a-4557-99da-efc5f49c4957
+
+	measure 'Fee Revenue USD' =
+			CALCULATE (
+			    SUM ( fact_payment[fee_usd] ),
+			    fact_payment[status] IN { "Completed", "Returned" }
+			)
+		formatString: \$#,0
+		displayFolder: 2. Revenue
+		lineageTag: 394ed8d9-9640-41f2-a49e-56313e177901
+
+	measure 'Effective Fee (bps)' =
+			VAR _fees  = [Fee Revenue USD]
+			VAR _value =
+			    CALCULATE (
+			        SUM ( fact_payment[amount_usd] ),
+			        fact_payment[status] IN { "Completed", "Returned" }
+			    )
+			RETURN
+			    DIVIDE ( _fees, _value ) * 10000
+		formatString: #,0.0
+		displayFolder: 2. Revenue
+		lineageTag: 00e94a76-a2a6-4f60-819d-b30d56e157e9
+
+	measure 'Processed Value PY' = CALCULATE ( [Processed Value USD], SAMEPERIODLASTYEAR ( dim_date[date] ) )
+		formatString: \$#,0
+		displayFolder: 3. Time intelligence
+		lineageTag: 06a79693-e7b6-408b-b019-3e06415a6ea6
+
+	measure 'Processed Value YoY %' = DIVIDE ( [Processed Value USD] - [Processed Value PY], [Processed Value PY] )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 3. Time intelligence
+		lineageTag: 500d1c72-7da1-474b-bff1-d011a0fd370d
+
+	measure 'Completed Payments PY' = CALCULATE ( [Completed Payments], SAMEPERIODLASTYEAR ( dim_date[date] ) )
+		formatString: #,0
+		displayFolder: 3. Time intelligence
+		lineageTag: 344df9c6-2793-4614-a18a-c6ed67fc4a5b
+
+	measure 'Completed Payments YoY %' = DIVIDE ( [Completed Payments] - [Completed Payments PY], [Completed Payments PY] )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 3. Time intelligence
+		lineageTag: 5710a5e1-beba-443b-936c-4a896dff37e6
+
+	measure 'Fee Revenue PY' = CALCULATE ( [Fee Revenue USD], SAMEPERIODLASTYEAR ( dim_date[date] ) )
+		formatString: \$#,0
+		displayFolder: 3. Time intelligence
+		lineageTag: c4d5417e-2102-4b12-9a38-3b1a313aac46
+
+	measure 'Fee Revenue YoY %' = DIVIDE ( [Fee Revenue USD] - [Fee Revenue PY], [Fee Revenue PY] )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: 3. Time intelligence
+		lineageTag: d68d50b3-65e6-4191-8328-1ecc554608bd
+
+	measure 'Fee Revenue YTD' = TOTALYTD ( [Fee Revenue USD], dim_date[date] )
+		formatString: \$#,0
+		displayFolder: 3. Time intelligence
+		lineageTag: 97c7327e-425a-40d4-ae3d-e8d5cba46990
+
+	measure 'Fee Revenue PY YTD' = CALCULATE ( [Fee Revenue YTD], SAMEPERIODLASTYEAR ( dim_date[date] ) )
+		formatString: \$#,0
+		displayFolder: 3. Time intelligence
+		lineageTag: aa471251-01b4-4bbe-837d-94fb22905336
+
+	measure 'Completed Payments 3M Avg' =
+			// average per month over the last three months ending in the current context
+			VAR _lastDate = MAX ( dim_date[date] )
+			RETURN
+			    DIVIDE (
+			        CALCULATE ( [Completed Payments], DATESINPERIOD ( dim_date[date], _lastDate, -3, MONTH ) ),
+			        3
+			    )
+		formatString: #,0
+		displayFolder: 3. Time intelligence
+		lineageTag: c58b8914-5896-4aa3-bbcf-0994ef8c6669
+
+	measure 'Payments Settled (by settlement date)' =
+			CALCULATE (
+			    [Payments],
+			    USERELATIONSHIP ( fact_payment[settled_date], dim_date[date] ),
+			    NOT ISBLANK ( fact_payment[settled_date] )
+			)
+		formatString: #,0
+		displayFolder: 3. Time intelligence
+		lineageTag: 99047357-c9fd-47fa-958f-10525db522d2
+
+	measure 'Rejected Payments' = CALCULATE ( [Payments], fact_payment[status] = "Rejected" )
+		formatString: #,0
+		displayFolder: 4. Operations
+		lineageTag: b0d64ecc-ad99-4455-b426-db534f4cd895
+
+	measure 'Rejection Rate %' = DIVIDE ( [Rejected Payments] + 0, [Payments] )
+		formatString: 0.0%
+		displayFolder: 4. Operations
+		lineageTag: 322675fc-d696-478e-b28d-c09b0fb069c1
+
+	measure 'Returned Payments' = CALCULATE ( [Payments], fact_payment[status] = "Returned" )
+		formatString: #,0
+		displayFolder: 4. Operations
+		lineageTag: cbd2a902-5f0f-46be-ad53-70ef9e31259e
+
+	measure 'Return Rate %' = DIVIDE ( [Returned Payments] + 0, [Payments] )
+		formatString: 0.0%
+		displayFolder: 4. Operations
+		lineageTag: 010c636f-8355-4362-bf38-ae6550e7cafd
+
+	measure 'Settled Payments' = CALCULATE ( [Payments], NOT ISBLANK ( fact_payment[is_within_sla] ) )
+		formatString: #,0
+		displayFolder: 4. Operations
+		lineageTag: 60bac548-ef9e-4f06-9ea0-e7ceb8d50cc2
+
+	measure 'SLA Compliance %' =
+			// SLA = settled no later than the next business day (T+1)
+			DIVIDE ( CALCULATE ( [Payments], fact_payment[is_within_sla] = 1 ), [Settled Payments] )
+		formatString: 0.0%
+		displayFolder: 4. Operations
+		lineageTag: a5753d2e-7bfd-49b1-8f41-aba6e5b0bb43
+
+	measure 'SLA Target %' = 0.95
+		formatString: 0%
+		displayFolder: 4. Operations
+		lineageTag: 4aab3bd7-c0f3-4375-8cdd-469cdbb2cbdf
+
+	measure 'SLA Gap (pp)' = ( [SLA Compliance %] - [SLA Target %] ) * 100
+		formatString: +0.0;-0.0;0.0
+		displayFolder: 4. Operations
+		lineageTag: f21ddf64-70eb-43f5-b1db-e26b2e1879df
+
+	measure 'Median Processing Hours' = MEDIAN ( fact_payment[processing_hours] )
+		formatString: 0.0
+		displayFolder: 4. Operations
+		lineageTag: 1199c2f6-bb7f-4ecf-9ca1-8ac3148ad105
+
+	measure 'SLA Status Color' =
+			// used for conditional formatting of bars and cards
+			SWITCH (
+			    TRUE (),
+			    ISBLANK ( [SLA Compliance %] ), BLANK (),
+			    [SLA Compliance %] >= [SLA Target %], "#2E7D32",
+			    [SLA Compliance %] >= 0.85, "#F9A825",
+			    "#C62828"
+			)
+		displayFolder: 4. Operations
+		lineageTag: 6e20e8a0-f02a-4c0d-a85d-0b1a8abac01f
+
+	measure 'Recon Items' = COUNTROWS ( fact_reconciliation )
+		formatString: #,0
+		displayFolder: 5. Reconciliation
+		lineageTag: d2af2d30-5f25-47ca-9f30-2ac89a516bed
+
+	measure 'Reconciled Items' = CALCULATE ( [Recon Items], fact_reconciliation[recon_status] = "Reconciled" )
+		formatString: #,0
+		displayFolder: 5. Reconciliation
+		lineageTag: 163de1e1-4495-4d0f-accc-94b8ac4d350f
+
+	measure 'Auto-Reconciliation Rate %' = DIVIDE ( [Reconciled Items], [Recon Items] )
+		formatString: 0.0%
+		displayFolder: 5. Reconciliation
+		lineageTag: c98214e7-3703-45d5-8e17-c6cb667dca61
+
+	measure 'Open Exceptions' = CALCULATE ( [Recon Items], fact_reconciliation[recon_status] = "Exception" )
+		formatString: #,0
+		displayFolder: 5. Reconciliation
+		lineageTag: e04d4ddf-99d0-4ec9-be13-a51e38c9c82c
+
+	measure 'Open Exceptions Value USD' =
+			CALCULATE (
+			    SUM ( fact_reconciliation[item_value_usd] ),
+			    fact_reconciliation[recon_status] = "Exception"
+			)
+		formatString: \$#,0
+		displayFolder: 5. Reconciliation
+		lineageTag: 7411731e-927e-4434-bd02-ae4f36915c5e
+
+	measure 'Exceptions Over 30 Days' = CALCULATE ( [Open Exceptions], fact_reconciliation[age_days] > 30 )
+		formatString: #,0
+		displayFolder: 5. Reconciliation
+		lineageTag: a2d9e505-d5a1-4375-b164-4e277fbdfa9d
+
+	measure 'Exceptions Over 30 Days %' = DIVIDE ( [Exceptions Over 30 Days], [Open Exceptions] )
+		formatString: 0.0%
+		displayFolder: 5. Reconciliation
+		lineageTag: c7f943e0-9788-4d54-a8ae-ca689b4a7e73
+
+	measure 'Net Difference USD' = SUM ( fact_reconciliation[difference_usd] )
+		formatString: \$#,0.00
+		displayFolder: 5. Reconciliation
+		lineageTag: 666826bc-44c0-4143-ae9c-34f615f5cb1f
+
+	measure 'Avg Rate (units per USD)' = AVERAGE ( fact_fx_rate[units_per_usd] )
+		formatString: #,0.0000
+		displayFolder: 6. FX
+		lineageTag: cd3bca4e-f298-400b-86ec-899ab4a398c2
+
+	measure 'FX Change % (period)' =
+			// + means the currency weakened against the USD in the selected period
+			VAR _firstDate = MIN ( fact_fx_rate[rate_date] )
+			VAR _lastDate  = MAX ( fact_fx_rate[rate_date] )
+			VAR _first = CALCULATE ( AVERAGE ( fact_fx_rate[units_per_usd] ), fact_fx_rate[rate_date] = _firstDate )
+			VAR _last  = CALCULATE ( AVERAGE ( fact_fx_rate[units_per_usd] ), fact_fx_rate[rate_date] = _lastDate )
+			RETURN
+			    DIVIDE ( _last - _first, _first )
+		formatString: +0.00%;-0.00%;0.00%
+		displayFolder: 6. FX
+		lineageTag: 2e7efffa-ae30-4f49-8b68-53a81f787246
+
+	measure 'FX Volatility (annualised %)' =
+			// daily_change_pct is already expressed in percent
+			STDEV.S ( fact_fx_rate[daily_change_pct] ) * SQRT ( 252 )
+		formatString: 0.00\%
+		displayFolder: 6. FX
+		lineageTag: cc79ddf4-9ea0-4ff5-96f0-c42b200a7df4
+
+	measure 'Selected Period' =
+			VAR _from = MIN ( dim_date[date] )
+			VAR _to   = MAX ( dim_date[date] )
+			RETURN
+			    FORMAT ( _from, "mmm yyyy", "en-US" ) & " - " & FORMAT ( _to, "mmm yyyy", "en-US" )
+		displayFolder: 7. Labels
+		lineageTag: 5065cb2b-6a10-42c1-b1ed-d615ccc553ca
+
+	/// Units per USD indexed to 100 at the first date of the selected period. Above 100 = the currency weakened.
+	measure 'FX Index (start = 100)' =
+			VAR _firstDate =
+			    CALCULATE ( MIN ( fact_fx_rate[rate_date] ), ALLSELECTED ( dim_date ) )
+			VAR _base =
+			    CALCULATE (
+			        AVERAGE ( fact_fx_rate[units_per_usd] ),
+			        ALLSELECTED ( dim_date ),
+			        fact_fx_rate[rate_date] = _firstDate
+			    )
+			RETURN
+			    DIVIDE ( [Avg Rate (units per USD)], _base ) * 100
+		formatString: 0.0
+		displayFolder: 6. FX
+		lineageTag: 6019dbd8-925c-4238-9ac8-2a652fce11f9
+
+	column Placeholder
+		isHidden
+		isNameInferred
+		sourceColumn: [Placeholder]
+
+	partition _Measures = calculated
+		mode: import
+		source = ROW("Placeholder", BLANK())
+

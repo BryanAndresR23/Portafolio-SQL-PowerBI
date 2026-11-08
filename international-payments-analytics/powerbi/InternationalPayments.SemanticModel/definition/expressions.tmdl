@@ -1,0 +1,8 @@
+/// SQL Server instance that hosts InternationalPaymentsAnalytics
+expression SqlServer = "localhost" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: d7c0089a-cc90-4257-818e-11ca864c47ab
+
+/// Database name
+expression SqlDatabase = "InternationalPaymentsAnalytics" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: b012bd5f-be4c-4828-bf58-4589f68b81a6
+

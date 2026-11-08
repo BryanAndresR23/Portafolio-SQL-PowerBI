@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "InternationalPayments"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "600751a4-ec7a-4199-b268-35bbc1776aad"
+  }
+}

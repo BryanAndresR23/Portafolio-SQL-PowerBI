@@ -1,0 +1,58 @@
+table dim_customer
+	lineageTag: 4c50893d-be00-4ebb-830a-a3be222fd373
+
+	column customer_id
+		dataType: string
+		lineageTag: eeafb8f1-c6ad-4dcc-be91-b9d023dbddd4
+		sourceColumn: customer_id
+
+	column customer_name
+		dataType: string
+		lineageTag: d0627f7d-6c98-48d1-8216-f3d0e0b6e530
+		sourceColumn: customer_name
+
+	column customer_type
+		dataType: string
+		lineageTag: ee485947-dbc5-4ed1-9bfa-ff82d02ed90c
+		sourceColumn: customer_type
+
+	column segment
+		dataType: string
+		lineageTag: 41552883-857c-41f2-8c67-51a6ef5c49a8
+		sourceColumn: segment
+
+	column city
+		dataType: string
+		lineageTag: c412776a-3c07-4a5e-a82d-00851780ea0c
+		sourceColumn: city
+
+	column onboarding_date
+		dataType: dateTime
+		lineageTag: dd316114-1bdb-4852-95b1-ff7d5f957170
+		sourceColumn: onboarding_date
+
+	column onboarding_year
+		dataType: int64
+		lineageTag: 5164fc1c-6f60-4d8e-94a9-4effdeb8f353
+		summarizeBy: none
+		sourceColumn: onboarding_year
+
+	column risk_rating
+		dataType: string
+		lineageTag: 542627bb-5457-49a9-b7b6-b45ceaa5d7ab
+		sourceColumn: risk_rating
+
+	column tenure_band
+		dataType: string
+		lineageTag: 81993162-6c70-4c0e-b8a3-8ccd657407fa
+		sourceColumn: tenure_band
+
+	partition dim_customer = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(SqlServer, SqlDatabase),
+				    Data = Source{[Schema="rpt", Item="dim_customer"]}[Data]
+				in
+				    Data
+

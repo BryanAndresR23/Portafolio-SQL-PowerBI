@@ -1,0 +1,100 @@
+table dim_date
+	lineageTag: 32407b56-4829-406d-b9d9-65422182f621
+	dataCategory: Time
+
+	column date
+		dataType: dateTime
+		isUnique
+		formatString: yyyy-mm-dd
+		lineageTag: 9cc814cc-1b47-4f35-aa73-70a00a571627
+		sourceColumn: date
+
+	column year
+		dataType: int64
+		lineageTag: 2011da0c-a83d-4f34-8048-d526c5a05b8b
+		summarizeBy: none
+		sourceColumn: year
+
+	column quarter
+		dataType: int64
+		lineageTag: ee3ceb76-3153-4f64-8793-6648adff40f1
+		summarizeBy: none
+		sourceColumn: quarter
+
+	column quarter_label
+		dataType: string
+		lineageTag: a8d906a5-a389-401f-9f48-23e4d366fe9a
+		sourceColumn: quarter_label
+		sortByColumn: quarter
+
+	column year_quarter
+		dataType: string
+		lineageTag: 0eadf522-d5c1-4e95-9c2e-30fce7a5f79a
+		sourceColumn: year_quarter
+
+	column month
+		dataType: int64
+		lineageTag: 684730aa-b593-45ab-806d-43da8a6ac64e
+		summarizeBy: none
+		sourceColumn: month
+
+	column month_name
+		dataType: string
+		lineageTag: 9224a11c-7843-4d14-9bd7-3dcf63175378
+		sourceColumn: month_name
+		sortByColumn: month
+
+	column month_short
+		dataType: string
+		lineageTag: 77c24cdc-00d5-4af8-bbd8-702a1741b0f0
+		sourceColumn: month_short
+		sortByColumn: month
+
+	column year_month
+		dataType: string
+		lineageTag: 77921b88-53f3-4e7b-b2e2-9bb34b85cefa
+		sourceColumn: year_month
+
+	column month_start
+		dataType: dateTime
+		formatString: mmm yyyy
+		lineageTag: cc8b0c14-96b4-4298-a9b8-13289ed011f0
+		sourceColumn: month_start
+
+	column day_of_month
+		dataType: int64
+		lineageTag: e5f42ac8-0fe1-4537-becd-461f5ec0117d
+		summarizeBy: none
+		sourceColumn: day_of_month
+
+	column day_of_week
+		dataType: int64
+		lineageTag: e336d1b9-e7ee-40b2-8345-271504cc8431
+		summarizeBy: none
+		sourceColumn: day_of_week
+
+	column day_name
+		dataType: string
+		lineageTag: 31ee6420-93b7-49b8-8733-f99f04629206
+		sourceColumn: day_name
+		sortByColumn: day_of_week
+
+	column is_weekend
+		dataType: boolean
+		lineageTag: b6abe9c5-1083-4f6e-a68d-a2099db84387
+		sourceColumn: is_weekend
+
+	column is_business_day
+		dataType: boolean
+		lineageTag: 1c78c2a0-4270-47bb-b6d2-1e89428f4f10
+		sourceColumn: is_business_day
+
+	partition dim_date = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(SqlServer, SqlDatabase),
+				    Data = Source{[Schema="rpt", Item="dim_date"]}[Data]
+				in
+				    Data
+

@@ -1,0 +1,17 @@
+country_code,country_name,region,currency_code
+EC,Ecuador,Latin America,USD
+US,United States,North America,USD
+CA,Canada,North America,CAD
+MX,Mexico,Latin America,MXN
+PA,Panama,Latin America,USD
+CO,Colombia,Latin America,COP
+PE,Peru,Latin America,PEN
+CL,Chile,Latin America,CLP
+BR,Brazil,Latin America,BRL
+ES,Spain,Europe,EUR
+IT,Italy,Europe,EUR
+DE,Germany,Europe,EUR
+GB,United Kingdom,Europe,GBP
+CH,Switzerland,Europe,CHF
+CN,China,Asia,CNY
+JP,Japan,Asia,JPY

@@ -1,0 +1,141 @@
+table fact_payment
+	lineageTag: ad1d800a-2885-4b39-8fd6-fa7076975bc8
+
+	column payment_id
+		dataType: int64
+		lineageTag: 2aa6832a-cb13-4c1a-9f3d-b45385c23181
+		summarizeBy: none
+		sourceColumn: payment_id
+
+	column reference
+		dataType: string
+		lineageTag: 3967550f-d00b-4b34-9d1f-bf4b189e727f
+		sourceColumn: reference
+
+	column customer_id
+		dataType: string
+		isHidden
+		lineageTag: 515934fe-b805-4cb8-baa6-69b6f35dc2ad
+		sourceColumn: customer_id
+
+	column country_code
+		dataType: string
+		isHidden
+		lineageTag: d3b39ac4-8fff-481c-a3bd-298c6d6c67fe
+		sourceColumn: country_code
+
+	column currency_code
+		dataType: string
+		isHidden
+		lineageTag: 85a6876f-f388-4f7a-bbab-26fbfab25e07
+		sourceColumn: currency_code
+
+	column channel_id
+		dataType: int64
+		isHidden
+		lineageTag: 96b76fb9-6981-4b9c-9e36-0c3a1d532844
+		summarizeBy: none
+		sourceColumn: channel_id
+
+	column bank_id
+		dataType: int64
+		isHidden
+		lineageTag: 0b2e1cd3-686d-4e09-ba30-1299f4e70e40
+		summarizeBy: none
+		sourceColumn: bank_id
+
+	column created_date
+		dataType: dateTime
+		isHidden
+		lineageTag: cc51583a-5627-4a9f-82a4-b076fead9cf2
+		sourceColumn: created_date
+
+	column created_at
+		dataType: dateTime
+		lineageTag: a48706fc-b28d-4d94-acac-afa112c11c89
+		sourceColumn: created_at
+
+	column created_hour
+		dataType: int64
+		lineageTag: 33684be0-c291-4810-9e73-d926fe29c755
+		summarizeBy: none
+		sourceColumn: created_hour
+
+	column settled_date
+		dataType: dateTime
+		isHidden
+		lineageTag: 172bc190-faef-4ce3-8db1-7157582019fe
+		sourceColumn: settled_date
+
+	column direction
+		dataType: string
+		lineageTag: e0924391-9677-41fa-8dfc-d485a2e0ba1a
+		sourceColumn: direction
+
+	column payment_type
+		dataType: string
+		lineageTag: 76bf7fa1-8851-4669-89df-8b4e31021301
+		sourceColumn: payment_type
+
+	column status
+		dataType: string
+		lineageTag: ddf8ef71-f0ee-4f4d-af57-962385628a7d
+		sourceColumn: status
+
+	column status_reason
+		dataType: string
+		lineageTag: 29eb9c25-4ba1-494e-99de-d663f6596e87
+		sourceColumn: status_reason
+
+	column amount
+		dataType: decimal
+		lineageTag: ff0f1007-3726-413a-bb91-9deb752e74a4
+		sourceColumn: amount
+
+	column fx_rate_to_usd
+		dataType: double
+		lineageTag: 7fda088e-3b42-4420-bc3d-869e6f2d7be1
+		summarizeBy: none
+		sourceColumn: fx_rate_to_usd
+
+	column amount_usd
+		dataType: decimal
+		lineageTag: 77e0a1b6-dee8-48be-a383-1104f073b097
+		sourceColumn: amount_usd
+
+	column fee_usd
+		dataType: decimal
+		lineageTag: 057a731f-2881-459f-b764-90f3a64f3cb8
+		sourceColumn: fee_usd
+
+	column net_flow_usd
+		dataType: decimal
+		lineageTag: 6d8a0266-ee76-419c-849f-bf9abead1586
+		sourceColumn: net_flow_usd
+
+	column processing_hours
+		dataType: double
+		lineageTag: 619c9e85-ba3c-4241-905b-afa9a2b34cf7
+		sourceColumn: processing_hours
+
+	column business_days_to_settle
+		dataType: int64
+		lineageTag: 5ea93023-a956-4f7e-8ec4-9a319c1337fb
+		summarizeBy: none
+		sourceColumn: business_days_to_settle
+
+	column is_within_sla
+		dataType: int64
+		lineageTag: a986a64e-c2ed-4703-b55f-82b460b059b5
+		summarizeBy: none
+		sourceColumn: is_within_sla
+
+	partition fact_payment = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(SqlServer, SqlDatabase),
+				    Data = Source{[Schema="rpt", Item="fact_payment"]}[Data]
+				in
+				    Data
+

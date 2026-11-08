@@ -1,0 +1,27 @@
+model Model
+	culture: es-ES
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	discourageImplicitMeasures
+	sourceQueryCulture: es-EC
+	valueFilterBehavior: independent
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+annotation PBI_ProTooling = ["DevMode","MCP-PBIModeling"]
+
+ref table dim_date
+ref table dim_customer
+ref table dim_country
+ref table dim_currency
+ref table dim_channel
+ref table dim_correspondent_bank
+ref table fact_payment
+ref table fact_reconciliation
+ref table fact_fx_rate
+ref table _Measures
+
+ref cultureInfo es-ES
+

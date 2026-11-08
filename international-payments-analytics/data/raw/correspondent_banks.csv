@@ -1,0 +1,13 @@
+bank_id,bank_name,swift_code,country_code
+1,Atlantic Clearing Bank,ATCLUS3N,US
+2,Liberty Federal Trust,LBFTUS3N,US
+3,Euro Meridian Bank,EUMRDEFF,DE
+4,Iberia Commerce Bank,IBCOESMM,ES
+5,Thames Settlement Bank,THSTGB2L,GB
+6,Alpine Private Bank,ALPBCHZZ,CH
+7,Maple Leaf Clearing,MPLCCATT,CA
+8,Pacific Rim Banking Corp,PRBCJPJT,JP
+9,Silk Road Trade Bank,SRTBCNSH,CN
+10,Aztec Capital Bank,AZCBMXMM,MX
+11,Andean Regional Bank,ANRBCOBB,CO
+12,Cruzeiro Commercial Bank,CRZCBRSP,BR

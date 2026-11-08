@@ -1,0 +1,49 @@
+relationship payment_created_date
+	fromColumn: fact_payment.created_date
+	toColumn: dim_date.date
+
+relationship payment_settled_date
+	isActive: false
+	fromColumn: fact_payment.settled_date
+	toColumn: dim_date.date
+
+relationship payment_customer
+	fromColumn: fact_payment.customer_id
+	toColumn: dim_customer.customer_id
+
+relationship payment_country
+	fromColumn: fact_payment.country_code
+	toColumn: dim_country.country_code
+
+relationship payment_currency
+	fromColumn: fact_payment.currency_code
+	toColumn: dim_currency.currency_code
+
+relationship payment_channel
+	fromColumn: fact_payment.channel_id
+	toColumn: dim_channel.channel_id
+
+relationship payment_bank
+	fromColumn: fact_payment.bank_id
+	toColumn: dim_correspondent_bank.bank_id
+
+relationship recon_date
+	fromColumn: fact_reconciliation.item_date
+	toColumn: dim_date.date
+
+relationship recon_bank
+	fromColumn: fact_reconciliation.bank_id
+	toColumn: dim_correspondent_bank.bank_id
+
+relationship recon_currency
+	fromColumn: fact_reconciliation.currency_code
+	toColumn: dim_currency.currency_code
+
+relationship fx_date
+	fromColumn: fact_fx_rate.rate_date
+	toColumn: dim_date.date
+
+relationship fx_currency
+	fromColumn: fact_fx_rate.currency_code
+	toColumn: dim_currency.currency_code
+

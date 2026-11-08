@@ -1,0 +1,34 @@
+table dim_correspondent_bank
+	lineageTag: 98e21ef6-623f-4041-aaef-c1c7755c138f
+
+	column bank_id
+		dataType: int64
+		isHidden
+		lineageTag: 83542964-9bc8-41fd-8bed-fcbcf7f68588
+		summarizeBy: none
+		sourceColumn: bank_id
+
+	column bank_name
+		dataType: string
+		lineageTag: e8b98af3-771c-4310-907d-bc7933c2007f
+		sourceColumn: bank_name
+
+	column swift_code
+		dataType: string
+		lineageTag: 18e3d84a-fc40-4911-99b7-524c128714af
+		sourceColumn: swift_code
+
+	column bank_country
+		dataType: string
+		lineageTag: 5ede61bc-bf13-4d46-9dbc-131a966a9243
+		sourceColumn: bank_country
+
+	partition dim_correspondent_bank = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(SqlServer, SqlDatabase),
+				    Data = Source{[Schema="rpt", Item="dim_correspondent_bank"]}[Data]
+				in
+				    Data
+

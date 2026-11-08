@@ -1,0 +1,22 @@
+table dim_currency
+	lineageTag: 4bf4ead7-1c0b-4528-be20-b09cb695c560
+
+	column currency_code
+		dataType: string
+		lineageTag: 1f8de374-b4ad-44e9-a1c7-cf571b2deab0
+		sourceColumn: currency_code
+
+	column currency_name
+		dataType: string
+		lineageTag: a2273d9a-6055-4000-a569-213a1c5e6a58
+		sourceColumn: currency_name
+
+	partition dim_currency = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(SqlServer, SqlDatabase),
+				    Data = Source{[Schema="rpt", Item="dim_currency"]}[Data]
+				in
+				    Data
+
