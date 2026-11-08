@@ -9,7 +9,7 @@ Proyectos de análisis de datos de punta a punta: modelado y limpieza en **SQL S
 | Proyecto | Descripción | Herramientas |
 |---|---|---|
 | [💱 International Payments Analytics](international-payments-analytics/README.md) | Pagos internacionales de un banco ficticio: limpieza de datos, **conciliación automática con bancos corresponsales**, SLA, rentabilidad por segmento y 18 preguntas de negocio en SQL. | SQL Server · T-SQL · Power BI · Python |
-| 🔜 Próximo proyecto | — | — |
+| [🏦 Automatización de la Conciliación de Deuda Externa](https://github.com/BryanAndresR23/Automatizacion-Conciliacion-Deuda) | Caso real del Banco Central del Ecuador reconstruido con datos ficticios: app en Python/Flask que concilia 9 acreedores × 6 conceptos contra el reporte del Ministerio y explica cada diferencia. | Python · Flask · openpyxl · SQLite |
 
 ## Habilidades
 
@@ -34,7 +34,7 @@ End-to-end data analytics projects: modelling and cleaning in **SQL Server**, bu
 | Project | Description | Tools |
 |---|---|---|
 | [💱 International Payments Analytics](international-payments-analytics/README.en.md) | International payments of a fictitious bank: data cleaning, **automatic reconciliation with correspondent banks**, SLA, profitability by segment and 18 business questions in SQL. | SQL Server · T-SQL · Power BI · Python |
-| 🔜 Next project | — | — |
+| [🏦 Public External Debt Reconciliation Automation](https://github.com/BryanAndresR23/Automatizacion-Conciliacion-Deuda) | Real Central Bank of Ecuador case rebuilt with synthetic data: a Python/Flask app that reconciles 9 creditors × 6 concepts against the Ministry report and explains every difference. | Python · Flask · openpyxl · SQLite |
 
 ## Skills
 
