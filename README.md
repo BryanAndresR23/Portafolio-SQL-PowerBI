@@ -9,7 +9,7 @@ Proyectos de análisis de datos de punta a punta: modelado y limpieza en **SQL S
 | Proyecto | Descripción | Herramientas |
 |---|---|---|
 | [💱 International Payments Analytics](international-payments-analytics/README.md) | Pagos internacionales de un banco ficticio: limpieza de datos, **conciliación automática con bancos corresponsales**, SLA, rentabilidad por segmento y 18 preguntas de negocio en SQL. | SQL Server · T-SQL · Power BI · Python |
-| [🏦 Automatización de la Conciliación de Deuda Externa](https://github.com/BryanAndresR23/Automatizacion-Conciliacion-Deuda) | Caso real del Banco Central del Ecuador reconstruido con datos ficticios: app en Python/Flask que concilia 9 acreedores × 6 conceptos contra el reporte del Ministerio y explica cada diferencia. | Python · Flask · openpyxl · SQLite |
+| [🏛️ GIDEP — Gestor Integral de Deuda Externa](https://github.com/BryanAndresR23/GIDEP-Gestor-Deuda-Externa) | El gestor que uso en el Banco Central del Ecuador, reconstruido con datos ficticios: 15 apartados (conciliación con el Ministerio, agenda y validación de pagos, archivo documental, firmas, mensajes Swift del FMI, validación de cuentas y más). | Python · Flask · SQLite · openpyxl |
 
 ## Habilidades
 
@@ -34,7 +34,7 @@ End-to-end data analytics projects: modelling and cleaning in **SQL Server**, bu
 | Project | Description | Tools |
 |---|---|---|
 | [💱 International Payments Analytics](international-payments-analytics/README.en.md) | International payments of a fictitious bank: data cleaning, **automatic reconciliation with correspondent banks**, SLA, profitability by segment and 18 business questions in SQL. | SQL Server · T-SQL · Power BI · Python |
-| [🏦 Public External Debt Reconciliation Automation](https://github.com/BryanAndresR23/Automatizacion-Conciliacion-Deuda) | Real Central Bank of Ecuador case rebuilt with synthetic data: a Python/Flask app that reconciles 9 creditors × 6 concepts against the Ministry report and explains every difference. | Python · Flask · openpyxl · SQLite |
+| [🏛️ GIDEP — Integrated Public External Debt Manager](https://github.com/BryanAndresR23/GIDEP-Gestor-Deuda-Externa) | The manager I use at the Central Bank of Ecuador, rebuilt with synthetic data: 15 sections (reconciliation with the Ministry, payment calendar and validation, document filing, signatures, IMF SWIFT messages, account validation and more). | Python · Flask · SQLite · openpyxl |
 
 ## Skills
 
