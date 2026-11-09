@@ -19,7 +19,7 @@ Proyectos de análisis de datos de punta a punta: modelado y limpieza en **SQL S
 
 ## Contacto
 
-👤 **Bryan Andrés Romo Arias** · [GitHub](https://github.com/BryanAndresR23)
+👤 **Bryan Andrés Romo Arias** · [GitHub](https://github.com/BryanAndresR23) · [LinkedIn](https://www.linkedin.com/in/bryanromo)
 
 ---
 
@@ -44,4 +44,4 @@ End-to-end data analytics projects: modelling and cleaning in **SQL Server**, bu
 
 ## Contact
 
-👤 **Bryan Andrés Romo Arias** · [GitHub](https://github.com/BryanAndresR23)
+👤 **Bryan Andrés Romo Arias** · [GitHub](https://github.com/BryanAndresR23) · [LinkedIn](https://www.linkedin.com/in/bryanromo)

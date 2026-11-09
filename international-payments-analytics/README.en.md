@@ -137,4 +137,4 @@ All data is **synthetic**, created with [`generate_data.py`](scripts/generate_da
 
 ---
 
-👤 **Bryan Andrés Romo Arias** · [GitHub](https://github.com/BryanAndresR23)
+👤 **Bryan Andrés Romo Arias** · [GitHub](https://github.com/BryanAndresR23) · [LinkedIn](https://www.linkedin.com/in/bryanromo)
